@@ -427,33 +427,8 @@
 		 */
 		
 
-		initDropdown : function () {
-			$(".bck-dropdown-button")
-				.find('.fa').text('').end() //Eliminar el &nbsp;
-				.toggle(
-					function(){
-						$(this).parent('.bck-dropdown')
-							.addClass('open')
-							.find('.fa').removeClass('fa-chevron-down').addClass('fa-chevron-up').end()
-							.find(".bck-dropdown-content").slideDown(300, function() {
-								if($(this).parent('.bck-dropdown').hasClass('activities-dropdown')
-									&& blink.activity.currentStyle.getActivePane()) {
-									var actividad = $('.tab-pane.active').attr('id');
-									var index = actividad.split('-').pop();
-									var slide = window['t' + index + '_slide'];
-									slide.onAfterShowSlide();
-								}
-							});
-
-					},
-					function(){
-						$(this).parent('.bck-dropdown')
-							.removeClass('open')
-							.find('.fa').removeClass('fa-chevron-up').addClass('fa-chevron-down').end()
-							.find(".bck-dropdown-content").slideUp(300);
-					}
-				);
-		},
+	
+	
 
 		// Busca la id de la última slide de un dropdown con la que se ha interactuado y
 		// guarda en el suspend data.
