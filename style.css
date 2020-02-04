@@ -1,5 +1,5 @@
 /*ESTILO NOW YOU CSS*/
-/*Now_You*/
+/*Demo_Now_You*/
 
 /* Fonts */
 
@@ -325,7 +325,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 
 /*HEADER*/
 
-.Now_You-navbar h3 {
+.Demo_Now_You-navbar h3 {
   width: 75%;
   margin: auto;
   margin-bottom: 15px;
@@ -401,7 +401,7 @@ body.is_app #actividad .class_slide {
 
 /* NAVBAR (Breadcums) */
 
-.Now_You-navbar {
+.Demo_Now_You-navbar {
   position: fixed;
   bottom: 0;
   left: 0;
@@ -412,7 +412,7 @@ body.is_app #actividad .class_slide {
   background: #545759;;
 }
 
-body.is_app .Now_You-navbar {
+body.is_app .Demo_Now_You-navbar {
   /*top: 0;*/
   -webkit-transition: top 0.5s linear;
   -o-transition: top 0.5s linear;
@@ -420,11 +420,11 @@ body.is_app .Now_You-navbar {
   transition: top 0.5s linear;
 }
 
-body.is_app .Now_You-navbar.ocultar {
+body.is_app .Demo_Now_You-navbar.ocultar {
   top: -136px;
 }
 
-.Now_You-navbar .navbar-content {
+.Demo_Now_You-navbar .navbar-content {
   width: 100%;
   height: 100%;
   padding: 0 20px;
@@ -444,7 +444,7 @@ body.is_app .Now_You-navbar.ocultar {
   height: 40px;
 }
 
-.Now_You-navbar .copyright {
+.Demo_Now_You-navbar .copyright {
   color: #fff;
   line-height: 5.0rem;
 }
@@ -589,7 +589,7 @@ vertical-align: top;
 /*Icono audio*/
 
 #actividad .player.audio {
-  background-image: url(Images/icono-audio-Now_You.png);
+  background-image: url(Images/icono-audio-Demo_Now_You.png);
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -707,7 +707,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-title-8:before {
-  background-image: url(Images/before-quiz-Now_You.jpg);
+  background-image: url(Images/before-quiz-Demo_Now_You.jpg);
   content: '';
   background-size: contain;
   background-repeat: no-repeat;
@@ -731,7 +731,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-title-4:before {
-  background-image: url(Images/before-phonics-png-Now_You.png);
+  background-image: url(Images/before-phonics-png-Demo_Now_You.png);
   content: '';
   background-size: contain;
   background-repeat: no-repeat;
@@ -746,7 +746,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*TÃ­tulo Project*/
 .bck-title-5 {
-  background-image: url(Images/project-Now_You.png);
+  background-image: url(Images/project-Demo_Now_You.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 100%;
@@ -1124,11 +1124,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*BOXES*/
 
-/*CAJA1 - CajaAchieve!*/
+/*CAJA1 - CajaUnit*/
 
 .bck-box.bck-box-1 {
     position: relative;
     background: url(/images/rich_english_U7_pg64_img_0001.png) repeat-y;
+    /*/useruploads/r/a/154358206/activity_other_imported/rich_english_U7_pg64_img_0001.png*/
     padding: 23px 18px 91px 83px;
     background-size: cover;
     top: -91px;
@@ -1237,7 +1238,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-3 .bck-title:before {
-  background-image: url(Images/before-video-Now_You.png);
+  background-image: url(Images/before-video-Demo_Now_You.png);
   content: '';
   background-size: contain;
   background-repeat: no-repeat;
@@ -1343,7 +1344,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*icono Hablar2*/
 .icon-hablar2:before {
-  background-image: url(Images/icono-hablar2-Now_You.png);
+  background-image: url(Images/icono-hablar2-Demo_Now_You.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
@@ -1377,7 +1378,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*icono Lapiz*/
 .icon-lapiz:before {
-  background-image: url(Images/icono-lapiz-Now_You.png);
+  background-image: url(Images/icono-lapiz-Demo_Now_You.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
@@ -1394,7 +1395,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*icono Libro*/
 .icon-libro:before {
-  background-image: url(Images/icono-libro-Now_You.png);
+  background-image: url(Images/icono-libro-Demo_Now_You.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
@@ -1413,7 +1414,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*icono Musica*/
 .icon-musica:before {
-  background-image: url(Images/icono-musica-Now_You.png);
+  background-image: url(Images/icono-musica-Demo_Now_You.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
@@ -1464,7 +1465,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*icono Circulo*/
 .icon-circulo:before {
-  background-image: url(Images/icono-circulo-Now_You.png);
+  background-image: url(Images/icono-circulo-Demo_Now_You.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
@@ -1481,7 +1482,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*icono Cuadrados*/
 .icon-cuadrados:before {
-  background-image: url(Images/icono-cuadrados-Now_You.png);
+  background-image: url(Images/icono-cuadrados-Demo_Now_You.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
@@ -1793,100 +1794,100 @@ table td.bck-td-2 {
 /*Elementos Unit 2 - Rosa*/
 
 /*Titulo Slide*/
-.unittag_rosa_Now_You #actividad .content .header .title h3 {
+.unittag_rosa_Demo_Now_You #actividad .content .header .title h3 {
   background-color: #ba007c; 
 }
 
 /*Lista 1*/
-.unittag_rosa_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
-.unittag_rosa_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
-.unittag_rosa_Now_You #actividad .popover-content .bck-ol-1 li:before,
-.unittag_rosa_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_rosa_Demo_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_rosa_Demo_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_rosa_Demo_Now_You #actividad .popover-content .bck-ol-1 li:before,
+.unittag_rosa_Demo_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
   color: #ba007c;
 }
 
 /*Lista 2*/
-.unittag_rosa_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
-.unittag_rosa_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
-.unittag_rosa_Now_You #actividad .popover-content .bck-ol-2 li:before,
-.unittag_rosa_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_rosa_Demo_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_rosa_Demo_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_rosa_Demo_Now_You #actividad .popover-content .bck-ol-2 li:before,
+.unittag_rosa_Demo_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
   color: #ba007c;
 }
 
 /*Lista 3 - Circulo*/
-.unittag_rosa_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
-.unittag_rosa_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
-.unittag_rosa_Now_You #actividad .popover-content .bck-ol-3 li:before,
-.unittag_rosa_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_rosa_Demo_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_rosa_Demo_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_rosa_Demo_Now_You #actividad .popover-content .bck-ol-3 li:before,
+.unittag_rosa_Demo_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
   color: #ba007c;
   border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.unittag_rosa_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
-.unittag_rosa_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.unittag_rosa_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
-.unittag_rosa_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_rosa_Demo_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_rosa_Demo_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_rosa_Demo_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_rosa_Demo_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
   color: #ba007c;
 }
 
 
 /*Lista desordenada 3*/
-.unittag_rosa_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
-.unittag_rosa_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.unittag_rosa_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_rosa_Demo_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_rosa_Demo_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_rosa_Demo_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
   background-color: #ba007c;
 }
 
 
 /*Caja borde color*/
-.unittag_rosa_Now_You .bck-box.bck-box-4 {
+.unittag_rosa_Demo_Now_You .bck-box.bck-box-4 {
   border: 2px solid #ba007c;
 }
 
-.unittag_rosa_Now_You .bck-title-1 {
+.unittag_rosa_Demo_Now_You .bck-title-1 {
   color: #ba007c;
 }
 
-.unittag_rosa_Now_You .bck-title-9 {
+.unittag_rosa_Demo_Now_You .bck-title-9 {
   color: #ba007c;
 }
 
 /*Dropdown 1*/
 
-.unittag_rosa_Now_You .bck-dropdown.bck-dropdown-1 {
+.unittag_rosa_Demo_Now_You .bck-dropdown.bck-dropdown-1 {
   background-color: #ba007c;
 }
 
 
-.unittag_rosa_Now_You .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_rosa_Demo_Now_You .bck-dropdown-1 .bck-dropdown-icon {
   background-color: #ba007c;
 }
 
-.unittag_rosa_Now_You .bck-table-2 {
+.unittag_rosa_Demo_Now_You .bck-table-2 {
   border: 1px solid #ba007c;
 }
 
-.unittag_rosa_Now_You .bck-table-2 td {
+.unittag_rosa_Demo_Now_You .bck-table-2 td {
   border: 1px solid #ba007c;
 }
 
 /*celda rosa*/
-.unittag_rosa_Now_You .bck-td-2 {
+.unittag_rosa_Demo_Now_You .bck-td-2 {
   color: #ffffff;
   background: #ba007c;
   text-align: center;
 }
 
-.unittag_rosa_Now_You .fillblanks-draggable-wrapper .response {
+.unittag_rosa_Demo_Now_You .fillblanks-draggable-wrapper .response {
   border: 3px solid #ba007c;
 }
 
-.unittag_rosa_Now_You .bck-title-4 {
+.unittag_rosa_Demo_Now_You .bck-title-4 {
   color: #ba007c;
 }
 
-.unittag_rosa_Now_You .slide_main input:focus {
+.unittag_rosa_Demo_Now_You .slide_main input:focus {
   border-color: #ba007c;
 }
 
@@ -1895,99 +1896,99 @@ table td.bck-td-2 {
 /*Elementos Unit 3 - Amarillo*/
 
 /*Titulo Slide*/
-.unittag_amarillo_Now_You #actividad .content .header .title h3 {
+.unittag_amarillo_Demo_Now_You #actividad .content .header .title h3 {
   background-color: #e9bb00; 
 }
 
 /*Lista 1*/
-.unittag_amarillo_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
-.unittag_amarillo_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
-.unittag_amarillo_Now_You #actividad .popover-content .bck-ol-1 li:before,
-.unittag_amarillo_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_amarillo_Demo_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .popover-content .bck-ol-1 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
   color: #e9bb00;
 }
 
 /*Lista 2*/
-.unittag_amarillo_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
-.unittag_amarillo_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
-.unittag_amarillo_Now_You #actividad .popover-content .bck-ol-2 li:before,
-.unittag_amarillo_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_amarillo_Demo_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .popover-content .bck-ol-2 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
   color: #e9bb00;
 }
 
 /*Lista 3 - Circulo*/
-.unittag_amarillo_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
-.unittag_amarillo_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
-.unittag_amarillo_Now_You #actividad .popover-content .bck-ol-3 li:before,
-.unittag_amarillo_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_amarillo_Demo_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .popover-content .bck-ol-3 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
   color: #e9bb00;
   border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.unittag_amarillo_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
-.unittag_amarillo_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.unittag_amarillo_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
-.unittag_amarillo_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_amarillo_Demo_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
   color: #e9bb00;
 }
 
 
 /*Lista desordenada 3*/
-.unittag_amarillo_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
-.unittag_amarillo_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.unittag_amarillo_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_amarillo_Demo_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_amarillo_Demo_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_amarillo_Demo_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
   background-color: #e9bb00;
 }
 
 /*Caja borde color*/
-.unittag_amarillo_Now_You .bck-box.bck-box-4 {
+.unittag_amarillo_Demo_Now_You .bck-box.bck-box-4 {
   border: 2px solid #e9bb00;
 }
 
-.unittag_amarillo_Now_You .bck-title-1 {
+.unittag_amarillo_Demo_Now_You .bck-title-1 {
   color: #e9bb00;
 }
 
-.unittag_amarillo_Now_You .bck-title-9 {
+.unittag_amarillo_Demo_Now_You .bck-title-9 {
   color: #e9bb00;
 }
 
 /*Dropdown 1*/
 
-.unittag_amarillo_Now_You .bck-dropdown.bck-dropdown-1 {
+.unittag_amarillo_Demo_Now_You .bck-dropdown.bck-dropdown-1 {
   background-color: #e9bb00;
 }
 
 
-.unittag_amarillo_Now_You .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_amarillo_Demo_Now_You .bck-dropdown-1 .bck-dropdown-icon {
   background-color: #e9bb00;
 }
 
-.unittag_amarillo_Now_You .bck-table-2 {
+.unittag_amarillo_Demo_Now_You .bck-table-2 {
   border: 1px solid #e9bb00;
 }
 
-.unittag_amarillo_Now_You .bck-table-2 td {
+.unittag_amarillo_Demo_Now_You .bck-table-2 td {
   border: 1px solid #e9bb00;
 }
 
 /*celda amarillo*/
-.unittag_amarillo_Now_You .bck-td-2 {
+.unittag_amarillo_Demo_Now_You .bck-td-2 {
   color: #ffffff;
   background: #e9bb00;
   text-align: center;
 }
 
-.unittag_amarillo_Now_You .fillblanks-draggable-wrapper .response {
+.unittag_amarillo_Demo_Now_You .fillblanks-draggable-wrapper .response {
   border: 3px solid #e9bb00;
 }
 
-.unittag_amarillo_Now_You .bck-title-4 {
+.unittag_amarillo_Demo_Now_You .bck-title-4 {
   color: #e9bb00;
 }
 
-.unittag_amarillo_Now_You .slide_main input:focus {
+.unittag_amarillo_Demo_Now_You .slide_main input:focus {
   border-color: #e9bb00;
 }
 
@@ -1997,100 +1998,100 @@ table td.bck-td-2 {
 /*Elementos Unit 4 - Verde claro*/
 
 /*Titulo Slide*/
-.unittag_verdeclaro_Now_You #actividad .content .header .title h3 {
+.unittag_verdeclaro_Demo_Now_You #actividad .content .header .title h3 {
   background-color: #b6c72c; 
 }
 
 /*Lista 1*/
-.unittag_verdeclaro_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
-.unittag_verdeclaro_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
-.unittag_verdeclaro_Now_You #actividad .popover-content .bck-ol-1 li:before,
-.unittag_verdeclaro_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_verdeclaro_Demo_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .popover-content .bck-ol-1 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
   color: #b6c72c;
 }
 
 /*Lista 2*/
-.unittag_verdeclaro_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
-.unittag_verdeclaro_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
-.unittag_verdeclaro_Now_You #actividad .popover-content .bck-ol-2 li:before,
-.unittag_verdeclaro_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_verdeclaro_Demo_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .popover-content .bck-ol-2 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
   color: #b6c72c;
 }
 
 /*Lista 3 - Circulo*/
-.unittag_verdeclaro_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
-.unittag_verdeclaro_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
-.unittag_verdeclaro_Now_You #actividad .popover-content .bck-ol-3 li:before,
-.unittag_verdeclaro_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_verdeclaro_Demo_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .popover-content .bck-ol-3 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
   color: #b6c72c;
   border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.unittag_verdeclaro_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
-.unittag_verdeclaro_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.unittag_verdeclaro_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
-.unittag_verdeclaro_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_verdeclaro_Demo_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
   color: #b6c72c;
 }
 
 
 /*Lista desordenada 3*/
-.unittag_verdeclaro_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
-.unittag_verdeclaro_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.unittag_verdeclaro_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_verdeclaro_Demo_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_verdeclaro_Demo_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_verdeclaro_Demo_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
   background-color: #b6c72c;
 }
 
 
 /*Caja borde color*/
-.unittag_verdeclaro_Now_You .bck-box.bck-box-4 {
+.unittag_verdeclaro_Demo_Now_You .bck-box.bck-box-4 {
   border: 2px solid #b6c72c;
 }
 
-.unittag_verdeclaro_Now_You .bck-title-1 {
+.unittag_verdeclaro_Demo_Now_You .bck-title-1 {
   color: #b6c72c;
 }
 
-.unittag_verdeclaro_Now_You .bck-title-9 {
+.unittag_verdeclaro_Demo_Now_You .bck-title-9 {
   color: #b6c72c;
 }
 
 /*Dropdown 1*/
 
-.unittag_verdeclaro_Now_You .bck-dropdown.bck-dropdown-1 {
+.unittag_verdeclaro_Demo_Now_You .bck-dropdown.bck-dropdown-1 {
   background-color: #b6c72c;
 }
 
 
-.unittag_verdeclaro_Now_You .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_verdeclaro_Demo_Now_You .bck-dropdown-1 .bck-dropdown-icon {
   background-color: #b6c72c;
 }
 
-.unittag_verdeclaro_Now_You .bck-table-2 {
+.unittag_verdeclaro_Demo_Now_You .bck-table-2 {
   border: 1px solid #b6c72c;
 }
 
-.unittag_verdeclaro_Now_You .bck-table-2 td {
+.unittag_verdeclaro_Demo_Now_You .bck-table-2 td {
   border: 1px solid #b6c72c;
 }
 
 /*celda verdeclaro*/
-.unittag_verdeclaro_Now_You .bck-td-2 {
+.unittag_verdeclaro_Demo_Now_You .bck-td-2 {
   color: #ffffff;
   background: #b6c72c;
   text-align: center;
 }
 
-.unittag_verdeclaro_Now_You .fillblanks-draggable-wrapper .response {
+.unittag_verdeclaro_Demo_Now_You .fillblanks-draggable-wrapper .response {
   border: 3px solid #b6c72c;
 }
 
-.unittag_verdeclaro_Now_You .bck-title-4 {
+.unittag_verdeclaro_Demo_Now_You .bck-title-4 {
   color: #b6c72c;
 }
 
-.unittag_verdeclaro_Now_You .slide_main input:focus {
+.unittag_verdeclaro_Demo_Now_You .slide_main input:focus {
   border-color: #b6c72c;
 }
 
@@ -2099,99 +2100,99 @@ table td.bck-td-2 {
 /*Elementos Unit 5 - Azul Oscuro*/
 
 /*Titulo Slide*/
-.unittag_azuloscuro_Now_You #actividad .content .header .title h3 {
+.unittag_azuloscuro_Demo_Now_You #actividad .content .header .title h3 {
   background-color: #005ca4; 
 }
 
 /*Lista 1*/
-.unittag_azuloscuro_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
-.unittag_azuloscuro_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
-.unittag_azuloscuro_Now_You #actividad .popover-content .bck-ol-1 li:before,
-.unittag_azuloscuro_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_azuloscuro_Demo_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .popover-content .bck-ol-1 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
   color: #005ca4;
 }
 
 /*Lista 2*/
-.unittag_azuloscuro_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
-.unittag_azuloscuro_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
-.unittag_azuloscuro_Now_You #actividad .popover-content .bck-ol-2 li:before,
-.unittag_azuloscuro_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_azuloscuro_Demo_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .popover-content .bck-ol-2 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
   color: #005ca4;
 }
 
 /*Lista 3 - Circulo*/
-.unittag_azuloscuro_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
-.unittag_azuloscuro_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
-.unittag_azuloscuro_Now_You #actividad .popover-content .bck-ol-3 li:before,
-.unittag_azuloscuro_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_azuloscuro_Demo_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .popover-content .bck-ol-3 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
   color: #005ca4;
   border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.unittag_azuloscuro_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
-.unittag_azuloscuro_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.unittag_azuloscuro_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
-.unittag_azuloscuro_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_azuloscuro_Demo_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
   color: #005ca4;
 }
 
 
 /*Lista desordenada 3*/
-.unittag_azuloscuro_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
-.unittag_azuloscuro_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.unittag_azuloscuro_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_azuloscuro_Demo_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_azuloscuro_Demo_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_azuloscuro_Demo_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
   background-color: #005ca4;
 }
 
 /*Caja borde color*/
-.unittag_azuloscuro_Now_You .bck-box.bck-box-4 {
+.unittag_azuloscuro_Demo_Now_You .bck-box.bck-box-4 {
   border: 2px solid #005ca4;
 }
 
-.unittag_azuloscuro_Now_You .bck-title-1 {
+.unittag_azuloscuro_Demo_Now_You .bck-title-1 {
   color: #005ca4;
 }
 
-.unittag_azuloscuro_Now_You .bck-title-9 {
+.unittag_azuloscuro_Demo_Now_You .bck-title-9 {
   color: #005ca4;
 }
 
 /*Dropdown 1*/
 
-.unittag_azuloscuro_Now_You .bck-dropdown.bck-dropdown-1 {
+.unittag_azuloscuro_Demo_Now_You .bck-dropdown.bck-dropdown-1 {
   background-color: #005ca4;
 }
 
 
-.unittag_azuloscuro_Now_You .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_azuloscuro_Demo_Now_You .bck-dropdown-1 .bck-dropdown-icon {
   background-color: #005ca4;
 }
 
-.unittag_azuloscuro_Now_You .bck-table-2 {
+.unittag_azuloscuro_Demo_Now_You .bck-table-2 {
   border: 1px solid #005ca4;
 }
 
-.unittag_azuloscuro_Now_You .bck-table-2 td {
+.unittag_azuloscuro_Demo_Now_You .bck-table-2 td {
   border: 1px solid #005ca4;
 }
 
 /*celda azuloscuro*/
-.unittag_azuloscuro_Now_You .bck-td-2 {
+.unittag_azuloscuro_Demo_Now_You .bck-td-2 {
   color: #ffffff;
   background: #005ca4;
   text-align: center;
 }
 
-.unittag_azuloscuro_Now_You .fillblanks-draggable-wrapper .response {
+.unittag_azuloscuro_Demo_Now_You .fillblanks-draggable-wrapper .response {
   border: 3px solid #005ca4;
 }
 
-.unittag_azuloscuro_Now_You .bck-title-4 {
+.unittag_azuloscuro_Demo_Now_You .bck-title-4 {
   color: #005ca4;
 }
 
-.unittag_azuloscuro_Now_You .slide_main input:focus {
+.unittag_azuloscuro_Demo_Now_You .slide_main input:focus {
   border-color: #005ca4;
 }
 
@@ -2200,99 +2201,99 @@ table td.bck-td-2 {
 /*Elementos Unit 6 - Morado*/
 
 /*Titulo Slide*/
-.unittag_morado_Now_You #actividad .content .header .title h3 {
+.unittag_morado_Demo_Now_You #actividad .content .header .title h3 {
   background-color: #66127d; 
 }
 
 /*Lista 1*/
-.unittag_morado_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
-.unittag_morado_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
-.unittag_morado_Now_You #actividad .popover-content .bck-ol-1 li:before,
-.unittag_morado_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_morado_Demo_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_morado_Demo_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_morado_Demo_Now_You #actividad .popover-content .bck-ol-1 li:before,
+.unittag_morado_Demo_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
   color: #66127d;
 }
 
 /*Lista 2*/
-.unittag_morado_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
-.unittag_morado_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
-.unittag_morado_Now_You #actividad .popover-content .bck-ol-2 li:before,
-.unittag_morado_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_morado_Demo_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_morado_Demo_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_morado_Demo_Now_You #actividad .popover-content .bck-ol-2 li:before,
+.unittag_morado_Demo_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
   color: #66127d;
 }
 
 /*Lista 3 - Circulo*/
-.unittag_morado_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
-.unittag_morado_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
-.unittag_morado_Now_You #actividad .popover-content .bck-ol-3 li:before,
-.unittag_morado_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_morado_Demo_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_morado_Demo_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_morado_Demo_Now_You #actividad .popover-content .bck-ol-3 li:before,
+.unittag_morado_Demo_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
   color: #66127d;
   border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.unittag_morado_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
-.unittag_morado_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.unittag_morado_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
-.unittag_morado_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_morado_Demo_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_morado_Demo_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_morado_Demo_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_morado_Demo_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
   color: #66127d;
 }
 
 
 /*Lista desordenada 3*/
-.unittag_morado_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
-.unittag_morado_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.unittag_morado_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_morado_Demo_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_morado_Demo_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_morado_Demo_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
   background-color: #66127d;
 }
 
 /*Caja borde color*/
-.unittag_morado_Now_You .bck-box.bck-box-4 {
+.unittag_morado_Demo_Now_You .bck-box.bck-box-4 {
   border: 2px solid #66127d;
 }
 
-.unittag_morado_Now_You .bck-title-1 {
+.unittag_morado_Demo_Now_You .bck-title-1 {
   color: #66127d;
 }
 
-.unittag_morado_Now_You .bck-title-9 {
+.unittag_morado_Demo_Now_You .bck-title-9 {
   color: #66127d;
 }
 
 /*Dropdown 1*/
 
-.unittag_morado_Now_You .bck-dropdown.bck-dropdown-1 {
+.unittag_morado_Demo_Now_You .bck-dropdown.bck-dropdown-1 {
   background-color: #66127d;
 }
 
 
-.unittag_morado_Now_You .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_morado_Demo_Now_You .bck-dropdown-1 .bck-dropdown-icon {
   background-color: #66127d;
 }
 
-.unittag_morado_Now_You .bck-table-2 {
+.unittag_morado_Demo_Now_You .bck-table-2 {
   border: 1px solid #66127d;
 }
 
-.unittag_morado_Now_You .bck-table-2 td {
+.unittag_morado_Demo_Now_You .bck-table-2 td {
   border: 1px solid #66127d;
 }
 
 /*celda morado*/
-.unittag_morado_Now_You .bck-td-2 {
+.unittag_morado_Demo_Now_You .bck-td-2 {
   color: #ffffff;
   background: #66127d;
   text-align: center;
 }
 
-.unittag_morado_Now_You .fillblanks-draggable-wrapper .response {
+.unittag_morado_Demo_Now_You .fillblanks-draggable-wrapper .response {
   border: 3px solid #66127d;
 }
 
-.unittag_morado_Now_You .bck-title-4 {
+.unittag_morado_Demo_Now_You .bck-title-4 {
   color: #66127d;
 }
 
-.unittag_morado_Now_You .slide_main input:focus {
+.unittag_morado_Demo_Now_You .slide_main input:focus {
   border-color: #66127d;
 }
 
@@ -2302,99 +2303,99 @@ table td.bck-td-2 {
 /*Elementos Unit 7 - Naranja*/
 
 /*Titulo Slide*/
-.unittag_naranja_Now_You #actividad .content .header .title h3 {
+.unittag_naranja_Demo_Now_You #actividad .content .header .title h3 {
   background-color: #db9600; 
 }
 
 /*Lista 1*/
-.unittag_naranja_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
-.unittag_naranja_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
-.unittag_naranja_Now_You #actividad .popover-content .bck-ol-1 li:before,
-.unittag_naranja_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_naranja_Demo_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_naranja_Demo_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_naranja_Demo_Now_You #actividad .popover-content .bck-ol-1 li:before,
+.unittag_naranja_Demo_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
   color: #db9600;
 }
 
 /*Lista 2*/
-.unittag_naranja_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
-.unittag_naranja_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
-.unittag_naranja_Now_You #actividad .popover-content .bck-ol-2 li:before,
-.unittag_naranja_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_naranja_Demo_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_naranja_Demo_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_naranja_Demo_Now_You #actividad .popover-content .bck-ol-2 li:before,
+.unittag_naranja_Demo_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
   color: #db9600;
 }
 
 /*Lista 3 - Circulo*/
-.unittag_naranja_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
-.unittag_naranja_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
-.unittag_naranja_Now_You #actividad .popover-content .bck-ol-3 li:before,
-.unittag_naranja_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_naranja_Demo_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_naranja_Demo_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_naranja_Demo_Now_You #actividad .popover-content .bck-ol-3 li:before,
+.unittag_naranja_Demo_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
   color: #db9600;
   border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.unittag_naranja_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
-.unittag_naranja_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.unittag_naranja_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
-.unittag_naranja_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_naranja_Demo_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_naranja_Demo_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_naranja_Demo_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_naranja_Demo_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
   color: #db9600;
 }
 
 
 /*Lista desordenada 3*/
-.unittag_naranja_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
-.unittag_naranja_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.unittag_naranja_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_naranja_Demo_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_naranja_Demo_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_naranja_Demo_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
   background-color: #db9600;
 }
 
 /*Caja borde color*/
-.unittag_naranja_Now_You .bck-box.bck-box-4 {
+.unittag_naranja_Demo_Now_You .bck-box.bck-box-4 {
   border: 2px solid #db9600;
 }
 
-.unittag_naranja_Now_You .bck-title-1 {
+.unittag_naranja_Demo_Now_You .bck-title-1 {
   color: #db9600;
 }
 
-.unittag_naranja_Now_You .bck-title-9 {
+.unittag_naranja_Demo_Now_You .bck-title-9 {
   color: #db9600;
 }
 
 /*Dropdown 1*/
 
-.unittag_naranja_Now_You .bck-dropdown.bck-dropdown-1 {
+.unittag_naranja_Demo_Now_You .bck-dropdown.bck-dropdown-1 {
   background-color: #db9600;
 }
 
 
-.unittag_naranja_Now_You .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_naranja_Demo_Now_You .bck-dropdown-1 .bck-dropdown-icon {
   background-color: #db9600;
 }
 
-.unittag_naranja_Now_You .bck-table-2 {
+.unittag_naranja_Demo_Now_You .bck-table-2 {
   border: 1px solid #db9600;
 }
 
-.unittag_naranja_Now_You .bck-table-2 td {
+.unittag_naranja_Demo_Now_You .bck-table-2 td {
   border: 1px solid #db9600;
 }
 
 /*celda naranja*/
-.unittag_naranja_Now_You .bck-td-2 {
+.unittag_naranja_Demo_Now_You .bck-td-2 {
   color: #ffffff;
   background: #db9600;
   text-align: center;
 }
 
-.unittag_naranja_Now_You .fillblanks-draggable-wrapper .response {
+.unittag_naranja_Demo_Now_You .fillblanks-draggable-wrapper .response {
   border: 3px solid #db9600;
 }
 
-.unittag_naranja_Now_You .bck-title-4 {
+.unittag_naranja_Demo_Now_You .bck-title-4 {
   color: #db9600;
 }
 
-.unittag_naranja_Now_You .slide_main input:focus {
+.unittag_naranja_Demo_Now_You .slide_main input:focus {
   border-color: #db9600;
 }
 
@@ -2404,99 +2405,99 @@ table td.bck-td-2 {
 /*Elementos Unit 8 - Verde*/
 
 /*Titulo Slide*/
-.unittag_verde_Now_You #actividad .content .header .title h3 {
+.unittag_verde_Demo_Now_You #actividad .content .header .title h3 {
   background-color: #71a93c; 
 }
 
 /*Lista 1*/
-.unittag_verde_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
-.unittag_verde_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
-.unittag_verde_Now_You #actividad .popover-content .bck-ol-1 li:before,
-.unittag_verde_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
+.unittag_verde_Demo_Now_You #actividad .content .cke_contents .bck-ol-1 li:before,
+.unittag_verde_Demo_Now_You #actividad .content .texto_curso .bck-ol-1 li:before,
+.unittag_verde_Demo_Now_You #actividad .popover-content .bck-ol-1 li:before,
+.unittag_verde_Demo_Now_You #actividad .content .workspace ul li .bck-ol-1 li:before {
   color: #71a93c;
 }
 
 /*Lista 2*/
-.unittag_verde_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
-.unittag_verde_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
-.unittag_verde_Now_You #actividad .popover-content .bck-ol-2 li:before,
-.unittag_verde_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
+.unittag_verde_Demo_Now_You #actividad .content .cke_contents .bck-ol-2 li:before,
+.unittag_verde_Demo_Now_You #actividad .content .texto_curso .bck-ol-2 li:before,
+.unittag_verde_Demo_Now_You #actividad .popover-content .bck-ol-2 li:before,
+.unittag_verde_Demo_Now_You #actividad .content .workspace ul li .bck-ol-2 li:before {
   color: #71a93c;
 }
 
 /*Lista 3 - Circulo*/
-.unittag_verde_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
-.unittag_verde_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
-.unittag_verde_Now_You #actividad .popover-content .bck-ol-3 li:before,
-.unittag_verde_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
+.unittag_verde_Demo_Now_You #actividad .content .cke_contents .bck-ol-3 li:before,
+.unittag_verde_Demo_Now_You #actividad .content .texto_curso .bck-ol-3 li:before,
+.unittag_verde_Demo_Now_You #actividad .popover-content .bck-ol-3 li:before,
+.unittag_verde_Demo_Now_You #actividad .content .workspace ul li .bck-ol-3 li:before {
   color: #71a93c;
   border: 3px solid #BFD630;
 }
 
 /*Lista LetraMinus*/
-.unittag_verde_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
-.unittag_verde_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
-.unittag_verde_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
-.unittag_verde_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
+.unittag_verde_Demo_Now_You #actividad .content .cke_contents .bck-ol-4 li:before,
+.unittag_verde_Demo_Now_You #actividad .content .texto_curso ol.bck-ol-4 li:before,
+.unittag_verde_Demo_Now_You #actividad .popover-content ol.bck-ol-4 li:before,
+.unittag_verde_Demo_Now_You #actividad .content .workspace ul li ol.bck-ol-4 li:before {
   color: #71a93c;
 }
 
 
 /*Lista desordenada 3*/
-.unittag_verde_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
-.unittag_verde_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
-.unittag_verde_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
+.unittag_verde_Demo_Now_You #actividad .content .texto_curso .bck-ul-3 li:before,
+.unittag_verde_Demo_Now_You #actividad .content .workspace ul li .bck-ul-3 li:before ,
+.unittag_verde_Demo_Now_You #actividad .popover-background.shown .popover-content > ul > li:before{
   background-color: #71a93c;
 }
 
 /*Caja borde color*/
-.unittag_verde_Now_You .bck-box.bck-box-4 {
+.unittag_verde_Demo_Now_You .bck-box.bck-box-4 {
   border: 2px solid #71a93c;
 }
 
-.unittag_verde_Now_You .bck-title-1 {
+.unittag_verde_Demo_Now_You .bck-title-1 {
   color: #71a93c;
 }
 
-.unittag_verde_Now_You .bck-title-9 {
+.unittag_verde_Demo_Now_You .bck-title-9 {
   color: #71a93c;
 }
 
 /*Dropdown 1*/
 
-.unittag_verde_Now_You .bck-dropdown.bck-dropdown-1 {
+.unittag_verde_Demo_Now_You .bck-dropdown.bck-dropdown-1 {
   background-color: #71a93c;
 }
 
 
-.unittag_verde_Now_You .bck-dropdown-1 .bck-dropdown-icon {
+.unittag_verde_Demo_Now_You .bck-dropdown-1 .bck-dropdown-icon {
   background-color: #71a93c;
 }
 
-.unittag_verde_Now_You .bck-table-2 {
+.unittag_verde_Demo_Now_You .bck-table-2 {
   border: 1px solid #71a93c;
 }
 
-.unittag_verde_Now_You .bck-table-2 td {
+.unittag_verde_Demo_Now_You .bck-table-2 td {
   border: 1px solid #71a93c;
 }
 
 /*celda verde*/
-.unittag_verde_Now_You .bck-td-2 {
+.unittag_verde_Demo_Now_You .bck-td-2 {
   color: #ffffff;
   background: #71a93c;
   text-align: center;
 }
 
-.unittag_verde_Now_You .fillblanks-draggable-wrapper .response {
+.unittag_verde_Demo_Now_You .fillblanks-draggable-wrapper .response {
   border: 3px solid #71a93c;
 }
 
-.unittag_verde_Now_You .bck-title-4 {
+.unittag_verde_Demo_Now_You .bck-title-4 {
   color: #71a93c;
 }
 
-.unittag_verde_Now_You .slide_main input:focus {
+.unittag_verde_Demo_Now_You .slide_main input:focus {
   border-color: #71a93c;
 }
 
@@ -2544,7 +2545,7 @@ table td.bck-td-2 {
 
       #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
       display: inline-block;
-      background-image: url(Images/icono-audio-Now_You.png);
+      background-image: url(Images/icono-audio-Demo_Now_You.png);
       background-color: rgba(0, 128, 0, 0)!important;
       background-repeat: no-repeat;
       background-size: contain;
@@ -2573,7 +2574,7 @@ table td.bck-td-2 {
 @media only screen and (max-width: 1024px) and (min-width: 769px)  {
   #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
       display: inline-block;
-      background-image: url(Images/icono-audio-Now_You.png);
+      background-image: url(Images/icono-audio-Demo_Now_You.png);
       background-color: rgba(0, 128, 0, 0)!important;
       background-repeat: no-repeat;
       background-size: contain;
