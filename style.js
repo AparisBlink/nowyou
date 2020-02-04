@@ -551,6 +551,9 @@
 			}
 		},
 
+
+
+
 		/**
 		 * Devuelve el offsetTop del elemento que agrupa a las transparencia concatenada
 		 *
@@ -567,14 +570,7 @@
 		    }
 		    return false;
  		},
-
- 		activityDropdown: function () {
-			return false;
-		}
-
 	};
-
-
 
 	nowyouStyle.prototype = _.extend({}, new blink.theme.styles.basic(), nowyouStyle.prototype);
 
@@ -602,6 +598,8 @@ $(document).ready(function() {
 		}
 		blink.activity.currentStyle.setActivePane && blink.activity.currentStyle.setActivePane(activePane);
 	});
+
+
 
 
 });
