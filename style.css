@@ -180,7 +180,7 @@ input, button, select, textarea {
 	padding-bottom: 0px;
 }
 
-.mcgrawhill-navbar h3 {
+.nowyou-navbar h3 {
 	width: 75%;
 	margin: auto;
 	margin-bottom: 15px;
@@ -323,7 +323,7 @@ fieldset[disabled] .slide_main input {
     background: linear-gradient(to left, #7aac39, transparent);
 }
 
-.mcgrawhill-navbar {
+.nowyou-navbar {
 	position: fixed;
 	bottom: 0;
 	left: 0;
@@ -334,7 +334,7 @@ fieldset[disabled] .slide_main input {
     background: #545759;;
 }
 
-body.is_app .mcgrawhill-navbar {
+body.is_app .nowyou-navbar {
 	/*top: 0;*/
 	-webkit-transition: top 0.5s linear;
 	-o-transition: top 0.5s linear;
@@ -342,11 +342,11 @@ body.is_app .mcgrawhill-navbar {
 	transition: top 0.5s linear;
 }
 
-body.is_app .mcgrawhill-navbar.ocultar {
+body.is_app .nowyou-navbar.ocultar {
 	top: -136px;
 }
 
-.mcgrawhill-navbar .navbar-content {
+.nowyou-navbar .navbar-content {
 	width: 100%;
 	height: 100%;
 	padding: 0 20px;
@@ -376,7 +376,7 @@ body:not(.edit) .slider-indicators {
 	display: none;
 }
 
-.mcgrawhill-navbar .copyright {
+.nowyou-navbar .copyright {
 	color: #fff;
 	line-height: 5.0rem;
 }
