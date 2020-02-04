@@ -571,5 +571,3 @@ $(document).ready(function() {
 	});
 
 });
-
-
