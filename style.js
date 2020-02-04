@@ -1,17 +1,17 @@
 (function (blink) {
 	'use strict';
 
-	var Now_YouStyle = function () {
+	var Demo_Now_YouStyle = function () {
 		blink.theme.styles.mcgrawhill.apply(this, arguments);
 	},
 	page = blink.currentPage;
 
-	Now_YouStyle.prototype = {
+	Demo_Now_YouStyle.prototype = {
 		parent: blink.theme.styles.mcgrawhill.prototype,
-		bodyClassName: 'content_type_clase_Now_You',
+		bodyClassName: 'content_type_clase_Demo_Now_You',
 		toolbar: { name: 'editorial' },
 		ckEditorStyles: {
-			name: 'Now_You',
+			name: 'Demo_Now_You',
 			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
@@ -84,8 +84,8 @@
 		
 	};
 
-	Now_YouStyle.prototype = _.extend({}, new blink.theme.styles.mcgrawhill(), Now_YouStyle.prototype);
+	Demo_Now_YouStyle.prototype = _.extend({}, new blink.theme.styles.mcgrawhill(), Demo_Now_YouStyle.prototype);
 
-	blink.theme.styles['Now_You'] = Now_YouStyle;
+	blink.theme.styles['Demo_Now_You'] = Demo_Now_YouStyle;
 
 })( blink );
