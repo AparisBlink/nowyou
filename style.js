@@ -1,17 +1,17 @@
 (function (blink) {
 	'use strict';
 
-	var yamStyle = function () {
+	var Now_YouStyle = function () {
 		blink.theme.styles.mcgrawhill.apply(this, arguments);
 	},
 	page = blink.currentPage;
 
-	yamStyle.prototype = {
+	Now_YouStyle.prototype = {
 		parent: blink.theme.styles.mcgrawhill.prototype,
-		bodyClassName: 'content_type_clase_yam',
+		bodyClassName: 'content_type_clase_Now_You',
 		toolbar: { name: 'editorial' },
 		ckEditorStyles: {
-			name: 'yam',
+			name: 'Now_You',
 			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
@@ -40,7 +40,7 @@
 				{ name: 'Lista LetraMinus', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista LetraMinusMorada', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
 										
-				{ name: 'CajaUnit', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
+				{ name: 'CajaAchieve!', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'CajaFondoColor', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
 				{ name: 'CajaVideo', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-3' } },
 				{ name: 'CajaBordesColor', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-4' } },
@@ -84,8 +84,8 @@
 		
 	};
 
-	yamStyle.prototype = _.extend({}, new blink.theme.styles.mcgrawhill(), yamStyle.prototype);
+	Now_YouStyle.prototype = _.extend({}, new blink.theme.styles.mcgrawhill(), Now_YouStyle.prototype);
 
-	blink.theme.styles['yam'] = yamStyle;
+	blink.theme.styles['Now_You'] = Now_YouStyle;
 
 })( blink );
