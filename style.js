@@ -1,17 +1,17 @@
 (function (blink) {
 	'use strict';
 
-	var McGrawHillStyle = function () {
+	var nowyouStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	McGrawHillStyle.prototype = {
+	nowyouStyle.prototype = {
 		//BK-15873 añadimos el estilo basic como parent para la herencia de los estilos del CKEditor
 		parent: blink.theme.styles.basic.prototype,
-		bodyClassName: 'content_type_clase_mcgrawhill',
+		bodyClassName: 'content_type_clase_nowyou',
 		ckEditorStyles: {
-			name: 'mcgrawhill',
+			name: 'nowyou',
 			styles: [
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title bck-title-1'} },
 				{ name: 'Título 2', element: 'h3', attributes: { 'class': 'bck-title bck-title-2'} },
@@ -186,7 +186,7 @@
 
 		formatCarouselindicators: function (scope, classNavbar) {
 			var that = scope || this,
-				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'mcgrawhill-navbar'),
+				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'nowyou-navbar'),
 				$navbarBottom = $('.navbar-bottom'),
 				firstSlide = eval('t0_slide');
 			if(blink.courseInfo && blink.courseInfo.courseDateCreated) var courseYearCreated = new Date(blink.courseInfo.courseDateCreated).getFullYear();
@@ -385,7 +385,7 @@
 
 		animateNavbarOnScroll: function (scope, classNavbar) {
 			var that = scope || this,
-				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'mcgrawhill-navbar');
+				navbar = ((typeof classNavbar !== "undefined" && classNavbar)?classNavbar:'nowyou-navbar');
 			if (!blink.isApp) return;
 			var $navbar = $('.'+navbar);
 			var lastScrollTop = 0;
@@ -543,9 +543,9 @@
  		}
 	};
 
-	McGrawHillStyle.prototype = _.extend({}, new blink.theme.styles.basic(), McGrawHillStyle.prototype);
+	nowyouStyle.prototype = _.extend({}, new blink.theme.styles.basic(), nowyouStyle.prototype);
 
-	blink.theme.styles['mcgrawhill'] = McGrawHillStyle;
+	blink.theme.styles['nowyou'] = nowyouStyle;
 
 })( blink );
 
