@@ -3,101 +3,172 @@
 /* Fonts */
 
 @font-face {
-    font-family: AndyStd;
-    src: url(fonts/AndyStd-Regular.otf);
-  }
+	font-family: 'Conv_CaeciliaLTStd-Roman';
+	src: url('fonts/CaeciliaLTStd-Roman.eot');
+	src: local('☺'), url('fonts/CaeciliaLTStd-Roman.woff') format('woff'), url('fonts/CaeciliaLTStd-Roman.ttf') format('truetype'), url('fonts/CaeciliaLTStd-Roman.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: Gotham;
-    src: url(fonts/Gotham-Bold.otf);
-  }
+@font-face {
+	font-family: 'Conv_DINEngschriftStd';
+	src: url('fonts/DINEngschriftStd.eot');
+	src: local('☺'), url('fonts/DINEngschriftStd.woff') format('woff'), url('fonts/DINEngschriftStd.ttf') format('truetype'), url('fonts/DINEngschriftStd.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: HouseHolidayTTF;
-    src: url(fonts/HouseHolidayTTF-Sans.otf);
-  }
+@font-face {
+	font-family: 'Conv_FuturaStd-Bold';
+	src: url('fonts/FuturaStd-Bold.eot');
+	src: local('☺'), url('fonts/FuturaStd-Bold.woff') format('woff'), url('fonts/FuturaStd-Bold.ttf') format('truetype'), url('fonts/FuturaStd-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: HurmeGeometricSans;
-    src: url(fonts/HurmeGeometricSans3-Bold.otf);
-  }
+@font-face {
+	font-family: 'Conv_FuturaStd-Book';
+	src: url('fonts/FuturaStd-Book.eot');
+	src: local('☺'), url('fonts/FuturaStd-Book.woff') format('woff'), url('fonts/FuturaStd-Book.ttf') format('truetype'), url('fonts/FuturaStd-Book.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: HurmeGeometricSans-regular;
-    src: url(fonts/HurmeGeometricSans3-Regular.otf);
-  }    
+@font-face {
+	font-family: 'Conv_FuturaStd-BookOblique';
+	src: url('fonts/FuturaStd-BookOblique.eot');
+	src: local('☺'), url('fonts/FuturaStd-BookOblique.woff') format('woff'), url('fonts/FuturaStd-BookOblique.ttf') format('truetype'), url('fonts/FuturaStd-BookOblique.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: JacobyICG;
-    src: url(fonts/JacobyICG-Black.otf);
-  }
+@font-face {
+	font-family: 'Conv_FuturaStd-Heavy';
+	src: url('fonts/FuturaStd-Heavy.eot');
+	src: local('☺'), url('fonts/FuturaStd-Heavy.woff') format('woff'), url('fonts/FuturaStd-Heavy.ttf') format('truetype'), url('fonts/FuturaStd-Heavy.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: SantillanaDotFont;
-    src: url(fonts/SantillanaDotFont.otf);
-  }
+@font-face {
+	font-family: 'Conv_FuturaStd-HeavyOblique';
+	src: url('fonts/FuturaStd-HeavyOblique.eot');
+	src: local('☺'), url('fonts/FuturaStd-HeavyOblique.woff') format('woff'), url('fonts/FuturaStd-HeavyOblique.ttf') format('truetype'), url('fonts/FuturaStd-HeavyOblique.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: SantillanaFillFont;
-    src: url(fonts/SantillanaFillFont.otf);
-  }
+@font-face {
+	font-family: 'Conv_FuturaStd-Medium';
+	src: url('fonts/FuturaStd-Medium.eot');
+	src: local('☺'), url('fonts/FuturaStd-Medium.woff') format('woff'), url('fonts/FuturaStd-Medium.ttf') format('truetype'), url('fonts/FuturaStd-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
+@font-face {
+	font-family: 'Conv_HelveticaNeueLTStd-Bd';
+	src: url('fonts/HelveticaNeueLTStd-Bd.eot');
+	src: local('☺'), url('fonts/HelveticaNeueLTStd-Bd.woff') format('woff'), url('fonts/HelveticaNeueLTStd-Bd.ttf') format('truetype'), url('fonts/HelveticaNeueLTStd-Bd.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
+@font-face {
+	font-family: 'Conv_HelveticaNeueLTStd-It';
+	src: url('fonts/HelveticaNeueLTStd-It.eot');
+	src: local('☺'), url('fonts/HelveticaNeueLTStd-It.woff') format('woff'), url('fonts/HelveticaNeueLTStd-It.ttf') format('truetype'), url('fonts/HelveticaNeueLTStd-It.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
+@font-face {
+	font-family: 'Conv_HelveticaNeueLTStd-Roman';
+	src: url('fonts/HelveticaNeueLTStd-Roman.eot');
+	src: local('☺'), url('fonts/HelveticaNeueLTStd-Roman.woff') format('woff'), url('fonts/HelveticaNeueLTStd-Roman.ttf') format('truetype'), url('fonts/HelveticaNeueLTStd-Roman.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: Avenir;
-    src: url(fonts/Avenir.ttc);
-  }
+@font-face {
+	font-family: 'Conv_MYRIADPRO-BOLD';
+	src: url('fonts/MYRIADPRO-BOLD.eot');
+	src: local('☺'), url('fonts/MYRIADPRO-BOLD.woff') format('woff'), url('fonts/MYRIADPRO-BOLD.ttf') format('truetype'), url('fonts/MYRIADPRO-BOLD.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: Calibri;
-    src: url(fonts/Calibri.ttf);
-  }
+@font-face {
+	font-family: 'Conv_MYRIADPRO-IT';
+	src: url('fonts/MYRIADPRO-IT.eot');
+	src: local('☺'), url('fonts/MYRIADPRO-IT.woff') format('woff'), url('fonts/MYRIADPRO-IT.ttf') format('truetype'), url('fonts/MYRIADPRO-IT.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: Candara Bold;
-    src: url(fonts/Candara_Bold.ttf);
-  }
+@font-face {
+	font-family: 'Conv_MYRIADPRO-REGULAR';
+	src: url('fonts/MYRIADPRO-REGULAR.eot');
+	src: local('☺'), url('fonts/MYRIADPRO-REGULAR.woff') format('woff'), url('fonts/MYRIADPRO-REGULAR.ttf') format('truetype'), url('fonts/MYRIADPRO-REGULAR.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: Candara;
-    src: url(fonts/Candara.ttf);
-  }
+@font-face {
+	font-family: 'Conv_MYRIADPRO-SEMIBOLDSEMICN';
+	src: url('fonts/MYRIADPRO-SEMIBOLDSEMICN.eot');
+	src: local('☺'), url('fonts/MYRIADPRO-SEMIBOLDSEMICN.woff') format('woff'), url('fonts/MYRIADPRO-SEMIBOLDSEMICN.ttf') format('truetype'), url('fonts/MYRIADPRO-SEMIBOLDSEMICN.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
+@font-face {
+	font-family: 'Conv_NewBaskervilleStd-Bold';
+	src: url('fonts/NewBaskervilleStd-Bold.eot');
+	src: local('☺'), url('fonts/NewBaskervilleStd-Bold.woff') format('woff'), url('fonts/NewBaskervilleStd-Bold.ttf') format('truetype'), url('fonts/NewBaskervilleStd-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: LithosPro-Black;
-    src: url(fonts/LithosPro-Black.otf);
-    font-weight: 100;
-  }
+@font-face {
+	font-family: 'Conv_StoneSansStd-Phonetic';
+	src: url('fonts/StoneSansStd-Phonetic.eot');
+	src: local('☺'), url('fonts/StoneSansStd-Phonetic.woff') format('woff'), url('fonts/StoneSansStd-Phonetic.ttf') format('truetype'), url('fonts/StoneSansStd-Phonetic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: LithosPro-Regular;
-    src: url(fonts/LithosPro-Regular.otf);
-    font-weight: 100;
-    font-style: italic;
-  }
+@font-face {
+	font-family: 'Conv_TektonPro-Regular';
+	src: url('fonts/TektonPro-Regular.eot');
+	src: local('☺'), url('fonts/TektonPro-Regular.woff') format('woff'), url('fonts/TektonPro-Regular.ttf') format('truetype'), url('fonts/TektonPro-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family:MinionPro-Regular;
-    src: url(fonts/MinionPro-Regular.otf);
-  }
+@font-face {
+	font-family: 'Conv_TimesLTStd-Bold';
+	src: url('fonts/TimesLTStd-Bold.eot');
+	src: local('☺'), url('fonts/TimesLTStd-Bold.woff') format('woff'), url('fonts/TimesLTStd-Bold.ttf') format('truetype'), url('fonts/TimesLTStd-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: Palatino;
-    src: url(fonts/Palatino.ttc);
-  }
+@font-face {
+	font-family: 'Conv_TimesLTStd-Roman';
+	src: url('fonts/TimesLTStd-Roman.eot');
+	src: local('☺'), url('fonts/TimesLTStd-Roman.woff') format('woff'), url('fonts/TimesLTStd-Roman.ttf') format('truetype'), url('fonts/TimesLTStd-Roman.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
-  @font-face {
-    font-family: Sacramento-Regular;
-    src: url(fonts/Sacramento-Regular.ttf);
-  }
-
-  @font-face {
-    font-family: ComicSans;
-    src: url(fonts/comicsansmsgras.ttf);
-  }
+@font-face {
+	font-family: 'Conv_ZAPFDINGBATSSTD';
+	src: url('fonts/ZAPFDINGBATSSTD.eot');
+	src: local('☺'), url('fonts/ZAPFDINGBATSSTD.woff') format('woff'), url('fonts/ZAPFDINGBATSSTD.ttf') format('truetype'), url('fonts/ZAPFDINGBATSSTD.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
 
 /*General */
