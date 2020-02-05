@@ -1253,7 +1253,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     padding-left: 10px;
     z-index: 1;
     transform: rotate(-3deg);
-    margin-bottom: 55px;
 }
 
 .bck-box.bck-box-4 .bck-title {
