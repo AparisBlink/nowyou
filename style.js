@@ -48,6 +48,7 @@
 				{ name: 'Caja WordPool', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-6' } },
 				{ name: 'Caja Punteada', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-7' } },
 				{ name: 'Caja ListeningsTools', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-8' } },
+				{ name: 'Caja Project', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-9' } },
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				
