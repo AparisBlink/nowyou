@@ -1480,8 +1480,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   margin-right: 3px;
 }
 
-/*icono Circulo*/
-.icon-circulo:before {
+/*icono Play*/
+.icon-play:before {
   background-image: url(images/rich_english_U7_pg64_img_0005.png);
   content: "";
   background-repeat: no-repeat;
@@ -1497,9 +1497,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   margin-right: 3px;
 }
 
-/*icono Cuadrados*/
-.icon-cuadrados:before {
-  background-image: url(Images/icono-cuadrados-nowyou.png);
+/*icono Fast*/
+.icon-fast:before {
+  background-image: url(images/rich_english_U7_pg64_img_0009.PNG);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
@@ -1513,6 +1513,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   width: 33px;
   margin-right: 3px;
 }
+
 
 /**Iconos anterioresÂ¿?**/
 
