@@ -1395,11 +1395,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   margin-right: 3px;
 }
 
-
-
 /*icono Musica*/
 .icon-musica:before {
-  background-image: url(Images/icono-musica-nowyou.png);
+  background-image: url(images/rich_english_U7_pg64_img_0004.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
@@ -1411,7 +1409,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   vertical-align: middle;
   height: 30px;
   width: 33px;
-  margin-right: 3px;
+  margin-right: 10px;
 }
 
 /*icono MusicaMorado1*/
