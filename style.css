@@ -1136,13 +1136,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     width: 125.5%;
 }
 
-.bck-box.bck-box-1:before {
-  content: normal;
-}
-
-.bck-box.bck-box-1:after {
-  content: none;
-}
 
 /*.bck-box-1 .bck-title {
   border: 3px solid #ED155B;
@@ -1158,11 +1151,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   font-family: JacobyICG;
 }*/
 
-.bck-box.bck-box-1 .bck-content {
+.bck-box-1 .bck-content {
     padding-left: 30px;
     text-align: left;
     padding: 0;
     font-family: 'Conv_FuturaStd-Bold';
+    width: 30%;
 }
 
 /*CAJA2- CajaFondoColor*/
