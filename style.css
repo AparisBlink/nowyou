@@ -1129,7 +1129,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-box.bck-box-1 {
     position: relative;
     background: url(/images/rich_english_U7_pg64_img_0001.png) repeat-y;
-    /*/useruploads/r/a/154358206/activity_other_imported/rich_english_U7_pg64_img_0001.png*/
     padding: 23px 18px 91px 83px;
     background-size: cover;
     top: -91px;
