@@ -1312,7 +1312,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*icono Hablar*/
 .icon-hablar:before {
-  background-image: url(Images/icono-hablar-ya.png);
+  background-image: url(images/rich_english_U7_pg64_img_0003.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
