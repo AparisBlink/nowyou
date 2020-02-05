@@ -1308,6 +1308,27 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     padding: 8px 8px 8px 19px;
 }
 
+/*CAJA7- CajaPunteada = caja 2 verde */
+
+.bck-box.bck-box-7 {
+  margin-top: 15px;
+  border: none;
+  background: transparent;
+}
+
+.bck-box.bck-box-7 .bck-title {
+  color: inherit;
+}
+
+
+.bck-box.bck-box-7 .bck-content {
+    padding-left: 30px;
+    background-color: #ffff;
+    padding: 8px 8px 8px 19px;
+    border: 3px dotted #00889E;
+}
+
+
 /*seccion tÃ­tulo inicio unidad margin-top*/
 #actividad .content .iniciounidad .header .title h3 {
   margin-top: 150px;
