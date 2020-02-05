@@ -1348,6 +1348,32 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     padding-left: 20px;
 }
 
+/*Caja Project */
+
+.bck-box.bck-box-9 {
+    margin-top: 15px;
+    border: none;
+    background: transparent;
+    border: 2px solid #E50051;
+    box-shadow: 9px 10px 0px -6px #E50051;
+}
+
+.bck-box.bck-box-9 .bck-title {
+  	color: #ffff;
+    background-color: #E50051;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+
+.bck-box.bck-box-9 .bck-content {
+	padding-left: 30px;
+    background-color: #ffffff;
+    padding: 8px 8px 8px 19px;
+    box-shadow: 9px 10px 0px -6px #E50051;
+}
+
 
 /*seccion tÃ­tulo inicio unidad margin-top*/
 #actividad .content .iniciounidad .header .title h3 {
