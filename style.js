@@ -45,7 +45,6 @@
 
 		init: function (scope) {
 			var that = scope || this;
-			that.activityDropdown();
 			this.parent.init.call(that);
 			that.addActivityTitle();
 			if(window.esWeb) return;
@@ -394,78 +393,6 @@
 				(scrollTop > lastScrollTop && scrollTop) ? $navbar.addClass('ocultar') : $navbar.removeClass('ocultar');
 				lastScrollTop = scrollTop;
 			});
-		},
-
-		/**
-		 * Une diapositivas concatenadas dentro de un menú desplegable.
-		 * En estilos hijos, sobreescribir en caso no quererlo
-		 */
-		activityDropdown: function () {
-			for(var index = 1; index < secuencia.length; index++) {
-				var slide = eval('t'+index+'_slide'),
-					prevSlide = eval('t' + (index - 1) + '_slide'),
-					not_exercise = [1, 16, 24];
-				// Checks if the slide is type exercise and concatenate
-				if (slide.isConcatenate && $.inArray(slide.tipo, not_exercise) == -1) {
-					var $slide = $('#t'+index+'pg'),
-						$slide_container = $slide.closest('.item-container'),
-						tab_index;
-					// Constructs the containing dropdown if it doesn't exists
-					if ($.inArray(prevSlide.tipo, not_exercise) != -1 || !prevSlide.isConcatenate) {
-						var dropdown =
-							'<div class="bck-dropdown bck-dropdown-2 activities-dropdown">' +
-								'<div class="bck-dropdown-button">' +
-									'<div class="bck-dropdown-icon">' +
-										'<div class="fa fa-chevron-down"></div>' +
-									'</div>' +
-									'<div class="bck-dropdown-titulo">' +
-										textweb('activities') +
-									'</div>' +
-								'</div>' +
-								'<div class="bck-dropdown-content">' +
-									// Nav-tabs
-  									'<ul class="nav nav-tabs" role="tablist"></ul>' +
-									// Tab-panes
-  									'<div class="tab-content"></div>' +
-								'</div>' +
-							'</div>';
-						var slide_main = $('#t'+(index-1)+'pg').closest('.js-slide-wrapper');
-						$(slide_main).append(dropdown);
-						tab_index = 1;
-					}
-					var dropdown_container = $slide_container.find('.activities-dropdown').last(),
-						nav_tabs = $(dropdown_container).find('.nav-tabs')[0],
-						tab_content = $(dropdown_container).find('.tab-content')[0],
-						$concatenate_slide;
-
-					// Creates a tab and a pane for each concatenate slide
-					$(nav_tabs).append('<li role="presentation">' +
-							'<a href="#activity-' + index + '" aria-controls="activity-' + index + '" role="tab" data-toggle="tab">' +
-								tab_index +
-							'</a>' +
-						'</li>');
-
-					$(tab_content).append('<div role="tabpanel" class="tab-pane" id="activity-' + index + '">' +
-						'</div>');
-
-					// Detaches the concatenate slide and appends it to its pane
-					$concatenate_slide = $slide.closest('.slide-concatenate').detach();
-					$concatenate_slide.appendTo('#activity-' + index);
-
-					// Sets the first activity to active
-					if (tab_index == 1) {
-						$('a[href="#activity-' + index + '"]').closest('li').addClass('active');
-						$('#activity-' + index).addClass('active');
-					}
-
-					// Gives each concatenate activity the box-2 style
-					$('#transp' + index).addClass('bck-box bck-box-2');
-					$('#transp' + index + ' > .header').addClass('bck-title js--title');
-					$('#transp' + index + ' > *:not(.header)').wrapAll('<div class="bck-content" />');
-
-					tab_index++;
-				}
-			}
 		},
 
 		initDropdown : function () {
