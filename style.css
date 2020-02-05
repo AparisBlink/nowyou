@@ -1524,17 +1524,17 @@ table,
 /*tabla azul y celda azul*/
 
 .bck-table-2 {
-  border: 1px solid #3F6AB2;
+  border: 1px solid #2E73B9;
 }
 
 .bck-table-2 td {
-  border: 1px solid #3F6AB2;
+  border: 1px solid #2E73B9;
 }
 
 /*celda azul*/
 table td.bck-td-2 {
   color: #ffffff;
-  background: #3F6AB2;
+  background: #2E73B9;
   text-align: center;
 }
 
