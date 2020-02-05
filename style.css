@@ -1240,13 +1240,20 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-top: -6px;
 }
 
-/*CAJA4- CajaBordeColor*/
+/*CAJA4- CajaNaranja*/
 
 .bck-box.bck-box-4 {
-  margin-top: 15px;
-  border: 2px solid #00ADEE;
-  margin: auto;
-  background: transparent;
+  	background-color: rgb(253,224,206);
+    padding: 8px 15px 8px 8px;
+    display: block;
+    padding-bottom: 10px;
+    line-height: 1.43em;
+    font-size: 1em;
+    border: 6px solid #E9510E;
+    padding-left: 10px;
+    z-index: 1;
+    transform: rotate(-3deg);
+    margin-bottom: 55px;
 }
 
 .bck-box.bck-box-4 .bck-title {
@@ -1256,9 +1263,17 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-4 .bck-content {
-  padding-left: 30px;
-  background-color: #FFF;
-  padding: 8px 15px 8px 8px;
+  	margin-bottom: 55px;
+    display: block;
+    padding-bottom: 10px;
+    line-height: 1.43em;
+    font-size: 1em;
+    background-color: #fff;
+    border: 2px solid #01b4b7;
+    width: 99%;
+    z-index: 1;
+    padding: 20px;
+    transform: rotate(3deg);
 }
 
 /*CAJA5- CajaInicioUnidad*/
