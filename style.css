@@ -763,9 +763,13 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   color: inherit;
 }
 
-/*Enfasis ColorRojo*/
+/*Enfasis AumentoTamañoIntro*/
 .bck-enfasis-1 {
-  color: #EE1C25;
+    color: #00ACB3;
+    font-size: 8rem;
+    position: relative;
+    top: 15px;
+    text-shadow: 1px 0 0 #fff, -1px 0 0 #fff, 0 1px 0 #fff, 0 -1px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
 }
 
 /*fontInfantil*/
@@ -1137,7 +1141,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 
-/*.bck-box-1 .bck-title {
+.bck-box-1 .bck-title {
   border: 3px solid #ED155B;
   background-color: #ED155B;
   color: #FFF;
@@ -1149,14 +1153,18 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   border-radius: 10px 10px 0px 0px;
   padding: 4px 4px 4px 4px;
   font-family: JacobyICG;
-}*/
+}
 
 .bck-box-1 .bck-content {
     padding-left: 30px;
     text-align: left;
     padding: 0;
     font-family: 'Conv_FuturaStd-Bold';
-    width: 30%;
+    width: 55%;
+}
+
+.bck-box-1 .bck-content p {
+    font-size: 3.2rem;
 }
 
 /*CAJA2- CajaFondoColor*/
