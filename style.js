@@ -1,12 +1,12 @@
 (function (blink) {
 	'use strict';
 
-	var nowyouStyle = function () {
+	var NowYouStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	nowyouStyle.prototype = {
+	NowYouStyle.prototype = {
 		//BK-15873 añadimos el estilo basic como parent para la herencia de los estilos del CKEditor
 		parent: blink.theme.styles.basic.prototype,
 		bodyClassName: 'content_type_clase_nowyou',
@@ -470,9 +470,9 @@
  		}
 	};
 
-	nowyouStyle.prototype = _.extend({}, new blink.theme.styles.basic(), nowyouStyle.prototype);
+	NowYouStyle.prototype = _.extend({}, new blink.theme.styles.basic(), NowYouStyle.prototype);
 
-	blink.theme.styles['nowyou'] = nowyouStyle;
+	blink.theme.styles['nowyou'] = NowYouStyle;
 
 })( blink );
 
