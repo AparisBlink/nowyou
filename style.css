@@ -194,6 +194,8 @@ body {
   -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
   box-shadow: rgba(0, 0, 0, 0.43) 0 3px 9px;
   padding-bottom: 0px;
+  background: none;	
+	
 }
 
 /* modo correcion/revision */
