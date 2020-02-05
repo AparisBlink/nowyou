@@ -1004,7 +1004,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     text-align: right;
 }
 
-/*LISTA 3 - Circulo*/
+/*LISTA 3*/
 #actividad .content .cke_contents .bck-ol-3,
 #actividad .content .texto_curso .bck-ol-3,
 #actividad .content .workspace ul li .bck-ol-3,
@@ -1018,38 +1018,34 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .texto_curso .bck-ol-3 li,
 #actividad .popover-content .bck-ol-3 li,
 #actividad .content .workspace ul li .bck-ol-3 li {
-  counter-increment: bck-li-counter;
-  padding-left: 0px;
-  position: relative;
-  z-index: 0;
-  font-weight: 500;
-  margin-left: 15px;
-  margin-top: 10px;
-  font-size: 22px;
-  font-weight: 500;
-  line-height: 1.8em!important;
+    counter-increment: bck-li-counter;
+    padding-left: 0px;
+    position: relative;
+    z-index: 0;
+    font-weight: 500;
+    margin-left: 23px;
+    margin-top: 10px;
+    font-size: 1.9rem;
+    font-weight: 500;
+    line-height: 1.8em!important;
 }
 
 #actividad .content .cke_contents ol.bck-ol-3 li:before,
 #actividad .content .texto_curso ol.bck-ol-3 li:before,
 #actividad .popover-content ol.bck-ol-3 li:before,
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
-  content: counter(bck-li-counter);
-  width: 38px;
-  height: 38px;
-  position: absolute;
-  color: #00ADEE;
-  background: none;
-  margin-left: -45px;
-  margin-right: 0px;
-  font-size: 2.5rem;
-  text-align: center;
-  font-weight: 700;
-  border: 3px solid #BFD630;
-  border-radius: 100%;
-  padding: 3px;
-  top: -3px;
-  line-height: 25px;
+	content: counter(bck-li-counter);
+    position: absolute;
+    margin-left: -45px;
+    margin-right: 0px;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+    padding: 3px;
+    top: 2px;
+    left: 20px;
+    line-height: 25px;
+
 }
 
 /*LISTA LetraMinus*/
