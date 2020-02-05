@@ -198,6 +198,11 @@ body {
 	
 }
 
+#actividad .content .header .chapter{
+	    display: none;
+}
+
+
 /* modo correcion/revision */
 
 .info-alumno .nombre-alumno {
