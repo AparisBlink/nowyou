@@ -400,7 +400,11 @@
 		 * Une diapositivas concatenadas dentro de un menú desplegable.
 		 * En estilos hijos, sobreescribir en caso no quererlo
 		 */
+		
 		activityDropdown: function () {
+			return false;
+		},
+		/*activityDropdown: function () {
 			for(var index = 1; index < secuencia.length; index++) {
 				var slide = eval('t'+index+'_slide'),
 					prevSlide = eval('t' + (index - 1) + '_slide'),
@@ -466,7 +470,7 @@
 					tab_index++;
 				}
 			}
-		},
+		},*/
 
 		initDropdown : function () {
 			$(".bck-dropdown-button")
