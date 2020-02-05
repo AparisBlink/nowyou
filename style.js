@@ -60,8 +60,8 @@
 				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
 				{ name: 'Icono MusicaMorado1', element: 'span', attributes: { 'class': 'icon icon-musica1' } },
 				{ name: 'Icono MusicaMorado2', element: 'span', attributes: { 'class': 'icon icon-musica2' } },
-				{ name: 'Icono Play', element: 'span', attributes: { 'class': 'icon icon-circulo' } },
-				{ name: 'Icono Cuadrados', element: 'span', attributes: { 'class': 'icon icon-cuadrados' } },
+				{ name: 'Icono Play', element: 'span', attributes: { 'class': 'icon icon-play' } },
+				{ name: 'Icono Fast', element: 'span', attributes: { 'class': 'icon icon-fast' } },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-1' } },
 				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-2' } }
