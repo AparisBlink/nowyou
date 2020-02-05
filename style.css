@@ -931,10 +931,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     position: relative;
     z-index: 0;
     font-weight: 500;
-    margin-left: 0px;
+    margin-left: -12px;
     margin-top: 10px;
     font-size: 2rem;
-    font-family: HurmeGeometricSans;
     font-family: 'Conv_FuturaStd-Medium';
     line-height: 1.8em!important;
 }
@@ -949,7 +948,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     position: absolute;
     color: #ffff;
     background: none;
-    margin-left: -54px;
+    margin-left: -46px;
     margin-right: 0px;
     text-align: right;
     font-family: 'Conv_FuturaStd-Medium';
