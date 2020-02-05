@@ -1798,7 +1798,7 @@ table td.bck-td-2 {
 
 /*Titulo Slide*/
 .unittag_rosa_nowyou #actividad .content .header .title h3 {
-  background-color: #ba007c; 
+  display: none; 
 }
 
 /*Lista 1*/
