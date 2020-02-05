@@ -12,7 +12,7 @@
 		bodyClassName: 'content_type_clase_nowyou',
 		ckEditorStyles: {
 			name: 'nowyou',
-			styles: styles: [
+			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
 				{ name: 'Título 1-Izquierda', element: 'h2', attributes: { 'class': 'bck-title-9'} },
