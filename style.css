@@ -358,16 +358,7 @@ body.is_app #actividad .class_slide {
 }
 
 #actividad .content .header .title h3 {
-  color: #FFF;
-  font-size: 2.5rem;
-  font-weight: 600;
-  background-color: #00ADEE;
-  width: fit-content;
-  width: -moz-fit-content;
-  padding: 5px 50px 5px 115px;
-  margin-left: -98px;
-  font-family: Gotham;
-  position: relative;
+  display: none;
 }
 
 #actividad .content .header .title h3:before {
