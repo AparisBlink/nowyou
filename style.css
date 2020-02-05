@@ -1370,6 +1370,26 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     box-shadow: 9px 10px 0px -6px #E50051;
 }
 
+/*Caja Pronunciation  */
+
+.bck-box.bck-box-10 {
+    margin-top: 20px;
+    padding: 20px;
+    background: #EFDBEA;
+}
+
+.bck-box.bck-box-10 .bck-title {
+	color: #B83187;
+    font-weight: 700;
+}
+
+
+.bck-box.bck-box-10 .bck-content {
+	border: 0;
+    padding: 5px;
+    text-align: left;
+    padding-left: 20px;
+}
 
 /*seccion tÃ­tulo inicio unidad margin-top*/
 #actividad .content .iniciounidad .header .title h3 {
