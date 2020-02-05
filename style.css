@@ -634,18 +634,23 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   color: #ea5b0c;
 }
 
-/*TÃ­tulo 1*/
+/*Titulo 1*/
 .bck-title-1 {
-  color: #F03F23;
-  font-size: 3.2rem;
-  text-align: center;
-  font-weight: 700;
-  font-family: JacobyICG;
+    color: #ffff;
+    font-size: 2rem;
+    background: #2E73B9;
+    width: fit-content;
+    position: relative;
+    text-align: left;
+    padding-left: 54px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    left: -97px;
+    font-weight: 700;
+    font-family: 'Conv_FuturaStd-Book';
 }
 
-.bck-title-1:before {
-    content: normal;
-  }
 
 /*TÃ­tulo 1-Izquierda*/
 .bck-title-9 {
