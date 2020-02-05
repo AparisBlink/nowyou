@@ -226,7 +226,7 @@ p {
 
 /*ENLACE WEB*/
 
-#actividad a {
+/*#actividad a {
   -webkit-border-radius: 2px;
      -moz-border-radius: 2px;
           border-radius: 2px;
@@ -235,7 +235,7 @@ p {
   color: #AECE5D;
   font-weight: 600;
   text-decoration: none;
-}
+}*/
 
 /*INDICE LATERAL*/
 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, #book-index #indice .units ul li.active a {
