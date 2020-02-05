@@ -658,13 +658,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   font-family: JacobyICG;
 }
 
-/*TÃ­tulo 2 - Verde*/
+/*Título 2 - Verde*/
 .bck-title-2 {
-  color: #299547;
-  font-size: 3.2rem;
-  text-align: center;
-  font-weight: 700;
-  font-family: JacobyICG;
+  color: #0FA77E;
+    font-size: 3rem;
+    text-align: left;
+    font-family: 'Conv_FuturaStd-Book';
 }
 
 /*TÃ­tulo 3 - Amarillo*/
