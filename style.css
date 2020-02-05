@@ -1170,7 +1170,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-size: 3.2rem;
 }
 
-/*CAJA2- CajaFondoColor*/
+/*CAJA2- CajaFondoColor = caja 2 verde */
 
 .bck-box.bck-box-2 {
   margin-top: 15px;
@@ -1182,14 +1182,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   color: inherit;
 }
 
-.bck-box.bck-box-2 .bck-title:before {
-  content: normal;
-}
 
 .bck-box.bck-box-2 .bck-content {
-  padding-left: 30px;
-  background-color: #CAECFC;
-  padding: 8px 8px 8px 8px;
+    padding-left: 30px;
+    background-color: #DFEFE4;
+    padding: 8px 8px 8px 19px;
+    box-shadow: 9px 10px 0px -6px #20AA72;
 }
 
 /*CAJA3 Video*/
