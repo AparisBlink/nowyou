@@ -31,7 +31,7 @@
 				{ name: 'FontHurmeGeometric', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
-				{ name: 'Lista TrianguloNaranja', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
+				{ name: 'Lista des 1', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
 							
 				{ name: 'Lista 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
