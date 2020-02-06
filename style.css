@@ -796,10 +796,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #F18800;
 }
 
-/*fontInfantilPuntos*/
+/*énfasis negro*/
 .bck-enfasis-3 {
-  font-family: SantillanaDotFont;
-  font-size: 5.5rem; 
+    background-color: rgb(53,53,51);
+    padding: 3px;
 }
 
 /*FontEjemplos*/
