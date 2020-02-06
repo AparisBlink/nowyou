@@ -1680,7 +1680,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*icono Lupa*/
 .icon-lupa:before {
-  background-image: url(Images/icono_lupa.png);
+  background-image: url(images/icono_lupa.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
