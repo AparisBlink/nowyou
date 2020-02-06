@@ -1326,24 +1326,44 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 /*CAJA8- ListeningTools */
 
 .bck-box.bck-box-8 {
-    margin-top: 20px;
-    padding: 20px;
-    background: #ffffff;
-    border: 2px solid #E9423B;
+    margin-top: 15px;
+    border: none;
+    background: transparent;
+    border: 2px solid #E50051;
+    box-shadow: 9px 10px 0px -6px #E50051;
 }
 
 .bck-box.bck-box-8 .bck-title {
-  color: inherit;
+  	color: #E9423B;
+    background-color: #E50051;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
+.bck-box.bck-box-8 .bck-title p {
+    font-weight: 600;
+}
 
 .bck-box.bck-box-8 .bck-content {
 	border: 0;
     padding: 5px;
     text-align: left;
-    padding-left: 20px;
+    padding-left: 0px;
 }
 
+.bck-box.bck-box-8:after{
+	content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 50px;
+    position: absolute;
+    right: 20px;
+    top: 0;
+    width: 10px;
+    height: auto;
+    margin-top: -36px;
+}
 /*Caja Project */
 
 .bck-box.bck-box-9 {
