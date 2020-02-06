@@ -1353,6 +1353,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-8:after{
+	background-image: url(images/rich_english_U7_pg65_img_0001.PNG);
 	content: '';
     background-size: contain;
     background-repeat: no-repeat;
@@ -1364,6 +1365,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     height: auto;
     margin-top: -36px;
 }
+
 /*Caja Project */
 
 .bck-box.bck-box-9 {
