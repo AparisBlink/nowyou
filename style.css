@@ -1422,6 +1422,45 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-top: -73px;
 }
 
+/*CAJA11- ReadingsTools */
+
+.bck-box.bck-box-11 {
+    margin-top: 15px;
+    background: #ffff;
+    border: 2px solid #ACC33F;
+}
+
+.bck-box.bck-box-11 .bck-title {
+	color: #ACC33F;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.bck-box.bck-box-11 .bck-title p {
+    font-weight: 600;
+}
+
+.bck-box.bck-box-11 .bck-content {
+	border: 0;
+    padding: 5px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.bck-box.bck-box-11 .bck-title::after{
+	background-image: url(images/icono_readingtools.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 27px;
+    position: absolute;
+    right: 14px;
+    width: 10px;
+    height: auto;
+    margin-top: -73px;
+}
+
 /*seccion tÃ­tulo inicio unidad margin-top*/
 #actividad .content .iniciounidad .header .title h3 {
   margin-top: 150px;
