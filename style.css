@@ -1783,21 +1783,21 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   margin-right: 3px;
 }
 
-/*icono MusicaMorado2*/
-.icon-musica2:before {
-  background-image: url(Images/icono-musica-morada2.png);
-  content: "";
-  background-repeat: no-repeat;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  background-position: center center;
-  display: inline-block;
-  vertical-align: middle;
-  height: 30px;
-  width: 33px;
-  margin-right: 3px;
+/*icono lápiz*/
+.icon-lapiz:before {
+  	background-image: url(images/icono_lapiz.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
 }
 
 /*icono Play*/
