@@ -21,7 +21,7 @@
 				{ name: 'Título Project', element: 'h2', attributes: { 'class': 'bck-title-5'} },
 				{ name: 'Título NowYouNaranja', element: 'h2', attributes: { 'class': 'bck-title-6'} },
 				{ name: 'Título Reading', element: 'h2', attributes: { 'class': 'bck-title-7'} },
-				{ name: 'Título Quiz', element: 'h2', attributes: { 'class': 'bck-title-8'} },
+				{ name: 'Título Communication', element: 'h2', attributes: { 'class': 'bck-title-8'} },
 				{ name: 'Título 1-Izquierda', element: 'h2', attributes: { 'class': 'bck-title-9'} },
 				
 				{ name: 'NumeroIntro', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
