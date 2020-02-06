@@ -54,6 +54,7 @@
 				{ name: 'Caja ReadingsTools', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-11' } },
 				{ name: 'Caja CoreValues', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-12' } },
 				{ name: 'Caja WritingsTools', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-13' } },
+				{ name: 'Caja SpeakingTools', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-14' } },
 
 
 
