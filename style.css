@@ -1546,6 +1546,46 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-top: -73px;
 }
 
+/*CAJA14- Speaking Tools */
+
+.bck-box.bck-box-14 {
+	margin-top: 15px;
+    background: #ffff;
+    border: 2px solid #B83187;
+}
+
+.bck-box.bck-box-14 .bck-title {
+    color: #B83187;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.bck-box.bck-box-14 .bck-title p {
+    font-weight: 600;
+}
+
+.bck-box.bck-box-14 .bck-content {
+	border: 0;
+    padding: 5px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.bck-box.bck-box-14 .bck-title::after{
+	background-image: url(images/icono_speakingtools.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 27px;
+    position: absolute;
+    right: 14px;
+    width: 10px;
+    height: auto;
+    margin-top: -73px;
+}
+
+
 /*seccion tÃ­tulo inicio unidad margin-top*/
 #actividad .content .iniciounidad .header .title h3 {
   margin-top: 150px;
