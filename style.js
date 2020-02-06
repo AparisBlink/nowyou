@@ -56,9 +56,9 @@
 				{ name: 'Celda Color', element: 'td', attributes: { 'class': 'bck-td-2'} },
 				
 				{ name: 'Icono Hablar', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
-				{ name: 'Icono Hablar2', element: 'span', attributes: { 'class': 'icon icon-hablar2' } },
-				{ name: 'Icono HablarBlanco', element: 'span', attributes: { 'class': 'icon icon-hablar3' } },
-				{ name: 'Icono Lapiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
+				{ name: 'Icono Icono Nivel 1', element: 'span', attributes: { 'class': 'icon icon-nivel1' } },
+				{ name: 'Icono Icono Nivel 2', element: 'span', attributes: { 'class': 'icon icon-nivel2' } },
+				{ name: 'Icono Icono Nivel 3', element: 'span', attributes: { 'class': 'icon icon-nivel3' } },
 				{ name: 'Icono Libro', element: 'span', attributes: { 'class': 'icon icon-libro' } },
 				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
 				{ name: 'Icono MusicaMorado1', element: 'span', attributes: { 'class': 'icon icon-musica1' } },
