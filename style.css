@@ -666,13 +666,16 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-family: 'Conv_FuturaStd-Book';
 }
 
-/*TÃ­tulo 3 - Amarillo*/
+/*Título 3 - Título NowYou*/
 .bck-title-3 {
-  color: #BFD630;
-  font-size: 3.2rem;
-  text-align: center;
-  font-weight: 700;
-  font-family: JacobyICG;
+    color: #009FA5;
+    background-color: #D8EDEE;
+    width: fit-content;
+    font-size: 3.2rem;
+    text-align: left;
+    font-weight: 500;
+    padding: 5px 5px 0px 5px;
+    font-family: 'Conv_FuturaStd-Medium';
 }
 
 /*TÃ­tulo 4 - Azul*/
