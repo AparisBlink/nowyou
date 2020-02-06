@@ -786,12 +786,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   font-size: 5.5rem; 
 }
 
-/*fontEjemploCursiva*/
+/*FontEjemplos*/
 .bck-enfasis-4 {
-  font-family: AndyStd;
-  font-size: 2.2rem;
-  letter-spacing: 0.6px;
-  color: #656060;
+	font-family: 'Conv_TektonPro-Regular';
+    font-size: 2.2rem;
+    letter-spacing: 0.6px;
+    color: #22628C;
 }
 
 /*fontEjemploCursiva*/
