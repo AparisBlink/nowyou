@@ -1466,55 +1466,58 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   margin-right: 10px;
 }
 
-/*icono Hablar2*/
+/*icono Nivel1*/
 .icon-hablar2:before {
-  background-image: url(Images/icono-hablar2-nowyou.png);
-  content: "";
-  background-repeat: no-repeat;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  background-position: center center;
-  display: inline-block;
-  vertical-align: middle;
-  height: 30px;
-  width: 33px;
-  margin-right: 3px;
+  background-image: url(images/icono_nivel1.png);
+    width: 205px;
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
 }
 
-/*icono HablarBlanco*/
+/*icono Nivel2*/
 .icon-hablar3:before {
-  background-image: url(Images/icono-hablar-blanco.png);
-  content: "";
-  background-repeat: no-repeat;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  background-position: center center;
-  display: inline-block;
-  vertical-align: middle;
-  height: 30px;
-  width: 33px;
-  margin-right: 3px;
+	background-image: url(images/icono_nivel2.png);
+    width: 205px;
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
 }
 
-/*icono Lapiz*/
+/*icono Nivel13*/
 .icon-lapiz:before {
-  background-image: url(Images/icono-lapiz-nowyou.png);
-  content: "";
-  background-repeat: no-repeat;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  background-position: center center;
-  display: inline-block;
-  vertical-align: middle;
-  height: 30px;
-  width: 33px;
-  margin-right: 3px;
+    background-image: url(images/icono_nivel3.png);
+    width: 205px;
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
 }
 
 /*icono Libro*/
@@ -1632,8 +1635,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   background-position: center center;
   display: inline-block;
   vertical-align: text-bottom;
-  height: 28px;
-  width: 30px;
+  /*height: 28px;
+  width: 30px;*/
 }
 
 /**TABLA y Celdas**/
