@@ -1478,7 +1478,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-box.bck-box-12 {
     margin-top: 15px;
     background: #EEF4DC;
-    border: 2px solid #ACC33F;
 }
 
 .bck-box.bck-box-12 .bck-title {
@@ -1495,7 +1494,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-12 .bck-content {
-	padding-left: 30px;
+    padding-left: 30px;
     background-color: #EEF4DC;
     padding: 8px 8px 8px 11px;
 }
