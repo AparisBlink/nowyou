@@ -1588,13 +1588,13 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 /*CAJA15- CajaPairWork */
 
 .bck-box.bck-box-15 {
-    margin-top: 15px;
+	margin-top: 15px;
     border: 3px dotted #B83187;
-    padding: 10px;
+    padding: 0px 11px 10px 16px;
 }
 
 .bck-box.bck-box-15 .bck-title {
-  color: inherit;
+  color: #B83187;
 }
 
 .bck-box.bck-box-15 .bck-title p {
@@ -1612,10 +1612,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background-size: contain;
     background-repeat: no-repeat;
     padding: 49px 39px 0 24px;
-    position: absolute;
-    left: -52px;
+    position: relative;
+    left: -42px;
     z-index: 100;
-    top: 0px;
+    top: 10px;
     width: 10px;
     height: auto;
     margin-top: -6px;
