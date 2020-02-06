@@ -1585,6 +1585,41 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-top: -73px;
 }
 
+/*CAJA15- CajaPairWork */
+
+.bck-box.bck-box-15 {
+    margin-top: 15px;
+    border: 3px dotted #B83187;
+    padding: 10px;
+}
+
+.bck-box.bck-box-15 .bck-title {
+  color: inherit;
+}
+
+.bck-box.bck-box-15 .bck-title p {
+    font-weight: bold;
+}
+
+.bck-box.bck-box-15 .bck-content {
+    background-color: #ffff;
+    padding: 8px 8px 8px 0px;
+}
+
+.bck-box.bck-box-15 .bck-title::before{
+	background-image: url(images/icono_pair.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 49px 39px 0 24px;
+    position: absolute;
+    left: -52px;
+    z-index: 100;
+    top: 0px;
+    width: 10px;
+    height: auto;
+    margin-top: -6px;
+}
 
 /*seccion tÃ­tulo inicio unidad margin-top*/
 #actividad .content .iniciounidad .header .title h3 {
