@@ -683,10 +683,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	color: #ffffff;
     background-color: #F18800;
     width: fit-content;
-    font-size: 3.2rem;
-    text-align: left;
+    font-size: 3rem;
     font-weight: 500;
-    padding: 5px 5px 5px 5px;
+    position: relative;
+    border-radius: 20px 0 0 20px;
+    margin-left: -28px;
+    padding: 5px 5px 6px 0px;
     font-family: 'Conv_FuturaStd-Medium';
 }
 
@@ -695,16 +697,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 49px 39px 0 24px;
-    position: absolute;
-    left: -52px;
+    padding: 24px 44px 0 24px;
+    position: relative;
+    left: -3px;
     z-index: 100;
-    top: 0px;
-    width: 10px;
-    height: auto;
-    margin-top: -6px;
+    top: 12px;
 }
-
 
 /*TÃ­tulo 7 - Titulo Story*/
 .bck-title-7 {
