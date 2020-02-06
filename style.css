@@ -721,30 +721,21 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-family: 'Conv_FuturaStd-Book';
 }
 
-/*TÃ­tulo 8 - Titulo Quiz*/
+/*Título Communication 8 - Titulo Quiz*/
 .bck-title-8 {
-  color: #57575a;
-  font-size: 5rem;
-  text-align: left;
-  font-weight: 800;
-  margin-left: 70px;
-  font-variant: small-caps;
-  text-shadow: 0 4px 1px #B8B8B8;
-  position: relative;
-}
-
-.bck-title-8:before {
-  background-image: url(Images/before-quiz-nowyou.jpg);
-  content: '';
-  background-size: contain;
-  background-repeat: no-repeat;
-  padding: 30px;
-  position: absolute;
-  width: 0px;
-  height: auto;
-  left: -70px;
-  top: -10px;
-  z-index: 100;
+  	color: #ffff;
+    font-size: 2rem;
+    background: #B83187;
+    width: fit-content;
+    position: relative;
+    text-align: left;
+    padding-left: 54px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    left: -97px;
+    font-weight: 700;
+    font-family: 'Conv_FuturaStd-Book';
 }
 
 /*Título 4 Naranja*/
