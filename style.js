@@ -25,10 +25,10 @@
 				{ name: 'Título Quiz', element: 'h2', attributes: { 'class': 'bck-title-8'} },
 				
 				{ name: 'NumeroIntro', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
-				{ name: 'FontInfantil', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
+				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'FontInfantilPuntos', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'FontEjemplos', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
-				{ name: 'FontHurmeGeometric', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
+				{ name: 'Énfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista des 1', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
