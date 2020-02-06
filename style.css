@@ -1538,7 +1538,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 /*icono Nivel1*/
-.icon-hablar2:before {
+.icon-nivel1:before {
   background-image: url(images/icono_nivel1.png);
     content: "";
     background-repeat: no-repeat;
@@ -1555,7 +1555,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 /*icono Nivel2*/
-.icon-hablar3:before {
+.icon-nivel2:before {
 	background-image: url(images/icono_nivel2.png);
     content: "";
     background-repeat: no-repeat;
@@ -1572,7 +1572,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 /*icono Nivel13*/
-.icon-lapiz:before {
+.icon-nivel3:before {
     background-image: url(images/icono_nivel3.png);
     content: "";
     background-repeat: no-repeat;
@@ -1588,22 +1588,24 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-right: 3px;
 }
 
-/*icono Libro*/
-.icon-libro:before {
-  background-image: url(Images/icono-libro-nowyou.png);
-  content: "";
-  background-repeat: no-repeat;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
-  background-position: center center;
-  display: inline-block;
-  vertical-align: middle;
-  height: 30px;
-  width: 33px;
-  margin-right: 3px;
+/*icono Focus*/
+.icon-focus:before {
+    background-image: url(images/icono_focus.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
 }
+
+
 
 /*icono Musica*/
 .icon-musica:before {
@@ -1622,9 +1624,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   margin-right: 10px;
 }
 
-/*icono MusicaMorado1*/
-.icon-musica1:before {
-  background-image: url(Images/icono-musica-morada1.png);
+/*icono Lupa*/
+.icon-lupa:before {
+  background-image: url(Images/icono_lupa.png);
   content: "";
   background-repeat: no-repeat;
   -webkit-background-size: contain;
