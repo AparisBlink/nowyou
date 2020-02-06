@@ -816,6 +816,14 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #009FA5;
 }
 
+/*énfasis morado*/
+.bck-enfasis-6 {
+	font-weight: 500;
+    font-size: 2.1rem;
+    font-family: 'Conv_FuturaStd-Medium';
+    color: #B83187;
+}
+
 /*Line Height Listas*/
 .texto_curso li {
   line-height: 1.8em!important;
