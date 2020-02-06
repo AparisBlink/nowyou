@@ -20,7 +20,7 @@
 				{ name: 'Título NowYou', element: 'h2', attributes: { 'class': 'bck-title-3'} },
 				{ name: 'Título 4-Azul', element: 'h2', attributes: { 'class': 'bck-title-6'} },
 				{ name: 'Título Story', element: 'h2', attributes: { 'class': 'bck-title-7'} },
-				{ name: 'Título Phonics', element: 'h2', attributes: { 'class': 'bck-title-4'} },
+				{ name: '*Título 4 Naranja', element: 'h2', attributes: { 'class': 'bck-title-4'} },
 				{ name: 'Título Project', element: 'h2', attributes: { 'class': 'bck-title-5'} },
 				{ name: 'Título Quiz', element: 'h2', attributes: { 'class': 'bck-title-8'} },
 				
