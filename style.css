@@ -725,28 +725,21 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   z-index: 100;
 }
 
-/*TÃ­tulo Phonics*/
+/*Título 4 Naranja*/
 .bck-title-4 {
-  color: #00ADEE;
-  font-size: 5rem;
-  margin-left: 70px;
-  font-weight: 700;
-  font-family: JacobyICG;
-  position: relative;
-}
-
-.bck-title-4:before {
-  background-image: url(Images/before-phonics-png-nowyou.png);
-  content: '';
-  background-size: contain;
-  background-repeat: no-repeat;
-  padding: 60px;
-  position: absolute;
-  width: 0px;
-  height: auto;
-  left: -100px;
-  top: -7px;
-  z-index: 100;
+    color: #ffff;
+    font-size: 2rem;
+    background: #F18800;
+    width: fit-content;
+    position: relative;
+    text-align: left;
+    padding-left: 54px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    left: -97px;
+    font-weight: 700;
+    font-family: 'Conv_FuturaStd-Book';
 }
 
 /*TÃ­tulo Project*/
