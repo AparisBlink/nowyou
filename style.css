@@ -1461,6 +1461,34 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-top: -73px;
 }
 
+/*CAJA12- CoreValues */
+
+.bck-box.bck-box-12 {
+    margin-top: 15px;
+    background: #EEF4DC;
+    border: 2px solid #ACC33F;
+}
+
+.bck-box.bck-box-12 .bck-title {
+    color: #ffff;
+    background-color: rgb(184,49,135);
+    padding-left: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: fit-content;
+    position: relative;
+    top: -7px;
+    left: -5px;
+}
+
+
+.bck-box.bck-box-12 .bck-content {
+	padding-left: 30px;
+    background-color: #EEF4DC;
+    padding: 8px 8px 8px 11px;
+}
+
 /*seccion tÃ­tulo inicio unidad margin-top*/
 #actividad .content .iniciounidad .header .title h3 {
   margin-top: 150px;
