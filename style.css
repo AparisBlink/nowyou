@@ -761,7 +761,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   color: inherit;
 }
 
-/*Enfasis AumentoTamañoIntro*/
+/*Enfasis NumeroIntro*/
 .bck-enfasis-1 {
     color: #00ACB3;
     font-size: 8rem;
@@ -770,10 +770,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     text-shadow: 1px 0 0 #fff, -1px 0 0 #fff, 0 1px 0 #fff, 0 -1px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
 }
 
-/*fontInfantil*/
+/*énfasis naranja*/
 .bck-enfasis-2 {
-  font-family: SantillanaFillFont;
-  font-size: 4rem;
+    font-size: 1.8rem;
+    font-family: 'Conv_FuturaStd-Medium';
+    color: #F18800;
 }
 
 /*fontInfantilPuntos*/
@@ -790,11 +791,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #22628C;
 }
 
-/*fontEjemploCursiva*/
+/*énfasis azul*/
 .bck-enfasis-5 {
-  font-family: HurmeGeometricSans;
-  font-weight: 700;
-  font-size: 2.2rem;
+	font-weight: 500;
+    font-size: 2.1rem;
+    font-family: 'Conv_FuturaStd-Medium';
+    color: #009FA5;
 }
 
 /*Line Height Listas*/
