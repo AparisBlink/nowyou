@@ -24,7 +24,7 @@
 				{ name: 'Título Project', element: 'h2', attributes: { 'class': 'bck-title-5'} },
 				{ name: 'Título Quiz', element: 'h2', attributes: { 'class': 'bck-title-8'} },
 				
-				{ name: 'ColorRojo', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
+				{ name: 'NumeroIntro', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'FontInfantil', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
 				{ name: 'FontInfantilPuntos', element: 'span', attributes: { 'class': 'bck-enfasis-3'} },
 				{ name: 'FontEjemploCursiva', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
