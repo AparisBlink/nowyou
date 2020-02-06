@@ -691,7 +691,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-title-6:before {
-    background-image: url(images/rich_english_U7_pg64_img_0002.png);
+    background-image: url(images/icono_nowyou.png);
     content: '';
     background-size: contain;
     background-repeat: no-repeat;
