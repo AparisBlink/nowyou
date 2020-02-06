@@ -51,6 +51,8 @@
 				{ name: 'Caja Project', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-9' } },
 				{ name: 'Caja Pronunciation', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-10' } },
 				{ name: 'Caja ReadingsTools', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-11' } },
+				{ name: 'Caja CoreValues', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-12' } },
+
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				
