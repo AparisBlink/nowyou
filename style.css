@@ -1350,17 +1350,17 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-8 .bck-title::after{
-	background-image: url(images/rich_english_U7_pg65_img_0001.PNG);
-	content: '';
+    background-image: url(images/rich_english_U7_pg65_img_0001.PNG);
+    content: '';
     background-size: contain;
     background-repeat: no-repeat;
-    padding: 50px;
+    padding: 27px;
     position: absolute;
-    right: 20px;
-    top: 0;
+    right: 14px;
+    /* top: 0; */
     width: 10px;
     height: auto;
-    margin-top: -36px;
+    margin-top: -73px;
 }
 
 /*Caja Project */
