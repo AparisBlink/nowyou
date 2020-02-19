@@ -1727,6 +1727,37 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-top: -6px;
 }
 
+
+/*CAJA 16*/
+
+.bck-box.bck-box-16 {
+    position: relative;
+    padding: 23px 18px 91px 83px;
+    background-size: cover;
+    top: -78px;
+    left: -97px;
+    width: 125.5%;
+}
+
+
+/*.bck-box-1 .bck-title {
+  border: 3px solid #ED155B;
+  background-color: #ED155B;
+  color: #FFF;
+  width: fit-content;
+  font-weight: 700;
+  width: -moz-fit-content;
+  height: auto;
+  font-size: 3.5rem;
+  border-radius: 10px 10px 0px 0px;
+  padding: 4px 4px 4px 4px;
+  font-family: JacobyICG;
+}*/
+
+.bck-box-16 .bck-content {
+    padding: 0;
+}
+
 /*seccion tÃ­tulo inicio unidad margin-top*/
 #actividad .content .iniciounidad .header .title h3 {
   margin-top: 150px;
