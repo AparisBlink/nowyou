@@ -62,7 +62,7 @@
 				{ name: 'Caja WritingsTools', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-13' } },
 				{ name: 'Caja SpeakingTools', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-14' } },
 				{ name: 'Caja PairWork', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-15' } },
-
+				{ name: 'Caja 16', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-16' } },
 
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
