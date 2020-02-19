@@ -726,6 +726,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     left: -97px;
     font-weight: 700;
     font-family: 'Conv_FuturaStd-Book';
+    margin-top: 0px;
 }
 
 /*Título Communication 8 - Titulo Quiz*/
