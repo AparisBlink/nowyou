@@ -470,7 +470,7 @@ vertical-align: top;
   font-weight: 300;
 }
 
-#actividad .workspace.true-false -tf-option {
+#actividad .workspace.true-false .tf-option {
 	display: inline-block;
 	margin-left: 70px;
 }
