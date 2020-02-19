@@ -770,8 +770,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-title-10 {
 	background-color: #f0e500;
 	font-weight: 600;
-	padding: 3px 10px;
+	padding: 9px 15px;
 	font-size: 1.8rem;
+	width: fit-content;
+	margin-left: -2.5%;
+	margin-top: 4%;
 }
 
 /*-------------*/
@@ -932,6 +935,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   font-weight: 100;
   margin-left: -2px;
   color: #009fa5;
+  margin-bottom: 0px;
 }
 
 #actividad .content .texto_curso .bck-ul-4 li:before,
