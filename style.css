@@ -789,6 +789,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*Título 11*/
 .bck-title-11 {
+	display: inline-block;
 	background-color: #353533;
 	color: #fff;
 	font-weight: 600;
