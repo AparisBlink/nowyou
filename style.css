@@ -1196,11 +1196,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     position: absolute;
     margin-left: -45px;
     margin-right: 0px;
-    font-size: 2rem;
+    font-size: 1.6rem;
     text-align: center;
     font-weight: 700;
-    padding: 3px;
-    top: 2px;
+    padding: 0px 6px;
+    top: 5px;
     left: 20px;
     line-height: 25px;
 
