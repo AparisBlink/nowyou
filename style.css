@@ -1161,20 +1161,19 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*Lista ordenada 6*/
 
-/*LISTA 3*/
-#actividad .content .cke_contents .bck-ol-3,
-#actividad .content .texto_curso .bck-ol-3,
-#actividad .content .workspace ul li .bck-ol-3,
-#actividad .popover-content .bck-ol-3 {
+#actividad .content .cke_contents .bck-ol-6,
+#actividad .content .texto_curso .bck-ol-6,
+#actividad .content .workspace ul li .bck-ol-6,
+#actividad .popover-content .bck-ol-6 {
   list-style-type: none;
   counter-reset: bck-li-counter;
 }
 
-#actividad .content .cke_contents .bck-ol-3 li,
-#actividad .content .cke_contents .bck-ol-3 li,
-#actividad .content .texto_curso .bck-ol-3 li,
-#actividad .popover-content .bck-ol-3 li,
-#actividad .content .workspace ul li .bck-ol-3 li {
+#actividad .content .cke_contents .bck-ol-6 li,
+#actividad .content .cke_contents .bck-ol-6 li,
+#actividad .content .texto_curso .bck-ol-6 li,
+#actividad .popover-content .bck-ol-6 li,
+#actividad .content .workspace ul li .bck-ol-6 li {
     counter-increment: bck-li-counter;
     padding-left: 0px;
     position: relative;
@@ -1187,10 +1186,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     line-height: 1.8em!important;
 }
 
-#actividad .content .cke_contents ol.bck-ol-3 li:before,
-#actividad .content .texto_curso ol.bck-ol-3 li:before,
-#actividad .popover-content ol.bck-ol-3 li:before,
-#actividad .content .workspace ul li ol.bck-ol-3 li:before {
+#actividad .content .cke_contents ol.bck-ol-6 li:before,
+#actividad .content .texto_curso ol.bck-ol-6 li:before,
+#actividad .popover-content ol.bck-ol-6 li:before,
+#actividad .content .workspace ul li ol.bck-ol-6 li:before {
 	content: counter(bck-li-counter);
 	color: #fff;
 	background-color: #333;
