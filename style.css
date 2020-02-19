@@ -687,6 +687,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*Título 6 - Título NowYouNaranja*/
 .bck-title-6 {
+	display: inline-block;
 	color: #ffffff;
     background-color: #F18800;
     width: fit-content;
