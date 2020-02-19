@@ -784,6 +784,17 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	margin-top: 4%;
 }
 
+
+/*Título 11*/
+.bck-title-11 {
+	background-color: #353533;
+	color: #fff;
+	font-weight: 600;
+	padding: 9px 15px;
+	font-size: 1.8rem;
+	width: fit-content;
+}
+
 /*-------------*/
 
 /*Enfasis*/
