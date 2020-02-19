@@ -34,12 +34,15 @@
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista des 1', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
 				{ name: 'Lista DesNaranja', element: 'ul', attributes: { 'class': 'bck-ul-2'} },
+				{ name: 'Lista Desordenada 4', element: 'ul', attributes: { 'class': 'bck-ul-4'} },
 							
 				{ name: 'Lista 1', element: 'ol', attributes: { 'class': 'bck-ol-1' } },
 				{ name: 'Lista 2', element: 'ol', attributes: { 'class': 'bck-ol-2' } },
 				{ name: 'Lista 3', element: 'ol', attributes: { 'class': 'bck-ol-3' } },
 				{ name: 'Lista LetraMinus', element: 'ol', attributes: { 'class': 'bck-ol-4' } },
 				{ name: 'Lista LetraMinusMorada', element: 'ol', attributes: { 'class': 'bck-ol-5' } },
+				{ name: 'Lista Ordenada 6', element: 'ol', attributes: { 'class': 'bck-ol-6' } },
+				
 										
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-2' } },
