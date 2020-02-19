@@ -23,6 +23,7 @@
 				{ name: 'Título Reading', element: 'h2', attributes: { 'class': 'bck-title-7'} },
 				{ name: 'Título Communication', element: 'h2', attributes: { 'class': 'bck-title-8'} },
 				{ name: 'Título 1-Izquierda', element: 'h2', attributes: { 'class': 'bck-title-9'} },
+				{ name: 'Título 10', element: 'h2', attributes: { 'class': 'bck-title-10'} },
 				
 				{ name: 'NumeroIntro', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
@@ -30,7 +31,6 @@
 				{ name: 'FontEjemplos', element: 'span', attributes: { 'class': 'bck-enfasis-4'} },
 				{ name: 'Énfasis azul', element: 'span', attributes: { 'class': 'bck-enfasis-5'} },
 				{ name: 'Énfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
-				{ name: 'Énfasis 7', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista des 1', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
