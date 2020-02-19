@@ -832,7 +832,13 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #B83187;
 }
 
-
+/*Énfasis 7*/
+.bck-enfasis-7 {
+	background-color: #D8EDEE;
+	color: #009FA5;
+	padding: 10px;
+	font-weight: 600;
+}
 
 /*Line Height Listas*/
 .texto_curso li {
