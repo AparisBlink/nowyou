@@ -866,9 +866,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	background-color: #353533;
 	color: #fff;
 	font-weight: 600;
-	padding: 9px 15px;
+	padding: 3px 5px;
 	width: fit-content;
-	font-size: 2rem;
+	font-size: 1.8rem;
 }
 
 /*Line Height Listas*/
