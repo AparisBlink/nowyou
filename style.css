@@ -836,7 +836,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-enfasis-7 {
 	background-color: #D8EDEE;
 	color: #009FA5;
-	padding: 10px;
+	padding: 5px;
 	font-weight: 600;
 }
 
