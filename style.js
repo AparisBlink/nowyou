@@ -24,6 +24,7 @@
 				{ name: 'Título Communication', element: 'h2', attributes: { 'class': 'bck-title-8'} },
 				{ name: 'Título 1-Izquierda', element: 'h2', attributes: { 'class': 'bck-title-9'} },
 				{ name: 'Título 10', element: 'h2', attributes: { 'class': 'bck-title-10'} },
+				{ name: 'Título 11', element: 'h2', attributes: { 'class': 'bck-title-11'} },
 				
 				{ name: 'NumeroIntro', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
