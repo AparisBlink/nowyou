@@ -1271,7 +1271,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background: url(images/rich_english_U7_pg64_img_0001.png) repeat-y;
     padding: 23px 18px 91px 83px;
     background-size: cover;
-    top: -78px;
+    top: -101px;
     left: -97px;
     width: 125.5%;
 }
@@ -1770,6 +1770,28 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box-16 .bck-content {
     padding: 0;
+}
+
+
+/*Caja 17*/
+.bck-box.bck-box-17 {
+  margin-top: -100px;
+  border: none;
+  background: transparent;
+  width: 387px;
+  margin-left: -56px;
+}
+
+.bck-box.bck-box-17 .bck-title {
+  color: inherit;
+}
+
+
+.bck-box.bck-box-17 .bck-content {
+    padding-left: 30px;
+    background-color: #ffff;
+    padding: 8px 8px 8px 10px;
+    border: 3px dotted #00889E;
 }
 
 /*seccion tÃ­tulo inicio unidad margin-top*/
