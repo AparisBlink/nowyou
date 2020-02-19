@@ -766,6 +766,14 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   margin-top: 0px;
 }
 
+/*Título 10*/
+.bck-title-10 {
+	background-color: #f0e500;
+	font-weight: 600;
+	padding: 3px 10px;
+	font-size: 1.8rem;
+}
+
 /*-------------*/
 
 /*Enfasis*/
@@ -820,13 +828,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #B83187;
 }
 
-/*Énfasis 7*/
-.bck-enfasis-7 {
-	background-color: #f0e500;
-	font-weight: 600;
-	padding: 3px 10px;
 
-}
 
 /*Line Height Listas*/
 .texto_curso li {
