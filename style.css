@@ -691,12 +691,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	color: #ffffff;
     background-color: #F18800;
     width: fit-content;
-    font-size: 3rem;
+    font-size: 2.2rem;
     font-weight: 500;
     position: relative;
     border-radius: 20px 0 0 20px;
     margin-left: -28px;
-    padding: 5px 5px 6px 0px;
+    padding: 5px 10px 6px 0px;
     font-family: 'Conv_FuturaStd-Medium';
 }
 
