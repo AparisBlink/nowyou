@@ -872,6 +872,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	font-size: 1.8rem;
 }
 
+/*Énfasis 9*/
+.bck-enfasis-9 {
+	font-size: 1.3rem;
+	color: #575656;
+}
+
 /*Line Height Listas*/
 .texto_curso li {
   line-height: 1.8em!important;
@@ -1831,6 +1837,28 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-box.bck-box-18 .bck-content {
 	background-color: #B83187;
 	color: #fff;
+}
+
+/*Caja 19*/
+
+.bck-box.bck-box-19 {
+	border-radius: 15px;
+	border: 8px solid #1D1D1B;
+}
+
+.bck-box.bck-box-19 .bck-title {
+	background-color: #ececec;
+	padding: 10px;
+}
+
+.bck-box.bck-box-19 .bck-content {
+	padding: 15px;
+}
+
+/*Caja 20*/
+.bck-box.bck-box-20 {
+	border-radius: 10px;
+	background-color: #ececec;
 }
 
 /**/
