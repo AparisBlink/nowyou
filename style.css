@@ -879,6 +879,15 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	font-weight: bold;
 }
 
+/*Énfasis 10*/
+.bck-enfasis-10 {
+	font-size: 1.4rem;
+	color: #575656;
+	font-weight: bold;
+	background-color: #d4edfc;
+	border-radius: 20px;
+}
+
 /*Line Height Listas*/
 .texto_curso li {
   line-height: 1.8em!important;
@@ -1864,6 +1873,37 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-box.bck-box-20 {
 	border-radius: 10px;
 	background-color: #ececec;
+}
+
+/*Caja 21*/
+
+.bck-box.bck-box-21 {
+	border-radius: 15px;
+}
+
+.bck-box.bck-box-21 .bck-title {
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	background-color: #ececec;
+	padding: 10px;
+}
+
+.bck-box.bck-box-21 .bck-content {
+	padding: 15px;
+}
+
+/*Caja 22*/
+.bck-box.bck-box-22 {
+	border-radius: 10px;
+	background-color: #d5e2a0;
+	border: 2px solid #a2c626;
+}
+
+/*Caja 23*/
+.bck-box.bck-box-23 {
+	border-radius: 10px;
+	background-color: #fff;
+	border: 2px solid #a2c626;
 }
 
 /**/
