@@ -69,8 +69,10 @@
 
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
+				{ name: 'Tabla 3', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-3'} },
 				
 				{ name: 'Celda Color', element: 'td', attributes: { 'class': 'bck-td-2'} },
+				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td-3'} },
 				
 				{ name: 'Icono Hablar', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
 				{ name: 'Icono Icono Nivel 1', element: 'span', attributes: { 'class': 'icon icon-nivel1' } },
