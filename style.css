@@ -314,7 +314,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 }
 
 #book-index #indice .unit-content .actividades .item {
-  background: #f5dabe;
+  background: transparent;
 }
 
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
@@ -327,7 +327,9 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
-  background: #0378b2;;
+  background: transparent;
+  border-bottom: 2px solid #0378b2;
+  padding-left: 10px;
 }
 
 /*HEADER*/
