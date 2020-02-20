@@ -320,8 +320,9 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover,
 #book-index #indice .unit-content .actividades .item.active,
 #book-index #indice .unit-content .actividades .item.current {
-  color: #fff;
-  background: #0487c7;
+  background: transparent;
+  border-bottom: 2px solid #0378b2;
+  padding-left: 10px;
 }
 
 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
