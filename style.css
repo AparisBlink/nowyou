@@ -886,6 +886,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	font-weight: bold;
 	background-color: #d4edfc;
 	border-radius: 20px;
+	padding: 7px;
 }
 
 /*Line Height Listas*/
@@ -1897,6 +1898,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	border-radius: 10px;
 	background-color: #d5e2a0;
 	border: 2px solid #a2c626;
+	-webkit-box-shadow: 0 0 4px 2px #c0cec5;
+	box-shadow: 0 0 4px 2px #c0cec5;
 }
 .bck-box.bck-box-22 .bck-title {
 	background-color: #d5e2a0;
@@ -1908,6 +1911,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	border-radius: 10px;
 	background-color: #fff;
 	border: 2px solid #a2c626;
+	-webkit-box-shadow: 0 0 4px 2px #c0cec5;
+	box-shadow: 0 0 4px 2px #c0cec5;
 }
 
 .bck-box.bck-box-23 .bck-title {
