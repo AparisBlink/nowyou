@@ -1845,6 +1845,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-box.bck-box-19 {
 	border-radius: 15px;
 	border: 8px solid #1D1D1B;
+	border-bottom: none;
 }
 
 .bck-box.bck-box-19 .bck-title {
