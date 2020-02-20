@@ -1806,14 +1806,11 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	background-color: #B83187;
 	color: #fff;
 	font-size: 2.3rem;
-	padding-left: 24%;
-	padding-top: 5px;
+	padding-left: 25%;
+	padding-top: 8px;
 	padding-bottom: 15px;
-}
-
-.bck-box.bck-box-18 .bck-title p {
-	padding-left: 10px;
-	font-size: 2.3rem;
+	font-weight: 100;
+	letter-spacing: 1px;
 }
 
 .bck-box.bck-box-18 .bck-title:before {
@@ -1825,8 +1822,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	padding: 8px 10px;
 	position: absolute;
 	letter-spacing: 2px;
-	margin-left: -25.2%;
-	margin-top: -5px;
+	margin-left: -26.2%;
+	margin-top: -8px;
 }
 
 .bck-box.bck-box-18 .bck-content {
