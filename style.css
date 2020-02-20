@@ -874,8 +874,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*Énfasis 9*/
 .bck-enfasis-9 {
-	font-size: 1.3rem;
+	font-size: 1.4rem;
 	color: #575656;
+	font-weight: bold;
 }
 
 /*Line Height Listas*/
