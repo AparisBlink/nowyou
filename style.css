@@ -1798,7 +1798,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box.bck-box-18 {
 	padding: 18px;
-	padding-top: 5px;
+	padding-top: 0px;
 	background-color: #B83187;
 }
 
@@ -2107,6 +2107,7 @@ table td.bck-td-2 {
 
 .bck-table-3 td {
   border: 2px solid #B83187;
+  background-color: #fff;
 }
 
 /**/
