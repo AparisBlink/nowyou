@@ -34,6 +34,7 @@
 				{ name: 'Énfasis morado', element: 'span', attributes: { 'class': 'bck-enfasis-6'} },
 				{ name: 'Énfasis 7', element: 'span', attributes: { 'class': 'bck-enfasis-7'} },
 				{ name: 'Énfasis 8', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
+				{ name: 'Énfasis 9', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
 				{ name: 'Lista des 1', element: 'ul', attributes: { 'class': 'bck-ul-1'} },
@@ -67,6 +68,7 @@
 				{ name: 'Caja 17', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-17' } },
 				{ name: 'Caja 18', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-18' } },
 				{ name: 'Caja 19', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-19' } },
+				{ name: 'Caja 20', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-20' } },
 
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
