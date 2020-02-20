@@ -1904,11 +1904,15 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	-webkit-box-shadow: 0 0 4px 2px #c0cec5;
 	box-shadow: 0 0 4px 2px #c0cec5;
 }
+
 .bck-box.bck-box-22 .bck-title {
 	background-color: #d5e2a0;
 	padding-left: 15px;
 }
 
+.bck-box.bck-box-22 .bck-content {
+	background-image: none;
+}
 
 
 /*Caja 23*/
@@ -1923,6 +1927,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-box.bck-box-23 .bck-title {
 	background-color: #fff;
 	padding-left: 15px;
+}
+
+.bck-box.bck-box-23 .bck-content {
+	background-image: none;
 }
 
 /**/
