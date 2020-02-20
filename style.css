@@ -1894,6 +1894,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	background-image: url(images/fondo_caja_whatsapp.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 }
 
 
