@@ -1794,6 +1794,22 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     border: 3px dotted #00889E;
 }
 
+/*Caja 18*/
+
+.bck-box.bck-box-18 .bck-title {
+	background-color: #B83187;
+	color: #fff;
+	font-size: 2.3rem;
+}
+
+
+.bck-box.bck-box-18 .bck-content {
+	background-color: #B83187;
+	color: #fff;
+}
+
+/**/
+
 /*seccion tÃ­tulo inicio unidad margin-top*/
 #actividad .content .iniciounidad .header .title h3 {
   margin-top: 150px;
