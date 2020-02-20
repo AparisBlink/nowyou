@@ -593,7 +593,7 @@ vertical-align: top;
 /*Icono audio*/
 
 #actividad .player.audio {
-  background-image: url(Images/icono-audio-nowyou.png);
+  background-image: url(images/rich_english_U7_pg64_img_0004.png);
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -3216,7 +3216,7 @@ border-color: #009FA5;
 
       #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
       display: inline-block;
-      background-image: url(images/icono-audio-nowyou.png);
+      background-image: url(images/rich_english_U7_pg64_img_0004.png);
       background-color: rgba(0, 128, 0, 0)!important;
       background-repeat: no-repeat;
       background-size: contain;
@@ -3245,7 +3245,7 @@ border-color: #009FA5;
 @media only screen and (max-width: 1024px) and (min-width: 769px)  {
   #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
       display: inline-block;
-      background-image: url(Images/icono-audio-nowyou.png);
+      background-image: url(images/rich_english_U7_pg64_img_0004.png);
       background-color: rgba(0, 128, 0, 0)!important;
       background-repeat: no-repeat;
       background-size: contain;
