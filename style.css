@@ -3216,7 +3216,7 @@ border-color: #009FA5;
 
       #actividad .player.audio, #actividad .player.video, #help-panel-content .player, #remote-alert-modal-rich .player {
       display: inline-block;
-      background-image: url(Images/icono-audio-nowyou.png);
+      background-image: url(images/icono-audio-nowyou.png);
       background-color: rgba(0, 128, 0, 0)!important;
       background-repeat: no-repeat;
       background-size: contain;
