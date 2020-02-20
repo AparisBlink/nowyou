@@ -1893,6 +1893,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	padding: 15px;
 	background-image: url(images/fondo_caja_whatsapp.png);
 	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 
