@@ -1898,12 +1898,21 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	background-color: #d5e2a0;
 	border: 2px solid #a2c626;
 }
+.bck-box.bck-box-22 .bck-title {
+	background-color: #d5e2a0;
+	padding-left: 15px;
+}
 
 /*Caja 23*/
 .bck-box.bck-box-23 {
 	border-radius: 10px;
 	background-color: #fff;
 	border: 2px solid #a2c626;
+}
+
+.bck-box.bck-box-23 .bck-title {
+	background-color: #fff;
+	padding-left: 15px;
 }
 
 /**/
