@@ -1798,6 +1798,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box.bck-box-18 {
 	padding: 20px;
+	background-color: #B83187;
 }
 
 .bck-box.bck-box-18 .bck-title {
