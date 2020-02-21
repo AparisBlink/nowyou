@@ -1808,7 +1808,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     position: relative;
     padding: 0px;
     background-size: cover;
-    top: -78px;
+    top: -22px;
     left: -97px;
     width: 125.5%;
     margin-bottom: -40px;
