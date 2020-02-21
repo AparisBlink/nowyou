@@ -303,13 +303,10 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 #book-index #indice .unit-content a:hover,
 #indice .units ul li a:hover,
-#indice .actividades a:hover,
 #book-index #indice .unit-content a:active,
 #indice .units ul li a:active,
-#indice .actividades a:active,
 #book-index #indice .unit-content a:focus,
-#indice .units ul li a:focus,
-#indice .actividades a:focus {
+#indice .units ul li a:focus {
   color: #fff;
 }
 
