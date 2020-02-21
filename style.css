@@ -2570,6 +2570,17 @@ border-color: #009FA5;
 
 }
 
+/*------------------Iconos - coursetag_nowyou_3--------------------*/
+
+/*Icono lápiz*/
+.coursetag_nowyou_3 .icon-lapiz:before {
+  background-image: url(images/icono_lapiz_verde.png);
+}
+
+.coursetag_nowyou_3 #actividad .player.audio {
+  background-image: url(images/icono_audio_verde.png);
+}
+
 /****/
 
 @media screen and (max-width: 450px) {
