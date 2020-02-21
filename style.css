@@ -2555,6 +2555,16 @@ border-color: #009FA5;
     border: 3px dotted #8bbf36;
 }
 
+/*Caja 24*/
+
+.coursetag_nowyou_3 .bck-box.bck-box-24 {
+  background: #82c44c;
+}
+
+.coursetag_nowyou_3 .bck-box.bck-box-24 .bck-content {
+   background-color: #82c44c;
+}
+
 
 /*-------------------Énfasis - coursetag_nowyou_3------------------*/
 
@@ -2577,6 +2587,7 @@ border-color: #009FA5;
   background-image: url(images/icono_lapiz_verde.png);
 }
 
+/*Icono audio*/
 .coursetag_nowyou_3 #actividad .player.audio {
   background-image: url(images/icono_audio_verde.png);
 }
