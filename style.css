@@ -354,7 +354,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 }
 
 #actividad .class_slide {
-  padding: 20px 97px 0px;
+  padding: 20px 97px 10px;
   }
 
 body.is_app #actividad .class_slide {
