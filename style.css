@@ -310,6 +310,13 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
   color: #fff;
 }
 
+#indice .actividades a:hover,
+#indice .actividades a:active,
+#indice .actividades a:focus {
+	color: #0cb9ea;
+}
+
+
 #book-index #indice .unit-content .actividades .item {
   background: transparent;
 }
