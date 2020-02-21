@@ -1027,6 +1027,30 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-left: -19px;
 }
 
+/*lista desordenada 5*/
+
+#actividad .content .texto_curso .bck-ul-5 li,
+#actividad .content .workspace ul li .bck-ul-5 li ,
+#actividad .popover-background.shown .popover-content .bck-ul-5 li {
+  font-size: 1.8rem;
+  font-weight: 100;
+  margin-left: -2px;
+  color: #fff;
+  margin-bottom: 0px;
+}
+
+#actividad .content .texto_curso .bck-ul-5 li:before,
+#actividad .content .workspace ul li .bck-ul-5 li:before ,
+#actividad .popover-background.shown .popover-content .bck-ul-5 li:before{
+    content: "";
+    height: 8px;
+    width: 8px;
+    background-color: #fff;
+    border-radius: 0;
+    margin-top: 14px;
+    margin-left: -19px;
+}
+
 /*LISTAS ORDENADAS*/
 
 /*LISTA ORDENADA General*/
@@ -1954,6 +1978,28 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box.bck-box-23 .bck-content {
 	background-image: none;
+}
+
+/*Caja 24*/
+
+/*Caja 17*/
+.bck-box.bck-box-24 {
+  margin-top: -42px;
+  border: none;
+  background: #009FA5;
+  width: 387px;
+  margin-left: -56px;
+}
+
+.bck-box.bck-box-24 .bck-title {
+  color: inherit;
+}
+
+
+.bck-box.bck-box-24 .bck-content {
+    padding-left: 30px;
+    background-color: #ffff;
+    padding: 8px 8px 8px 10px;
 }
 
 /**/
