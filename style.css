@@ -1840,7 +1840,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   border: none;
   background: transparent;
   width: 387px;
-  margin-left: -56px;
+  margin-left: -55px;
 }
 
 .bck-box.bck-box-17 .bck-title {
@@ -1987,7 +1987,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   border: none;
   background: #009FA5;
   width: 387px;
-  margin-left: -56px;
+  margin-left: -55px;
 }
 
 .bck-box.bck-box-24 .bck-title {
@@ -2510,17 +2510,75 @@ border-color: #009FA5;
 
 /*--------------------------------------------------TAGS--------------------------------------------*/
 
-/*Tag Libro 3 - .coursetag_nowyou_3*/
+/*----------------------------Tag Libro 3 - coursetag_nowyou_3----------------------------*/
 
-.coursetag_nowyou_3 .bck-box.bck-box-1 {
-    background: url(images/rich_english_U7_pg64_img_0001.png);
+/*-----------------Títulos - coursetag_nowyou_3----------------*/
+
+/*Título 3*/
+.coursetag_nowyou_3 .bck-title-3 {
+    color: #8bbf36;
+    background-color: #ebf3dc;
 }
+
+
+/*-------------Listas ordenadas - coursetag_nowyou_3------------*/
+
+/*Lista 2*/
+.coursetag_nowyou_3 #actividad .content .cke_contents ol.bck-ol-2 li:before,
+.coursetag_nowyou_3 #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.coursetag_nowyou_3 #actividad .popover-content ol.bck-ol-2 li:before,
+.coursetag_nowyou_3 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+    color: #8bbf36;
+}
+
+/*------------Listas desordenadas - coursetag_nowyou_3-----------*/
+
+/*Lista desordenada 4*/
+
+.coursetag_nowyou_3 #actividad .content .texto_curso .bck-ul-4 li,
+.coursetag_nowyou_3 #actividad .content .workspace ul li .bck-ul-4 li ,
+.coursetag_nowyou_3 #actividad .popover-background.shown .popover-content .bck-ul-4 li {
+  color: #8bbf36;
+}
+
+.coursetag_nowyou_3 #actividad .content .texto_curso .bck-ul-4 li:before,
+.coursetag_nowyou_3 #actividad .content .workspace ul li .bck-ul-4 li:before ,
+.coursetag_nowyou_3 #actividad .popover-background.shown .popover-content .bck-ul-4 li:before{
+    background-color: #8bbf36;
+}
+
+/*-------------------Cajas - coursetag_nowyou_3------------------*/
+
+/*Caja 17*/
 
 .coursetag_nowyou_3 .bck-box.bck-box-17 .bck-content {
     border: 3px dotted #8bbf36;
 }
 
+
+/*-------------------Énfasis - coursetag_nowyou_3------------------*/
+
+/*Énfasis 1*/
+.coursetag_nowyou_3 .bck-enfasis-1 {
+	color: #a0c857;
+}
+
+/*Énfasis 7*/
+.coursetag_nowyou_3 .bck-enfasis-7 {
+	color: #8bbf36;
+    background-color: #ebf3dc;
+
+}
+
 /****/
+
+@media screen and (max-width: 450px) {
+
+#actividad .class_slide {
+	padding: 20px 15px 10px;
+}
+
+}
 
 
 @media screen and (max-width: 500px) {
@@ -2579,14 +2637,6 @@ border-color: #009FA5;
   -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
   -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
   box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
-}
-
-  .bck-box.bck-box-1 .bck-content {
-  padding-left: 30px;
-  background-color: #FFF;
-  border: 8px solid #ED155B;
-  border-radius: 0px 0px 10px 10px;
-  padding: 8px 8px 8px 8px;
 }
 }
 
