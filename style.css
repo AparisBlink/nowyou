@@ -1309,7 +1309,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background: url(images/rich_english_U7_pg64_img_0001.png) repeat-y;
     padding: 60px 18px 91px 83px;
     background-size: cover;
-    top: -101px;
+    top: -42px;
     left: -97px;
     width: 125.5%;
 }
@@ -1812,7 +1812,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*Caja 17*/
 .bck-box.bck-box-17 {
-  margin-top: -100px;
+  margin-top: -42px;
   border: none;
   background: transparent;
   width: 387px;
