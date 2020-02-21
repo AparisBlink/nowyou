@@ -202,6 +202,11 @@ body {
 	    display: none;
 }
 
+#actividad .content .header {
+	display: none;
+}
+
+
 #actividad .content .header .title img {
 	display: none;
 }
@@ -2463,7 +2468,7 @@ border-color: #009FA5;
 /*Tag Libro 3 - .coursetag_nowyou_3*/
 
 .coursetag_nowyou_3 .bck-box.bck-box-1 {
-    background: url(images/rich_english_U7_pg64_img_0001.png) repeat-y;
+    background: url(images/rich_english_U7_pg64_img_0001.png);
 }
 
 .coursetag_nowyou_3 .bck-box.bck-box-17 .bck-content {
