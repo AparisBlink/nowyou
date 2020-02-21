@@ -1982,7 +1982,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*Caja 24*/
 
-/*Caja 17*/
 .bck-box.bck-box-24 {
   margin-top: -42px;
   border: none;
@@ -1998,7 +1997,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box.bck-box-24 .bck-content {
     padding-left: 30px;
-    background-color: #ffff;
+    background-color: #009FA5;
     padding: 8px 8px 8px 10px;
 }
 
