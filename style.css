@@ -2108,6 +2108,57 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-right: 3px;
 }
 
+/*icono Nivel14*/
+.icon-nivel4:before {
+    background-image: url(images/icono_nivel4.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 205px;
+    margin-right: 3px;
+}
+
+/*icono Nivel15*/
+.icon-nivel5:before {
+    background-image: url(images/icono_nivel5.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 205px;
+    margin-right: 3px;
+}
+
+/*icono Nivel16*/
+.icon-nivel6:before {
+    background-image: url(images/icono_nivel6.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 205px;
+    margin-right: 3px;
+}
+
 /*icono Focus*/
 .icon-focus:before {
     background-image: url(images/icono_focus.png);
