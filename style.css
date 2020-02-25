@@ -2646,6 +2646,21 @@ border-color: #009FA5;
 
 /****/
 
+@media screen and (max-width: 375px) {
+
+#actividad .box p{
+	font-size: 1.5rem;
+}
+
+.btn-primary[disabled], .btn-primary[disabled]:focus{
+	margin-bottom: 10px;
+}
+
+.btn-danger, .btn-danger[disabled]{
+	margin-bottom: 10px;
+}
+}
+
 @media screen and (max-width: 450px) {
 
 #actividad .class_slide {
