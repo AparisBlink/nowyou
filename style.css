@@ -2741,6 +2741,16 @@ border-color: #009FA5;
 #actividad .popover-content .bck-ol-2 li, 
 #actividad .content .workspace ul li .bck-ol-2 li{
 	margin-left: -20px;
+}
+	
+.bck-box.bck-box-3{
+	padding: 20px 1px 17px 60px;
+}
+
+.bck-box.bck-box-3 .bck-content{
+	position: relative;
+    left: -26px;
+    top: 10px;
 }	
 
 }
