@@ -2707,6 +2707,10 @@ border-color: #009FA5;
 
 
 @media screen and (max-width: 500px) {
+	
+#actividad .class_slide{
+	padding: 20px 60px 10px;
+}		
 
 #actividad .carousel-inner .item-container {
   -webkit-box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
@@ -2717,6 +2721,19 @@ border-color: #009FA5;
 #actividad .content .header .title h3:after {
   display: none;
 }
+	
+.bck-dropdown-titulo{
+	padding-left: 0px;
+}
+
+.bck-dropdown-icon{
+	width: 35px;
+    height: 35px;
+}
+
+.bck-dropdown-icon>.fa{
+	padding: 4px;
+}	
 
 
 }
