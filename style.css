@@ -2651,6 +2651,56 @@ border-color: #009FA5;
 #actividad .class_slide {
 	padding: 20px 15px 10px;
 }
+	
+.bck-box.bck-box-1{
+	left: -32px;
+}
+
+.bck-box.bck-box-24{
+	position: relative;
+    left: 50px;
+}
+
+.bck-title-1{
+	left: -52px;
+}
+
+.bck-title-7{
+	left: -52px;
+}
+
+.bck-title-8{
+	left: -52px;
+}
+
+.bck-box.bck-box-16{
+	top: -7px;
+    left: -19px;
+    width: 108.2%;
+}
+
+.bck-title-6{
+	margin-left: -20px;
+}
+
+.bck-title-6:before{
+	padding: 24px 30px 0 24px;
+    left: -3px;
+}
+
+#actividad .content .cke_contents .bck-ol-2 li, 
+#actividad .content .cke_contents .bck-ol-2 li, 
+#actividad .content .texto_curso .bck-ol-2 li, 
+#actividad .popover-content .bck-ol-2 li, 
+#actividad .content .workspace ul li .bck-ol-2 li{
+	margin-left: -20px;
+}
+
+#actividad .carousel-inner .item-container.aux-fullscreen, 
+#actividad .carousel-inner .item-container.aux-bckg{
+	padding-left: 0;
+}
+	
 
 }
 
