@@ -85,9 +85,9 @@
 				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td-3'} },
 				
 				{ name: 'Icono Hablar', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
-				{ name: 'Icono Icono Nivel 1', element: 'span', attributes: { 'class': 'icon icon-nivel1' } },
-				{ name: 'Icono Icono Nivel 2', element: 'span', attributes: { 'class': 'icon icon-nivel2' } },
-				{ name: 'Icono Icono Nivel 3', element: 'span', attributes: { 'class': 'icon icon-nivel3' } },
+				{ name: 'Icono Nivel 1', element: 'span', attributes: { 'class': 'icon icon-nivel1' } },
+				{ name: 'Icono Nivel 2', element: 'span', attributes: { 'class': 'icon icon-nivel2' } },
+				{ name: 'Icono Nivel 3', element: 'span', attributes: { 'class': 'icon icon-nivel3' } },
 				{ name: 'Icono Focus', element: 'span', attributes: { 'class': 'icon icon-focus' } },
 				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
 				{ name: 'Icono Lupa', element: 'span', attributes: { 'class': 'icon icon-lupa' } },
