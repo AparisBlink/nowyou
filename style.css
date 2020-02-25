@@ -2718,15 +2718,15 @@ border-color: #009FA5;
 }
 	
 .bck-box.bck-box-18 .bck-title:before{
-	margin-left: 1.7%;
-    margin-top: -8px;
+	margin-left: -23.3%;
+    margin-top: -40px;
 }
 
 .bck-box.bck-box-18 .bck-title{
-	padding-top: 35px;
-}	
-	
-
+	padding-top: 40px;
+	position: relative;
+    left: -83px;
+}
 }
 
 
