@@ -2601,6 +2601,22 @@ border-color: #009FA5;
 
 /*-------------------Cajas - coursetag_nowyou_3------------------*/
 
+/*caja 3*/
+/*CAJA3 Video*/
+
+.coursetag_nowyou_3 .bck-box.bck-box-3 {
+  background: #A7CB62;
+}
+
+.coursetag_nowyou_3 .bck-box.bck-box-3 .bck-content {
+    background-color: #A7CB62;
+}
+
+
+.coursetag_nowyou_3 .bck-box.bck-box-3 .bck-title {
+	color: #A7CB62;
+}
+
 /*Caja 17*/
 
 .coursetag_nowyou_3 .bck-box.bck-box-17 .bck-content {
@@ -2617,6 +2633,11 @@ border-color: #009FA5;
    background-color: #82c44c;
 }
 
+.coursetag_nowyou_3 .bck-box.bck-box-7 .bck-content {
+    border: 3px dotted #8BBF36;
+}
+
+
 
 /*-------------------Énfasis - coursetag_nowyou_3------------------*/
 
@@ -2630,6 +2651,10 @@ border-color: #009FA5;
 	color: #8bbf36;
     background-color: #ebf3dc;
 
+}
+
+.coursetag_nowyou_3 .bck-enfasis-5{
+	background-color: #8BBF36;
 }
 
 /*------------------Iconos - coursetag_nowyou_3--------------------*/
