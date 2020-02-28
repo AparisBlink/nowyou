@@ -2907,6 +2907,13 @@ border-color: #009FA5;
 	background: #8BBF36;
 }
 
+/*enlaces*/
+.coursetag_nowyou_3 #indice .actividades a:hover, 
+.coursetag_nowyou_3 #indice .actividades a:active, 
+.coursetag_nowyou_3 #indice .actividades a:focus{
+	color: #8BBF36;
+}
+
 /*btn*/
 .coursetag_nowyou_3 .btn-primary, 
 .coursetag_nowyou_3 .btn-primary.disabled, 
@@ -2919,6 +2926,9 @@ border-color: #009FA5;
 	background: #8BBF36;
 }
 
+.coursetag_nowyou_3  #actividad .content .review .attemps span {
+    background-color: #8BBF36;
+}
 /****/
 
 @media screen and (max-width: 375px) {
