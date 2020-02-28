@@ -2017,6 +2017,44 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   padding: 0px;
 }
 
+/*caja25 VocabularyTools*/
+
+.bck-box.bck-box-25 {
+	margin-top: 15px;
+    background: #ffff;
+    border: 2px solid #2E73B9;
+}
+
+.bck-box.bck-box-25 .bck-title {
+    color: #2E73B9;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.bck-box.bck-box-25 .bck-title p {
+    font-weight: 600;
+}
+
+.bck-box.bck-box-25 .bck-content {
+	border: 0;
+    padding: 5px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.bck-box.bck-box-25 .bck-title::after{
+	background-image: url(images/icono_vocabularytools.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 27px;
+    position: absolute;
+    right: 14px;
+    width: 10px;
+    height: auto;
+    margin-top: -73px;
+}
 
 /*CAJA POP-UP*/
 
