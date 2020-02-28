@@ -2645,6 +2645,10 @@ border-color: #009FA5;
 /*----------------------------Tag Libro 3 - coursetag_nowyou_3----------------------------*/
 
 /*-----------------Títulos - coursetag_nowyou_3----------------*/
+/*Título 2 - Verde*/
+.coursetag_nowyou_3 .bck-title-2 {
+  color: #8BBF36;
+}
 
 /*Título 3*/
 .coursetag_nowyou_3 .bck-title-3 {
