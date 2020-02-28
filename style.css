@@ -2853,6 +2853,40 @@ border-color: #009FA5;
 	color: #8BBF36;
 }
 
+/*******portada******/
+/*Título toc*/
+.coursetag_nowyou_3 #indice .unit-content .header .title{
+	color: #8ebb1e;
+}
+
+/*TOC*/
+.coursetag_nowyou_3. #indice .units ul li.active:not(.disabled), 
+.coursetag_nowyou_3 #indice .units ul li:focus:not(.disabled){
+	background: #7ba21b;
+}
+
+.coursetag_nowyou_3 #indice .units ul li.hover:not(.disabled), 
+.coursetag_nowyou_3 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
+.coursetag_nowyou_3 #indice .units ul li:hover:not(.disabled){
+	background: #8ebb1e;
+}
+
+/*índice lateral*/
+.coursetag_nowyou_3 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active, 
+.coursetag_nowyou_3 #book-index #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_3 #book-index #indice .unit-content .actividades .item.current{
+	    border-bottom: 2px solid #597514;
+}
+
+.coursetag_nowyou_3 #book-index .col-main{
+	background: #8ebb1e;
+}
+
+.coursetag_nowyou_3 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, 
+.coursetag_nowyou_3 #book-index #indice .units ul li.active a{
+	background: #8BBF36;
+}
+
 /**************************índice lateral*************************/
 .coursetag_nowyou_3 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active, 
 .coursetag_nowyou_3 #book-index #indice .unit-content .actividades .item.active, 
