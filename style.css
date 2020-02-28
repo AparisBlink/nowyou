@@ -2707,6 +2707,16 @@ border-color: #009FA5;
   background-image: url(images/icono_audio_verde.png);
 }
 
+/*Icono hablar*/
+.coursetag_nowyou_3 .icon-hablar:before {
+  background-image: url(images/icono_pronunt_verde.png);
+}
+
+/*icono Fast*/
+.icon-fast:before {
+  background-image: url(images/icon_fast_verde.png);
+}
+
 /****/
 
 @media screen and (max-width: 375px) {
