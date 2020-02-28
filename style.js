@@ -76,6 +76,7 @@
 				{ name: 'Caja 22', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-22' } },
 				{ name: 'Caja 23', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-23' } },
 				{ name: 'Caja 24', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-24' } },
+				{ name: 'Caja VocabularyTools', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-25' } },
 
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
