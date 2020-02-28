@@ -2755,9 +2755,28 @@ border-color: #009FA5;
 }
 
 /*icono Fast*/
-.icon-fast:before {
+.coursetag_nowyou_3 .icon-fast:before {
   background-image: url(images/icon_fast_verde.png);
 }
+
+/*Dropdown 3*/
+.coursetag_nowyou_3 .bck-dropdown-3-icon>.fa{
+	border: 3px solid #8BBF36;
+}
+
+.coursetag_nowyou_3 .bck-dropdown-3 .fa-chevron-down:before {
+    color: #8BBF36;
+}
+
+.coursetag_nowyou_3 .bck-dropdown-3 .fa-chevron-up:before{
+	color: #8BBF36;
+}
+
+.coursetag_nowyou_3 .bck-dropdown-3 .bck-dropdown-titulo{
+	color: #8BBF36;
+}
+
+
 
 /****/
 
