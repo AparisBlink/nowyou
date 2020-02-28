@@ -2377,6 +2377,23 @@ table td.bck-td-2 {
   font-size: 1.9rem;
 }
 
+/*tabla verde y celda verde*/
+
+.bck-table-4 {
+  border: 1px solid #8BBF36;
+}
+
+.bck-table-4 td {
+  border: 1px solid #8BBF36;
+}
+
+/*celda verde*/
+table td.bck-td-4 {
+  color: #ffffff;
+  background: #8BBF36;
+  text-align: center;
+}
+
 /**/
 
 .shortanswer-container textarea:focus, 
