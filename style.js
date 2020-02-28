@@ -36,6 +36,7 @@
 				{ name: 'Énfasis 8', element: 'span', attributes: { 'class': 'bck-enfasis-8'} },
 				{ name: 'Énfasis 9', element: 'span', attributes: { 'class': 'bck-enfasis-9'} },
 				{ name: 'Énfasis 10', element: 'span', attributes: { 'class': 'bck-enfasis-10'} },
+				{ name: 'Énfasis verde', element: 'span', attributes: { 'class': 'bck-enfasis-11'} },
 
 				
 				{ name: 'Lista Desordenada', element: 'ul', attributes: { 'class': 'bck-ul-3'} },
@@ -100,7 +101,8 @@
 				{ name: 'Icono Fast', element: 'span', attributes: { 'class': 'icon icon-fast' } },
 
 				{ name: 'Desplegable 1', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-1' } },
-				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-2' } }
+				{ name: 'Desplegable 2', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-2' } },
+				{ name: 'Desplegable 3', type: 'widget', widget: 'blink_dropdown', attributes: { 'class': 'bck-dropdown-3' } }
 			]
 		},
 		slidesTitle: {},
