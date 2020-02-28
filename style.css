@@ -2538,6 +2538,23 @@ border-color: #009FA5;
           border-top-right-radius: 5px;
 }
 
+/*Dropdown 3*/
+.bck-dropdown-3-icon>.fa{
+	border: 3px solid #2E72B7;
+}
+
+.bck-dropdown-3 .fa-chevron-down:before {
+    color: #2E72B7;
+}
+
+.bck-dropdown-3 .fa-chevron-up:before{
+	color: #2E72B7;
+}
+
+.bck-dropdown-3 .bck-dropdown-titulo{
+	color: #2E72B7;
+}
+
 /**/
 
 /*Activities Dropdown*/
