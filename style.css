@@ -2539,7 +2539,7 @@ border-color: #009FA5;
 }
 
 /*Dropdown 3*/
-.bck-dropdown-3-icon>.fa{
+.bck-dropdown-3 .bck-dropdown-icon>.fa{
 	border: 3px solid #2E72B7;
 }
 
@@ -2764,7 +2764,7 @@ border-color: #009FA5;
 }
 
 /*Dropdown 3*/
-.coursetag_nowyou_3 .bck-dropdown-3-icon>.fa{
+.coursetag_nowyou_3 .bck-dropdown-icon>.fa{
 	border: 3px solid #8BBF36;
 }
 
