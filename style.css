@@ -2684,6 +2684,16 @@ border-color: #009FA5;
 }
 
 /*-------------------Cajas - coursetag_nowyou_3------------------*/
+/*caja 1*/
+.coursetag_nowyou_3 .bck-box.bck-box-1 {
+    position: relative;
+    background: url(images/img_inicio_verde.png) repeat-y;
+    padding: 60px 18px 91px 83px;
+    background-size: cover;
+    top: -21px;
+    left: -97px;
+    width: 125.5%;
+}
 
 /*caja 3*/
 /*CAJA3 Video*/
