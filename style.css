@@ -1959,6 +1959,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	border: 2px solid #a2c626;
 	-webkit-box-shadow: 0 0 4px 2px #c0cec5;
 	box-shadow: 0 0 4px 2px #c0cec5;
+	padding: 5px;
 }
 
 .bck-box.bck-box-22 .bck-title {
