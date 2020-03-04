@@ -80,6 +80,7 @@
 				{ name: 'Caja VocabularyTools', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-25' } },
 				{ name: 'Caja UsefulLenguage', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-26' } },
 				{ name: 'Caja 27', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-27' } },
+				{ name: 'Caja 28', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-28' } },
 
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
