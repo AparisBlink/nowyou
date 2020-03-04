@@ -1931,7 +1931,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 /*Caja 20*/
 .bck-box.bck-box-20 {
 	border-radius: 10px;
-	background-color: #ececec;
+	background-color: #ccc;
 	padding: 10px;
 }
 
