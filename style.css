@@ -1881,26 +1881,26 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box.bck-box-18 .bck-title {
 	background-color: #B83187;
-	color: #fff;
-	font-size: 2.3rem;
-	padding-left: 22.7%;
-	padding-top: 8px;
-	padding-bottom: 15px;
-	font-weight: 100;
-	letter-spacing: 1px;
+    color: #fff;
+    font-size: 2.3rem;
+    padding-left: 29.7%;
+    padding-top: 8px;
+    padding-bottom: 15px;
+    font-weight: 100;
+    letter-spacing: 1px;
 }
 
 .bck-box.bck-box-18 .bck-title:before {
 	content: "NOW YOU!";
-	background-color: #fff;
-	color: #B83187;
-	font-size: 2.9rem;
-	font-weight: bold;
-	padding: 8px 10px;
-	position: absolute;
-	letter-spacing: 2px;
-	margin-left: -26.3%;
-	margin-top: -8px;
+    background-color: #fff;
+    color: #B83187;
+    font-size: 2.9rem;
+    font-weight: bold;
+    padding: 8px 10px;
+    position: absolute;
+    letter-spacing: 2px;
+    margin-left: -34.3%;
+    margin-top: -8px;
 }
 
 .bck-box.bck-box-18 .bck-content {
