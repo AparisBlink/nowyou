@@ -843,7 +843,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-family: 'Conv_FuturaStd-Medium';
     font-weight: 500;
     position: relative;
-    left: 7px;
+    left: 9px;
 }
 
 /*párrafos - altura linea*/
