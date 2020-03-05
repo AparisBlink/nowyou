@@ -1621,6 +1621,9 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-weight: 700;
 }
 
+.bck-box.bck-box-10 .bck-title p {
+    font-size: 22px;
+}
 
 .bck-box.bck-box-10 .bck-content {
 	border: 0;
