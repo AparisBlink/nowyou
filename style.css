@@ -601,6 +601,14 @@ vertical-align: top;
 #actividad .workspace.matching .opcion:hover {
   background: #e0f7ff9e;
 }
+
+/*rellenar espacios*/
+.slide_main input, 
+.slide_main .img-input-container{
+	border-bottom-color: #7a7a7a;
+    background-color: #e2e2e2;
+}
+
 /**/
 /*Classify activities*/
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
