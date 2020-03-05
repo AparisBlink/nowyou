@@ -1212,6 +1212,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     top: 2px;
     left: 20px;
     line-height: 25px;
+    font-family: 'Conv_FuturaStd-Bold';	
 
 }
 
