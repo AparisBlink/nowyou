@@ -244,6 +244,11 @@ p {
   font-weight: 500;
 }
 
+/*justificacción centro*/
+.bck-t-align-center {
+	line-height: 1.7em!important;
+}
+
 
 /*ENLACE WEB*/
 
