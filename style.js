@@ -15,7 +15,7 @@
 			styles: [
 				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
-				{ name: 'Título 2-Verde', element: 'h2', attributes: { 'class': 'bck-title-2'} },
+				{ name: 'Título Verde', element: 'h2', attributes: { 'class': 'bck-title-2'} },
 				{ name: 'Título NowYou', element: 'h2', attributes: { 'class': 'bck-title-3'} },
 				{ name: 'Título 4 Naranja', element: 'h2', attributes: { 'class': 'bck-title-4'} },
 				{ name: 'Título Project', element: 'h2', attributes: { 'class': 'bck-title-5'} },
@@ -25,6 +25,7 @@
 				{ name: 'Título 1-Izquierda', element: 'h2', attributes: { 'class': 'bck-title-9'} },
 				{ name: 'Título 10', element: 'h2', attributes: { 'class': 'bck-title-10'} },
 				{ name: 'Título 11', element: 'h2', attributes: { 'class': 'bck-title-11'} },
+				{ name: 'Título azul', element: 'h2', attributes: { 'class': 'bck-title-12'} },
 				
 				{ name: 'NumeroIntro', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
