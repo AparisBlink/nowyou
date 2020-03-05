@@ -3211,6 +3211,28 @@ border-color: #009FA5;
   -moz-box-shadow: rgba(0,0,0,0.298039) 0 3px 9px;
   box-shadow: rgba(0, 0, 0, 0) 0 3px 9px;
 }
+	
+/*CAJA12- CoreValues */
+.bck-box.bck-box-12 {
+    margin-top: 15px;
+    background: #EEF4DC;
+    position: relative;
+    width: 133%;
+    left: -93px;
+}
+
+.bck-box.bck-box-12 .bck-title {
+    color: #ffff;
+    background-color: rgb(184,49,135);
+    padding-left: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: fit-content;
+    position: relative;
+    top: -7px;
+    left: -1px;
+}
 }
 
 @media only screen and (max-width: 1024px) and (min-width: 769px)  {
