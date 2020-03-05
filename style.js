@@ -81,7 +81,8 @@
 				{ name: 'Caja UsefulLenguage', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-26' } },
 				{ name: 'Caja 27', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-27' } },
 				{ name: 'Caja 28', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-28' } },
-				{ name: 'Caja 29', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-28' } },
+				{ name: 'Caja 29', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-29' } },
+				{ name: 'Caja 30', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-30' } },
 
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
