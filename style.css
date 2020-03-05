@@ -232,7 +232,7 @@ body {
 /*tamaÃ±o p*/
 
 .texto_curso p {
-  line-height: 1.43em!important;
+  /*line-height: 1.43em!important;*/
   margin-bottom: 20px;
   font-size: 1.9rem;
   font-weight: 500;
