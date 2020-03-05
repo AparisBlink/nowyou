@@ -2170,6 +2170,24 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     padding: 8px 8px 8px 19px;
 }
 
+/*caja 29*/
+.bck-box.bck-box-29 {
+  margin-top: 15px;
+  border: none;
+  background: transparent;
+}
+
+.bck-box.bck-box-29 .bck-title {
+  color: inherit;
+}
+
+
+.bck-box.bck-box-29 .bck-content {
+    padding-left: 30px;
+    background-color: #DAE49B;
+    padding: 8px 8px 8px 19px;
+}
+
 /*CAJA POP-UP*/
 
 .info-popover .popover-title:before, .popover-template .popover-title:before {
