@@ -835,6 +835,17 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	width: fit-content;
 }
 
+/*título azul*/
+.bck-title-13 {
+  	color: #009FA5;
+    font-size: 2.1rem;
+    text-align: left;
+    font-family: 'Conv_FuturaStd-Medium';
+    font-weight: 500;
+    position: relative;
+    left: 7px;
+}
+
 /*párrafos - altura linea*/
 .texto_curso p{
 	font-size: 1.9rem !important;
