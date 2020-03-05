@@ -870,9 +870,10 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*énfasis naranja*/
 .bck-enfasis-2 {
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-family: 'Conv_FuturaStd-Medium';
     color: #F18800;
+    font-weight: bold;
 }
 
 /*énfasis negro*/
