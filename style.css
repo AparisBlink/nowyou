@@ -1358,7 +1358,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-weight: 700;
     padding: 0px 6px;
     top: 5px;
-    left: 20px;
+    left: 15px;
     line-height: 25px;
 
 }
