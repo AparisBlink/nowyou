@@ -848,7 +848,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*párrafos - altura linea*/
 .texto_curso p{
-	line-height: 1.9rem!important;
+	line-height: 1.9!important;
 }
 
 /*-------------*/
