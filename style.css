@@ -1352,7 +1352,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	color: #fff;
 	background-color: #333;
     position: absolute;
-    margin-left: -45px;
+    margin-left: -48px;
     margin-right: 0px;
     font-size: 1.6rem;
     text-align: center;
