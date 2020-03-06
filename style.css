@@ -2245,6 +2245,18 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     padding: 8px 8px 8px 19px;
 }
 
+/*caja imagen pantalla completa*/
+.bck-box.bck-box-31{
+	position: relative;
+    width: 126.8%;
+    left: -107px;
+}
+
+.bck-box.bck-box-31 .bck-content{
+	padding: 0;
+	background-color: #ffffff00;
+}
+
 
 /*CAJA POP-UP*/
 
