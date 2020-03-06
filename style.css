@@ -2250,6 +2250,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	position: relative;
         width: 127.9%;
         left: -107px;
+	margin-top: -4.1%;
 }
 
 .bck-box.bck-box-31 .bck-content{
