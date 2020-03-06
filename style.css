@@ -614,6 +614,11 @@ vertical-align: top;
     background-color: #e2e2e2;
 }
 
+/*Redacción*/
+.cke_reset{
+	background: white;
+}
+
 /**/
 /*Classify activities*/
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
