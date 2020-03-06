@@ -900,9 +900,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 /*énfasis morado*/
 .bck-enfasis-6 {
-	font-weight: 600;
     font-size: 2.1rem;
-    font-family: 'Conv_FuturaStd-Medium';
+    font-family: 'Conv_FuturaStd-Heavy';
     color: #B83187;
 }
 
