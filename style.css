@@ -2771,6 +2771,10 @@ border-color: #009FA5;
 .bck-box .fillblanks p {
   display: block;
 }
+
+.bck-dropdown-content{
+	background-color: #f1f1f1;
+}
 /**/
 
 /**TABS**/
