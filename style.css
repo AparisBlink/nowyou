@@ -3268,6 +3268,37 @@ border-color: #009FA5;
     top: -7px;
     left: -1px;
 }
+	
+/*iconos niveles*/
+.icon-nivel1:before{
+	position: relative;
+    left: -86px;
+}
+
+.icon-nivel2:before{
+	position: relative;
+    left: -86px;
+}
+
+.icon-nivel3:before{
+	position: relative;
+    left: -86px;
+}
+
+.icon-nivel4:before{
+	position: relative;
+    left: -86px;
+}
+
+.icon-nivel5:before{
+	position: relative;
+    left: -86px;
+}
+
+.icon-nivel6:before{
+	position: relative;
+    left: -86px;
+}	
 }
 
 @media only screen and (max-width: 1024px) and (min-width: 769px)  {
