@@ -623,7 +623,7 @@ vertical-align: top;
 /*Classify activities*/
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
   border-color: #ffab7d;
-  padding-top: 2px;
+  padding: 6px;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
