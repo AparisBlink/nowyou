@@ -1240,7 +1240,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 #actividad .content .workspace ul li ol.bck-ol-3 li:before {
 	content: counter(bck-li-counter);
     position: absolute;
-    margin-left: -45px;
+    margin-left: -50px;
     margin-right: 0px;
     font-size: 2rem;
     text-align: center;
@@ -1249,7 +1249,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     top: 2px;
     left: 20px;
     line-height: 25px;
-    font-family: 'Conv_FuturaStd-Bold';	
+    font-family: 'Conv_FuturaStd-Bold';
 
 }
 
@@ -1284,7 +1284,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   text-align: center;
   color: #333;
   line-height: normal;
-  margin-left: -20px;
+  margin-left: -25px;
   line-height: unset;
   font-weight: 600;
   margin-top: -1px;
