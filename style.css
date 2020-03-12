@@ -2782,6 +2782,7 @@ border-color: #009FA5;
 
 .bck-dropdown-content{
 	background-color: #f1f1f1;
+	    max-height: none;
 }
 /**/
 
