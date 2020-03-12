@@ -370,6 +370,7 @@ body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active,
 
 #actividad .texto_curso {
   font-size: 2rem;
+  line-height: 1.9;
 }
 
 #actividad .class_slide {
