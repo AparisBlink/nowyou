@@ -619,6 +619,12 @@ vertical-align: top;
 	background: #ffffff;
 }
 
+/*relacionar altura linea*/
+#actividad .box p{
+	font-size: 2rem;
+    line-height: 1.5;
+}
+
 /**/
 /*Classify activities*/
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
