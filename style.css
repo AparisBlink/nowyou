@@ -1862,8 +1862,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 
-/*CAJA 16*/
-
+/*CAJA 16 PantallaCompleta*/
 .bck-box.bck-box-16 {
     position: relative;
     padding: 0px;
@@ -2253,25 +2252,27 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     padding: 8px 8px 8px 19px;
 }
 
-/*caja 32*/
-.bck-box.bck-box-32 {
+/*caja 31*/
+.bck-box.bck-box-31 {
   margin-top: 15px;
   border: none;
   background: transparent;
 }
 
-.bck-box.bck-box-32 .bck-title {
+.bck-box.bck-box-31 .bck-title {
   color: inherit;
 }
 
 
-.bck-box.bck-box-32 .bck-content {
+.bck-box.bck-box-31 .bck-content {
     padding-left: 30px;
-    background-color: #E8DFEF;
+    background-color: #ffffff;
+    border: 1px solid #4EA0A7;
+    border-radius: 15px;
     padding: 8px 8px 8px 19px;
 }
 
-/*caja imagen pantalla completa*/
+/*caja imagen pantalla completa
 .bck-box.bck-box-31{
 	position: relative;
         width: 127.9%;
@@ -2282,7 +2283,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-box.bck-box-31 .bck-content{
 	padding: 0;
 	background-color: #ffffff00;
-}
+}*/
 
 
 /*CAJA POP-UP*/
