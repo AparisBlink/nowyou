@@ -1981,9 +1981,13 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 /*Caja 21*/
-
 .bck-box.bck-box-21 {
 	border-radius: 15px;
+	background-image: url(images/fondo_caja_whatsapp.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 }
 
 .bck-box.bck-box-21 .bck-title {
@@ -1995,11 +1999,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box.bck-box-21 .bck-content {
 	padding: 15px;
-	background-image: url(images/fondo_caja_whatsapp.png);
-	background-repeat: no-repeat;
-	background-size: cover;
-	border-bottom-left-radius: 15px;
-	border-bottom-right-radius: 15px;
 }
 
 
