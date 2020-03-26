@@ -2622,7 +2622,7 @@ table td.bck-td-5 {
 
 /*celda SinBorderLeft*/
 table td.bck-td-6 {
-	border-top: 1px solid transparent;
+	border-left: 1px solid transparent;
 }
 
 
