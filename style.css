@@ -2617,12 +2617,12 @@ table td.bck-td-4 {
 
 /*celda SinBorderTop*/
 table td.bck-td-5 {
-	border-top: 1px solid transparent;
+	border-top: 1px solid transparent !important;
 }
 
 /*celda SinBorderLeft*/
 table td.bck-td-6 {
-	border-left: 1px solid transparent;
+	border-left: 1px solid transparent !important;
 }
 
 
