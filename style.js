@@ -95,6 +95,8 @@
 				{ name: 'Celda verde', element: 'td', attributes: { 'class': 'bck-td-4'} },
 				{ name: 'Celda SinBorderTop', element: 'td', attributes: { 'class': 'bck-td-5'} },
 				{ name: 'Celda SinBorderLeft', element: 'td', attributes: { 'class': 'bck-td-6'} },
+				{ name: 'Celda SinBorderBottom', element: 'td', attributes: { 'class': 'bck-td-7'} },
+				{ name: 'Celda SinBorderRight', element: 'td', attributes: { 'class': 'bck-td-8'} },
 				
 				{ name: 'Icono Hablar', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
 				{ name: 'Icono Nivel 1', element: 'span', attributes: { 'class': 'icon icon-nivel1' } },
