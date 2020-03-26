@@ -2295,6 +2295,12 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     box-shadow: 9px 10px 0px -6px #009FA5;
 }
 
+/*Caja 33*/
+.bck-box.bck-box-33 {
+	border-radius: 10px;
+	background-color: #f6f6f6;
+}
+
 /*caja imagen pantalla completa
 .bck-box.bck-box-31{
 	position: relative;
