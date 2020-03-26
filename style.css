@@ -2272,6 +2272,30 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     padding: 8px 8px 8px 19px;
 }
 
+/*Caja ExamTip*/
+.bck-box.bck-box-32 {
+    margin-top: 15px;
+    border: none;
+    background: transparent;
+    border: 2px solid #009FA5;
+    box-shadow: 9px 10px 0px -6px #009FA5;
+}
+
+.bck-box.bck-box-32 .bck-title {
+  	color: #ffff;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+
+.bck-box.bck-box-32 .bck-content {
+	padding-left: 30px;
+    background-color: #ffffff;
+    padding: 8px 8px 8px 19px;
+    box-shadow: 9px 10px 0px -6px #009FA5;
+}
+
 /*caja imagen pantalla completa
 .bck-box.bck-box-31{
 	position: relative;
