@@ -2617,22 +2617,22 @@ table td.bck-td-4 {
 
 /*celda SinBorderTop*/
 table td.bck-td-5 {
-	border-top: 1px solid transparent;
+	border-top: 1px solid transparent !important;
 }
 
 /*celda SinBorderLeft*/
 table td.bck-td-6 {
-	border-left: 1px solid transparent;
+	border-left: 1px solid transparent !important;
 }
 
 /*celda SinBorderBottom*/
 table td.bck-td-7 {
-	border-bottom: 1px solid transparent;
+	border-bottom: 1px solid transparent !important;
 }
 
 /*celda SinBorderRight*/
 table td.bck-td-8 {
-	border-right: 1px solid transparent;
+	border-right: 1px solid transparent !important;
 }
 
 
