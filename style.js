@@ -88,6 +88,7 @@
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				{ name: 'Tabla 3', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-3'} },
+				{ name: 'Tabla 4', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-4'} },
 				
 				{ name: 'Celda Color', element: 'td', attributes: { 'class': 'bck-td-2'} },
 				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td-3'} },
