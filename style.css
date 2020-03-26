@@ -2615,6 +2615,17 @@ table td.bck-td-4 {
   text-align: center;
 }
 
+/*celda SinBorderTop*/
+table td.bck-td-5 {
+	border-top: 1px solid transparent;
+}
+
+/*celda SinBorderLeft*/
+table td.bck-td-6 {
+	border-top: 1px solid transparent;
+}
+
+
 /**/
 
 .shortanswer-container textarea:focus, 
