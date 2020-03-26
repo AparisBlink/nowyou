@@ -88,10 +88,13 @@
 
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				{ name: 'Tabla 3', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-3'} },
-				{ name: 'Tabla 4', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-4'} },
+				{ name: 'Tabla verde', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-4'} },
 				
 				{ name: 'Celda Color', element: 'td', attributes: { 'class': 'bck-td-2'} },
 				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td-3'} },
+				{ name: 'Celda verde', element: 'td', attributes: { 'class': 'bck-td-4'} },
+				{ name: 'Celda SinBorderTop', element: 'td', attributes: { 'class': 'bck-td-5'} },
+				{ name: 'Celda SinBorderLeft', element: 'td', attributes: { 'class': 'bck-td-6'} },
 				
 				{ name: 'Icono Hablar', element: 'span', attributes: { 'class': 'icon icon-hablar' } },
 				{ name: 'Icono Nivel 1', element: 'span', attributes: { 'class': 'icon icon-nivel1' } },
