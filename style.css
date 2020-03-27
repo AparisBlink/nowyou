@@ -1198,7 +1198,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   	content: counter(bck-li-counter)" ";
     width: 27px;
     height: 27px;
-    position: absolute;
+    position: relative;
     font-size: 2.2rem;
     font-weight: 600;
     color: #009FA5;
@@ -1206,7 +1206,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-left: -35px;
     margin-right: 0px;
     text-align: right;
-    font-family: 'Conv_FuturaStd-Bold'; 	
+    font-family: 'Conv_FuturaStd-Bold';
 }
 
 /*LISTA 3*/
@@ -1247,8 +1247,8 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     text-align: center;
     font-weight: 700;
     padding: 3px;
-    top: 2px;
-    left: 20px;
+    top: 1px;
+    left: 14px;
     line-height: 25px;
     font-family: 'Conv_FuturaStd-Bold';
 
@@ -1288,7 +1288,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   margin-left: -25px;
   line-height: unset;
   font-weight: 600;
-  margin-top: -1px;
+  margin-top: 0px;
 }
 
 /*LISTA LetraMinusMorada*/
@@ -1322,14 +1322,13 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   text-align: center;
   color: #814997;
   line-height: normal;
-  margin-left: -20px;
+  margin-left: -25px;
   line-height: unset;
   font-weight: 600;
-  margin-top: -1px;
+  margin-top: 0px;
 }
 
 /*Lista ordenada 6*/
-
 #actividad .content .cke_contents .bck-ol-6,
 #actividad .content .texto_curso .bck-ol-6,
 #actividad .content .workspace ul li .bck-ol-6,
@@ -1363,14 +1362,14 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	color: #fff;
 	background-color: #333;
     position: absolute;
-    margin-left: -48px;
+    margin-left: -45px;
     margin-right: 0px;
     font-size: 1.6rem;
     text-align: center;
     font-weight: 700;
     padding: 0px 6px;
     top: 5px;
-    left: 15px;
+    left: 12px;
     line-height: 25px;
 
 }
