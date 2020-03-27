@@ -111,6 +111,7 @@
 				{ name: 'Icono Musica', element: 'span', attributes: { 'class': 'icon icon-musica' } },
 				{ name: 'Icono Lupa', element: 'span', attributes: { 'class': 'icon icon-lupa' } },
 				{ name: 'Icono Lápiz', element: 'span', attributes: { 'class': 'icon icon-lapiz' } },
+				{ name: 'Icono Libro', element: 'span', attributes: { 'class': 'icon icon-libro' } },
 				{ name: 'Icono Play', element: 'span', attributes: { 'class': 'icon icon-play' } },
 				{ name: 'Icono Fast', element: 'span', attributes: { 'class': 'icon icon-fast' } },
 
