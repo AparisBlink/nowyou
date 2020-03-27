@@ -2300,6 +2300,38 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 	background-color: #f6f6f6;
 }
 
+/*caja Mail*/	
+.bck-box.bck-box-34 .bck-title::before {
+	background-image: url(images/iconos_cajaMail.png);
+    content: '';
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0px 36px 0px 11px;
+    position: relative;
+    left: 5px;
+    z-index: 100;
+    top: -24px;
+    width: 10px;
+}
+
+.bck-box.bck-box-34 .bck-title {
+    color: inherit;
+}
+
+.bck-box.bck-box-34{
+	border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top: 25px solid #678CC8;
+    border-left: 2px solid #678CC8;
+    border-right: 2px solid #678CC8;
+    border-bottom: 2px solid #678CC8;
+}
+
+.bck-box.bck-box-34 .bck-content{
+	background-color: #ffff;
+    padding: 8px 8px 8px 0px;
+}
+
 /*caja imagen pantalla completa
 .bck-box.bck-box-31{
 	position: relative;
