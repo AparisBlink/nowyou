@@ -2313,7 +2313,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 .bck-box.bck-box-34 .bck-title {
-    color: inherit;
+    color: #747579;
     padding: 10PX;
     BACKGROUND-COLOR: #DADADA;
 }
