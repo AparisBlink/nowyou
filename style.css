@@ -2308,14 +2308,15 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     background-repeat: no-repeat;
     padding: 0px 36px 0px 11px;
     position: relative;
-    left: 5px;
+    left: -2px;
     z-index: 100;
-    top: -24px;
+    top: -35px;
     width: 10px;
 }
 
 .bck-box.bck-box-34 .bck-title {
     color: inherit;
+    padding: 10px;
 }
 
 .bck-box.bck-box-34{
@@ -2329,7 +2330,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box.bck-box-34 .bck-content{
 	background-color: #ffff;
-    padding: 8px 8px 8px 0px;
+    padding: 10PX;
 }
 
 /*caja imagen pantalla completa
