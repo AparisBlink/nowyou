@@ -2101,21 +2101,19 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 }
 
 /*CAJA26- UsefulLenguage = caja 2 verde */
-
 .bck-box.bck-box-26 {
 	margin-top: 15px;
-    border: 3px solid #8BBF36;
-    background: transparent;
+    border: 3px solid #06B5DA;
+    background: #ffff;
     padding-top: 10px;
 }
 
 .bck-box.bck-box-26 .bck-title {
     color: inherit;
-    background-color: #8BBF36;
+    background-color: #06B5DA;
     padding: 10px;
     width: fit-content;
 }
-
 
 .bck-box.bck-box-26 .bck-content {
     background-color: #ffff;
@@ -3061,7 +3059,14 @@ border-color: #009FA5;
     border: 3px dotted #8BBF36;
 }
 
+/*caja UseFulLenguage*/
+.coursetag_nowyou_3 .bck-box.bck-box-26 {
+    border: 3px solid #8BBF36;
+}
 
+.coursetag_nowyou_3 .bck-box.bck-box-26 .bck-title {
+    background-color: #8BBF36;
+}
 
 /*-------------------Énfasis - coursetag_nowyou_3------------------*/
 
