@@ -2526,6 +2526,23 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-right: 3px;
 }
 
+/*icono libro*/
+.icon-libro:before {
+  	background-image: url(images/icono_libro.png);
+    content: "";
+    background-repeat: no-repeat;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-position: center center;
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 33px;
+    margin-right: 3px;
+}
+
 /*icono Play*/
 .icon-play:before {
   background-image: url(images/rich_english_U7_pg64_img_0005.png);
