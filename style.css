@@ -2965,6 +2965,260 @@ border-color: #009FA5;
 }
 
 /*--------------------------------------------------TAGS--------------------------------------------*/
+/*----------------------------Tag Libro 2 - coursetag_nowyou_2----------------------------*/
+
+/*-----------------Títulos - coursetag_nowyou_2----------------*/
+
+/*Título 3*/
+/*Título 2 - Verde*/
+.coursetag_nowyou_2 .bck-title-2 {
+  color: #80539D;
+}
+
+.coursetag_nowyou_2 .bck-title-3 {
+	color: #80539D;
+    background-color: #E4DCEE;
+}
+
+.coursetag_nowyou_2 .bck-title-12 {
+  color: #8BBF36;
+}
+
+/*-------------Listas ordenadas - coursetag_nowyou_2------------*/
+
+/*Lista 2*/
+.coursetag_nowyou_2 #actividad .content .cke_contents ol.bck-ol-2 li:before,
+.coursetag_nowyou_2 #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.coursetag_nowyou_2 #actividad .popover-content ol.bck-ol-2 li:before,
+.coursetag_nowyou_2 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+    color: #80539D;
+}
+
+/*------------Listas desordenadas - coursetag_nowyou_2-----------*/
+
+/*Lista desordenada 4*/
+
+.coursetag_nowyou_2 #actividad .content .texto_curso .bck-ul-4 li,
+.coursetag_nowyou_2 #actividad .content .workspace ul li .bck-ul-4 li ,
+.coursetag_nowyou_2 #actividad .popover-background.shown .popover-content .bck-ul-4 li {
+  color: #80539D;
+}
+
+.coursetag_nowyou_2 #actividad .content .texto_curso .bck-ul-4 li:before,
+.coursetag_nowyou_2 #actividad .content .workspace ul li .bck-ul-4 li:before ,
+.coursetag_nowyou_2 #actividad .popover-background.shown .popover-content .bck-ul-4 li:before{
+    background-color: #80539D;
+}
+
+/*-------------------Cajas - coursetag_nowyou_2------------------*/
+
+.coursetag_nowyou_2 .bck-box.bck-box-1 {
+    position: relative;
+    background: url(images/img_inicio_morado.png) repeat-y;
+    padding: 60px 18px 91px 83px;
+    background-size: cover;
+    top: -21px;
+    left: -97px;
+    width: 125.5%;
+}
+
+/*caja 3*/
+
+.coursetag_nowyou_2 .bck-box.bck-box-3 {
+  background: #9774B1;
+}
+
+.coursetag_nowyou_2 .bck-box.bck-box-3 .bck-content {
+    background-color: #9774B1;
+}
+
+
+.coursetag_nowyou_2 .bck-box.bck-box-3 .bck-title {
+	color: #80539D;
+}
+
+/*caja 6*/
+.coursetag_nowyou_2 .bck-box.bck-box-6 .bck-content{
+	background-color: #D6CBE5;
+}
+
+
+/*caja 7*/
+.coursetag_nowyou_2 .bck-box.bck-box-7 .bck-content {
+    border: 3px dotted #8BBF36;
+}
+
+/*Caja 17*/
+
+.coursetag_nowyou_2 .bck-box.bck-box-17 .bck-content {
+    border: 3px dotted #6D307E;
+}
+
+/*Caja 24 */
+
+.coursetag_nowyou_2 .bck-box.bck-box-24 {
+  background: #82c44c;
+}
+
+.coursetag_nowyou_2 .bck-box.bck-box-24 .bck-content {
+   background-color: #82c44c;
+}
+
+
+/*caja UseFulLenguage*/
+.coursetag_nowyou_2 .bck-box.bck-box-26 {
+    border: 3px solid #9774B1;
+}
+
+.coursetag_nowyou_2 .bck-box.bck-box-26 .bck-title {
+    background-color: #9774B1;
+}
+
+
+/*-------------------Énfasis - coursetag_nowyou_2------------------*/
+
+/*Énfasis 1*/
+.coursetag_nowyou_2 .bck-enfasis-1 {
+	color: #926CAD;
+}
+
+/*Énfasis NowYou*/
+.coursetag_nowyou_2 .bck-enfasis-7 {
+	color: #80539D;
+    background-color: #E4DCEE
+
+}
+
+/*.coursetag_nowyou_3 .bck-enfasis-5{
+	background-color: #8BBF36;
+}*/
+
+/*------------------Iconos - coursetag_nowyou_2--------------------*/
+
+/*Icono lápiz*/
+.coursetag_nowyou_2 .icon-lapiz:before {
+  background-image: url(images/icono_lapiz_morado.png);
+}
+
+/*Icono audio*/
+.coursetag_nowyou_2 #actividad .player.audio {
+  background-image: url(images/icono_audio_morado.png);
+}
+
+/*Icono hablar*/
+.coursetag_nowyou_2 .icon-hablar:before {
+  background-image: url(images/icono_pronunt_morado.png);
+}
+
+/*icono Fast*/
+.coursetag_nowyou_2 .icon-fast:before {
+  background-image: url(images/icon_fast_morado.png);
+}
+
+/*Dropdown 3*/
+.coursetag_nowyou_2 .bck-dropdown-3-icon>.fa{
+	border: 3px solid #6F3181;
+}
+
+.coursetag_nowyou_2 .bck-dropdown-3 .fa-chevron-down:before {
+    color: #6F3181;
+}
+
+.coursetag_nowyou_2 .bck-dropdown-3 .fa-chevron-up:before{
+	color: #6F3181;
+}
+
+.coursetag_nowyou_2 .bck-dropdown-3 .bck-dropdown-titulo{
+	color: #6F3181;
+}
+
+
+/*******************************/
+/*Título toc*/
+.coursetag_nowyou_2 #indice .unit-content .header .title{
+	color: #6f3181;
+}
+
+/*TOC*/
+.coursetag_nowyou_2 #indice .units ul li.active:not(.disabled){
+	background: #6f3181 !important;
+}
+
+.coursetag_nowyou_2 #indice .units ul li:hover:not(.disabled){
+	background: #6f3181 !important;
+}
+
+
+.coursetag_nowyou_2 #indice .units ul li:focus:not(.disabled){
+	background: #7ba21b !important;
+}
+
+.coursetag_nowyou_2 #indice .units ul li.hover:not(.disabled), 
+.coursetag_nowyou_2 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
+.coursetag_nowyou_2 #indice .units ul li:hover:not(.disabled){
+	background: #6f3181 !important;
+}
+
+.coursetag_nowyou_2 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover, 
+.coursetag_nowyou_2 #book-index #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_2 #book-index #indice .unit-content .actividades .item.current{
+	background: #6f3181 !important;
+}
+
+
+/*índice lateral*/
+.coursetag_nowyou_2  #indice .unit-content .actividades .item:active, 
+.coursetag_nowyou_2  #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_2 #indice .unit-content .actividades .item.current{
+	    border-bottom: 2px solid #3e1b49;
+}
+
+.coursetag_nowyou_2 #book-index #indice .unit-content .actividades .item:hover, 
+.coursetag_nowyou_2 #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_2 #indice .unit-content .actividades .item.current{
+	border-bottom: 2px solid #3e1b49;
+}
+
+.coursetag_nowyou_2  #indice .unit-content .actividades .item:focus, 
+.coursetag_nowyou_2 #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_2 #indice .unit-content .actividades .item.current{
+	border-bottom: 2px solid #3e1b49;
+}
+
+.coursetag_nowyou_2 #book-index .col-main{
+	background: #6F3181;
+}
+
+
+ .coursetag_nowyou_2 #indice .units ul li:not(.disabled) a:hover, 
+ .coursetag_nowyou_2 #indice .units ul li.active a{
+	background: #6f3181 !important;
+}
+
+
+
+/*enlaces*/
+.coursetag_nowyou_2 #indice .actividades a:hover, 
+.coursetag_nowyou_2 #indice .actividades a:active, 
+.coursetag_nowyou_2 #indice .actividades a:focus{
+	color: #6f3181;
+}
+
+/*btn*/
+.coursetag_nowyou_2 .btn-primary, 
+.coursetag_nowyou_2 .btn-primary.disabled, 
+.coursetag_nowyou_2 .btn-primary.disabled:focus{
+	background: #6f3181;
+}
+
+.coursetag_nowyou_2 .btn-danger, 
+.coursetag_nowyou_2 .btn-danger[disabled]{
+	background: #6f3181;
+}
+
+.coursetag_nowyou_2  #actividad .content .review .attemps span {
+    background-color: #6f3181;
+}
 
 /*----------------------------Tag Libro 3 - coursetag_nowyou_3----------------------------*/
 
@@ -3170,9 +3424,9 @@ border-color: #009FA5;
 	background: #8ebb1e;
 }
 
-.coursetag_nowyou_3 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, 
-.coursetag_nowyou_3 #book-index #indice .units ul li.active a{
-	background: #8BBF36;
+.coursetag_nowyou_3 #indice .units ul li:not(.disabled) a:hover, 
+.coursetag_nowyou_3 #indice .units ul li.active a{
+	background: #8BBF36 !important;
 }
 
 .coursetag_nowyou_3 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, 
