@@ -3176,7 +3176,7 @@ border-color: #009FA5;
 .coursetag_nowyou_2 #book-index #indice .unit-content .actividades .item:hover, 
 .coursetag_nowyou_2 #indice .unit-content .actividades .item.active, 
 .coursetag_nowyou_2 #indice .unit-content .actividades .item.current{
-	border-bottom: 2px solid #3e1b49;
+	border-bottom: 2px solid #3e1b49 !important;
 }
 
 .coursetag_nowyou_2  #indice .unit-content .actividades .item:focus, 
@@ -3412,12 +3412,23 @@ border-color: #009FA5;
 	background: #8ebb1e !important;
 }
 
-
 /*índice lateral*/
-.coursetag_nowyou_3 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:active, 
-.coursetag_nowyou_3 #book-index #indice .unit-content .actividades .item.active, 
-.coursetag_nowyou_3 #book-index #indice .unit-content .actividades .item.current{
+.coursetag_nowyou_3  #indice .unit-content .actividades .item:active, 
+.coursetag_nowyou_3  #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_3 #indice .unit-content .actividades .item.current{
 	    border-bottom: 2px solid #597514;
+}
+
+.coursetag_nowyou_3 #book-index #indice .unit-content .actividades .item:hover, 
+.coursetag_nowyou_3 #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_3 #indice .unit-content .actividades .item.current{
+	border-bottom: 2px solid #597514 !important;
+}
+
+.coursetag_nowyou_3  #indice .unit-content .actividades .item:focus, 
+.coursetag_nowyou_3 #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_3 #indice .unit-content .actividades .item.current{
+	border-bottom: 2px solid #597514;
 }
 
 .coursetag_nowyou_3 #book-index .col-main{
