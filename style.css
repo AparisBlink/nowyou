@@ -3170,7 +3170,7 @@ border-color: #009FA5;
 .coursetag_nowyou_2  #indice .unit-content .actividades .item:active, 
 .coursetag_nowyou_2  #indice .unit-content .actividades .item.active, 
 .coursetag_nowyou_2 #indice .unit-content .actividades .item.current{
-	    border-bottom: 2px solid #3e1b49;
+	border-bottom: 1px solid #e5e5e5;
 }
 
 .coursetag_nowyou_2 #book-index #indice .unit-content .actividades .item:hover, 
@@ -3189,13 +3189,10 @@ border-color: #009FA5;
 	background: #6F3181;
 }
 
-
  .coursetag_nowyou_2 #indice .units ul li:not(.disabled) a:hover, 
  .coursetag_nowyou_2 #indice .units ul li.active a{
 	background: #6f3181 !important;
 }
-
-
 
 /*enlaces*/
 .coursetag_nowyou_2 #indice .actividades a:hover, 
@@ -3416,7 +3413,7 @@ border-color: #009FA5;
 .coursetag_nowyou_3  #indice .unit-content .actividades .item:active, 
 .coursetag_nowyou_3  #indice .unit-content .actividades .item.active, 
 .coursetag_nowyou_3 #indice .unit-content .actividades .item.current{
-	    border-bottom: 2px solid #597514;
+	border-bottom: 1px solid #e5e5e5;
 }
 
 .coursetag_nowyou_3 #book-index #indice .unit-content .actividades .item:hover, 
