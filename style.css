@@ -2692,6 +2692,19 @@ table td.bck-td-4 {
   text-align: center;
 }
 
+/*tabla y celda morada*/
+.bck-table-6 {
+  border: 1px solid #80539D;
+}
+
+.bck-table-6 td {
+  border: 1px solid #80539D;
+}
+
+table td.bck-td-9 {
+  background: #80539D;
+}
+
 /*celda SinBorderTop*/
 table td.bck-td-5 {
 	border-top: 1px solid transparent !important;
