@@ -2332,19 +2332,32 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     padding: 10PX;
 }
 
-/*caja imagen pantalla completa
-.bck-box.bck-box-31{
-	position: relative;
-        width: 127.9%;
-        left: -107px;
-	margin-top: -4.1%;
+/*CAJA35 - CajaCabProj*/
+.bck-box.bck-box-35 {
+    position: relative;
+    background: url(images/cabecera_project.png) repeat-y;
+    padding: 60px 18px 91px 83px;
+    background-size: cover;
+    top: -21px;
+    left: -97px;
+    width: 125.5%;
 }
 
-.bck-box.bck-box-31 .bck-content{
-	padding: 0;
-	background-color: #ffffff00;
-}*/
+.bck-box-35 .bck-content {
+    padding-left: 30px;
+    text-align: left;
+    padding: 0;
+    font-family: 'Conv_FuturaStd-Bold';
+}
 
+.bck-box-35 .bck-content p {
+    font-size: 3.2rem;
+    position: relative;
+    left: 95px;
+    color: #ffff;
+    text-shadow: #1E1E1C 3px 3px 0px;
+    font-family: 'Conv_FuturaStd-Medium';
+}
 
 /*CAJA POP-UP*/
 
