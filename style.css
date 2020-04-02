@@ -2353,7 +2353,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 .bck-box-35 .bck-content p {
     font-size: 3.2rem;
     position: relative;
-    left: 95px;
+    left: 100px;
     color: #ffff;
     text-shadow: #1E1E1C 3px 3px 0px;
     font-family: 'Conv_FuturaStd-Medium';
