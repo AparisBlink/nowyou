@@ -88,7 +88,8 @@
 				{ name: 'Caja ExamTip', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-32' } },
 				{ name: 'Caja 33', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-33' } },
 				{ name: 'Caja Mail', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-34' } },
-
+				{ name: 'CajaCabProj', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box-35' } },
+				
 				{ name: 'Tabla Color', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-2'} },
 				{ name: 'Tabla 3', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-3'} },
 				{ name: 'Tabla verde', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-4'} },
