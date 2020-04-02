@@ -2359,6 +2359,39 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     font-family: 'Conv_FuturaStd-Medium';
 }
 
+/*Caja TASK */
+.bck-box.bck-box-36 {
+    margin-top: 15px;
+    border: none;
+    background: transparent;
+    border: 2px solid #E50051;
+    box-shadow: 9px 10px 0px -6px #E50051;
+}
+
+.bck-box.bck-box-36 .bck-title {
+  	color: #ffff;
+    background-color: #E50051;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.bck-box.bck-box-36 .bck-title p {
+    background-color: #E50051;
+    width: fit-content;
+    padding: 0px 20px 0px 10px;
+    position: relative;
+    position: r;
+    left: -10px;
+}
+
+.bck-box.bck-box-36 .bck-content {
+	padding-left: 30px;
+    background-color: #ffffff;
+    padding: 8px 8px 8px 19px;
+    box-shadow: 9px 10px 0px -6px #E50051;
+}
+
 /*CAJA POP-UP*/
 
 .info-popover .popover-title:before, .popover-template .popover-title:before {
