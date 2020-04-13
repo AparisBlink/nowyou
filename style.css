@@ -3058,6 +3058,21 @@ border-color: #009FA5;
   color: #8BBF36;
 }
 
+/*título Wordlist*/
+.coursetag_nowyou_2 .bck-title-13 {
+  	color: #ffffff;
+    background-color: #926CAD;
+    font-size: 2.3rem;
+    font-family: 'Conv_FuturaStd-Medium';
+    font-weight: 500;
+    position: relative;
+    left: 0px;
+    width: fit-content;
+    border-radius: 50px;
+    padding: 10px;
+    font-weight: 700;
+}
+
 /*-------------Listas ordenadas - coursetag_nowyou_2------------*/
 
 /*Lista 2*/
@@ -3310,6 +3325,20 @@ border-color: #009FA5;
   color: #8BBF36;
 }
 
+/*título Wordlist*/
+.coursetag_nowyou_3 .bck-title-13 {
+  	color: #ffffff;
+    background-color: #A0C857;
+    font-size: 2.3rem;
+    font-family: 'Conv_FuturaStd-Medium';
+    font-weight: 500;
+    position: relative;
+    left: 0px;
+    width: fit-content;
+    border-radius: 50px;
+    padding: 10px;
+    font-weight: 700;
+}
 
 /*-------------Listas ordenadas - coursetag_nowyou_3------------*/
 
