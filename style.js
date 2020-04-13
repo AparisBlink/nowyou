@@ -26,6 +26,7 @@
 				{ name: 'Título 10', element: 'h2', attributes: { 'class': 'bck-title-10'} },
 				{ name: 'Título 11', element: 'h2', attributes: { 'class': 'bck-title-11'} },
 				{ name: 'Título azul', element: 'h2', attributes: { 'class': 'bck-title-12'} },
+				{ name: 'Título Wordlist', element: 'h2', attributes: { 'class': 'bck-title-13'} },
 				
 				{ name: 'NumeroIntro', element: 'span', attributes: { 'class': 'bck-enfasis-1'} },
 				{ name: 'Énfasis naranja', element: 'span', attributes: { 'class': 'bck-enfasis-2'} },
