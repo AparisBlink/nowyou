@@ -2803,6 +2803,12 @@ table td.bck-td-8 {
 
 
 /**/
+/*actividades*/
+/*slide test*/
+#actividad .workspace.test .respuestas li{
+	width: 32%;
+}
+
 
 .shortanswer-container textarea:focus, 
 .shortanswer-container input:focus, 
