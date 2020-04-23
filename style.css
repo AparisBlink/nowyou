@@ -1470,7 +1470,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
 
 .bck-box.bck-box-3 {
   margin-top: 20px;
-  padding: 20px 1px 35px 80px;
+  padding: 20px 25px 35px 80px;
   background: #00B1B7;
 }
 
@@ -1485,7 +1485,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     color: #FFF;
     position: relative;
     left: -30px;
-    top: 20px;
+    /*top: 20px;*/
 }
 
 
