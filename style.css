@@ -2852,6 +2852,11 @@ border-color: #009FA5;
   margin-left: -15px;
 }
 
+/*aumentar padding espacio respuestas*/
+.slide_main input.solucion.multiple-solution{
+	padding-right: 6px !important;
+}
+
 .cke_reset {
   background: white;
 }
@@ -3060,6 +3065,12 @@ border-color: #009FA5;
 }
 
 /*--------------------------------------------------TAGS--------------------------------------------*/
+/*--------------------------------------------------Unittag-----------------------------------------*/
+
+#list-units .unittag_activities_nowyou {
+	padding-left: 20px;
+}
+
 /*----------------------------Tag Libro 2 - coursetag_nowyou_2----------------------------*/
 
 /*-----------------Títulos - coursetag_nowyou_2----------------*/
