@@ -3081,7 +3081,7 @@ border-color: #009FA5;
 /*--------------------------------------------------Unittag-----------------------------------------*/
 
 #list-units .unittag_activities_nowyou {
-	padding-left: 20px;
+	padding-left: 20px !important;
 }
 
 /*----------------------------Tag Libro 2 - coursetag_nowyou_2----------------------------*/
