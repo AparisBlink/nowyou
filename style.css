@@ -2801,6 +2801,20 @@ table td.bck-td-8 {
 	border-right: 1px solid transparent !important;
 }
 
+/*tabla y celda azulOscuro*/
+.bck-table-7 {
+  border: 1px solid #80539D;
+}
+
+.bck-table-7 td {
+  border: 1px solid #80539D;
+}
+
+table td.bck-td-10 {
+  background: #80539D;
+  color: #ffffff;
+}
+
 
 /**/
 /*actividades*/
@@ -3599,6 +3613,188 @@ border-color: #009FA5;
 .coursetag_nowyou_3  #actividad .content .review .attemps span {
     background-color: #8BBF36;
 }
+
+/*----------------------------Tag Libro 4 - coursetag_nowyou_4----------------------------*/
+
+/*-----------------Títulos - coursetag_nowyou_4----------------*/
+
+/*Título 3*/
+/*Título 2 - Verde*/
+.coursetag_nowyou_4 .bck-title-2 {
+  color: #5A75B8;
+}
+
+.coursetag_nowyou_4 .bck-title-3 {
+	color: #5A75B8;
+    background-color: #E0E2F3;
+}
+
+.coursetag_nowyou_4 .bck-title-12 {
+  color: #8BBF36;
+}
+
+/*título Wordlist*/
+.coursetag_nowyou_4 .bck-title-13 {
+  	color: #ffffff;
+    background-color: #7588C3;
+    font-size: 2.3rem;
+    font-family: 'Conv_FuturaStd-Medium';
+    font-weight: 500;
+    position: relative;
+    left: 0px;
+    width: fit-content;
+    border-radius: 50px;
+    padding: 10px;
+    font-weight: 700;
+}
+
+/*-------------Listas ordenadas - coursetag_nowyou_4------------*/
+
+/*Lista 2*/
+.coursetag_nowyou_4 #actividad .content .cke_contents ol.bck-ol-2 li:before,
+.coursetag_nowyou_4 #actividad .content .texto_curso ol.bck-ol-2 li:before,
+.coursetag_nowyou_4 #actividad .popover-content ol.bck-ol-2 li:before,
+.coursetag_nowyou_4 #actividad .content .workspace ul li ol.bck-ol-2 li:before {
+    color: #5A75B8;
+}
+
+/*------------Listas desordenadas - coursetag_nowyou_4-----------*/
+
+/*Lista desordenada 4*/
+
+.coursetag_nowyou_4 #actividad .content .texto_curso .bck-ul-4 li,
+.coursetag_nowyou_4 #actividad .content .workspace ul li .bck-ul-4 li ,
+.coursetag_nowyou_4 #actividad .popover-background.shown .popover-content .bck-ul-4 li {
+  color: #7588c3;
+}
+
+.coursetag_nowyou_4 #actividad .content .texto_curso .bck-ul-4 li:before,
+.coursetag_nowyou_4 #actividad .content .workspace ul li .bck-ul-4 li:before ,
+.coursetag_nowyou_4 #actividad .popover-background.shown .popover-content .bck-ul-4 li:before{
+    background-color: #7588c3;
+}
+
+/*-------------------Cajas - coursetag_nowyou_4------------------*/
+
+.coursetag_nowyou_4 .bck-box.bck-box-1 {
+    position: relative;
+    background: url(images/img_inicio_azul.png) repeat-y;
+    padding: 60px 18px 91px 83px;
+    background-size: cover;
+    top: -21px;
+    left: -97px;
+    width: 125.5%;
+}
+
+/*caja 3*/
+
+.coursetag_nowyou_4 .bck-box.bck-box-3 {
+  background: #7C8FC7;
+}
+
+.coursetag_nowyou_4 .bck-box.bck-box-3 .bck-content {
+    background-color: #7C8FC7;
+}
+
+
+.coursetag_nowyou_4 .bck-box.bck-box-3 .bck-title {
+	color: #7C8FC7;
+}
+
+/*caja 6*/
+.coursetag_nowyou_4 .bck-box.bck-box-6 .bck-content{
+	background-color: #D6CBE5;
+}
+
+
+/*caja 7*/
+.coursetag_nowyou_4 .bck-box.bck-box-7 .bck-content {
+    border: 3px dotted #8BBF36;
+}
+
+/*Caja 17*/
+
+.coursetag_nowyou_4 .bck-box.bck-box-17 .bck-content {
+    border: 3px dotted #214B8E;
+}
+
+/*Caja 24 */
+
+.coursetag_nowyou_4 .bck-box.bck-box-24 {
+  background: #82c44c;
+}
+
+.coursetag_nowyou_4 .bck-box.bck-box-24 .bck-content {
+   background-color: #82c44c;
+}
+
+
+/*caja UseFulLenguage*/
+.coursetag_nowyou_4 .bck-box.bck-box-26 {
+    border: 3px solid #5A75B8;
+}
+
+.coursetag_nowyou_4 .bck-box.bck-box-26 .bck-title {
+    background-color: #5A75B8;
+}
+
+
+/*-------------------Énfasis - coursetag_nowyou_4------------------*/
+
+/*Énfasis 1*/
+.coursetag_nowyou_4 .bck-enfasis-1 {
+	color: #7588C3;
+}
+
+/*Énfasis NowYou*/
+.coursetag_nowyou_4 .bck-enfasis-7 {
+	color: #5A75B8;
+    background-color: #E0E2F3;
+}
+
+/*.coursetag_nowyou_4 .bck-enfasis-5{
+	background-color: #8BBF36;
+}*/
+
+/*------------------Iconos - coursetag_nowyou_4--------------------*/
+
+/*Icono lápiz*/
+.coursetag_nowyou_4 .icon-lapiz:before {
+  background-image: url(images/icono_lapiz_azul.png);
+}
+
+/*Icono audio*/
+.coursetag_nowyou_4 #actividad .player.audio {
+  background-image: url(images/icono_audio_azul.png);
+}
+
+/*Icono hablar*/
+.coursetag_nowyou_4 .icon-hablar:before {
+  background-image: url(images/icono_pronunt_azul.png);
+}
+
+/*icono Fast*/
+.coursetag_nowyou_4 .icon-fast:before {
+  background-image: url(images/icon_fast_azul.png);
+}
+
+/*Dropdown 3*/
+.coursetag_nowyou_4 .bck-dropdown-3-icon>.fa{
+	border: 3px solid #6F3181;
+}
+
+.coursetag_nowyou_4 .bck-dropdown-3 .fa-chevron-down:before {
+    color: #6F3181;
+}
+
+.coursetag_nowyou_4 .bck-dropdown-3 .fa-chevron-up:before{
+	color: #6F3181;
+}
+
+.coursetag_nowyou_4 .bck-dropdown-3 .bck-dropdown-titulo{
+	color: #6F3181;
+}
+
 /****/
 
 @media screen and (max-width: 375px) {
