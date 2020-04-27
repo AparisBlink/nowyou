@@ -3794,6 +3794,92 @@ border-color: #009FA5;
 .coursetag_nowyou_4 .bck-dropdown-3 .bck-dropdown-titulo{
 	color: #6F3181;
 }
+/*******************************/
+/*Título toc*/
+.coursetag_nowyou_4 #indice .unit-content .header .title{
+	color: #7588c3;
+}
+
+/*TOC*/
+.coursetag_nowyou_4 #indice .units ul li.active:not(.disabled){
+	background: #7588c3 !important;
+}
+
+.coursetag_nowyou_4 #indice .units ul li:hover:not(.disabled){
+	background: #7588c3 !important;
+}
+
+
+.coursetag_nowyou_4 #indice .units ul li:focus:not(.disabled){
+	background: #7588c3 !important;
+}
+
+.coursetag_nowyou_4 #indice .units ul li.hover:not(.disabled), 
+.coursetag_nowyou_4 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
+.coursetag_nowyou_4 #indice .units ul li:hover:not(.disabled){
+	background: #7588c3 !important;
+}
+
+.coursetag_nowyou_4 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover, 
+.coursetag_nowyou_4 #book-index #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_4 #book-index #indice .unit-content .actividades .item.current{
+	background: #7588C3 !important;
+}
+
+
+/*índice lateral*/
+.coursetag_nowyou_4  #indice .unit-content .actividades .item:active, 
+.coursetag_nowyou_4  #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_4 #indice .unit-content .actividades .item.current{
+	border-bottom: 1px solid #434e6f;
+}
+
+.coursetag_nowyou_4 #book-index #indice .unit-content .actividades .item:hover, 
+.coursetag_nowyou_4 #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_4 #indice .unit-content .actividades .item.current{
+	border-bottom: 2px solid #434e6f !important;
+}
+
+.coursetag_nowyou_4  #indice .unit-content .actividades .item:focus, 
+.coursetag_nowyou_4 #indice .unit-content .actividades .item.active, 
+.coursetag_nowyou_4 #indice .unit-content .actividades .item.current{
+	border-bottom: 2px solid #434e6f;
+}
+
+.coursetag_nowyou_4 #book-index .col-main{
+	background: #7588C3;
+}
+
+
+ .coursetag_nowyou_4 #indice .units ul li:not(.disabled) a:hover, 
+ .coursetag_nowyou_4 #indice .units ul li.active a{
+	background: #7588C3 !important;
+}
+
+
+
+/*enlaces*/
+.coursetag_nowyou_4 #indice .actividades a:hover, 
+.coursetag_nowyou_4 #indice .actividades a:active, 
+.coursetag_nowyou_4 #indice .actividades a:focus{
+	color: #5A75B8;
+}
+
+/*btn*/
+.coursetag_nowyou_4 .btn-primary, 
+.coursetag_nowyou_4 .btn-primary.disabled, 
+.coursetag_nowyou_4 .btn-primary.disabled:focus{
+	background: #5A75B8;
+}
+
+.coursetag_nowyou_4 .btn-danger, 
+.coursetag_nowyou_4 .btn-danger[disabled]{
+	background: #5A75B8;
+}
+
+.coursetag_nowyou_4 #actividad .content .review .attemps span {
+    background-color: #5A75B8;
+}
 
 /****/
 
