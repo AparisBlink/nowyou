@@ -3780,20 +3780,21 @@ border-color: #009FA5;
 
 /*Dropdown 3*/
 .coursetag_nowyou_4 .bck-dropdown-3-icon>.fa{
-	border: 3px solid #6F3181;
+	border: 3px solid #7588c3;
 }
 
 .coursetag_nowyou_4 .bck-dropdown-3 .fa-chevron-down:before {
-    color: #6F3181;
+    color: #7588c3;
 }
 
 .coursetag_nowyou_4 .bck-dropdown-3 .fa-chevron-up:before{
-	color: #6F3181;
+	color: #7588c3;
 }
 
 .coursetag_nowyou_4 .bck-dropdown-3 .bck-dropdown-titulo{
-	color: #6F3181;
+	color: #7588c3;
 }
+
 /*******************************/
 /*Título toc*/
 .coursetag_nowyou_4 #indice .unit-content .header .title{
