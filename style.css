@@ -476,8 +476,15 @@ body.is_app .nowyou-navbar.ocultar {
 /**/
 
 /* CKEDITOR */
-#actividad .content img {
+/*#actividad .content img {
   margin-top: 0px;
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+}*/
+
+#actividad .content img {
+  margin-top: 20px;
   -webkit-border-radius: 5px;
      -moz-border-radius: 5px;
           border-radius: 5px;
