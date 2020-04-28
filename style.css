@@ -3258,7 +3258,7 @@ border-color: #009FA5;
 
 /*Dropdown 3*/
 .coursetag_nowyou_2 .bck-dropdown-3-icon>.fa{
-	border: 3px solid #6F3181;
+	border: 3px solid #6F3181 !important;
 }
 
 .coursetag_nowyou_2 .bck-dropdown-3 .fa-chevron-down:before {
