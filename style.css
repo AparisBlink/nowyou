@@ -3257,8 +3257,8 @@ border-color: #009FA5;
 }
 
 /*Dropdown 3*/
-.coursetag_nowyou_2 .bck-dropdown-3-icon>.fa{
-	border: 3px solid #6F3181 !important;
+.coursetag_nowyou_2 .bck-dropdown-icon>.fa{
+	border: 3px solid #6F3181;
 }
 
 .coursetag_nowyou_2 .bck-dropdown-3 .fa-chevron-down:before {
@@ -3272,7 +3272,6 @@ border-color: #009FA5;
 .coursetag_nowyou_2 .bck-dropdown-3 .bck-dropdown-titulo{
 	color: #6F3181;
 }
-
 
 /*******************************/
 /*Título toc*/
