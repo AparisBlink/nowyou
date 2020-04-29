@@ -3192,12 +3192,6 @@ border-color: #009FA5;
 	color: #80539D;
 }
 
-/*CAJA6- CajaWordPool*/
-/*.coursetag_nowyou_2 .bck-box.bck-box-6 {
-    background-color: #E0ECC9;
-}*/
-
-
 
 /*caja 7*/
 .coursetag_nowyou_2 .bck-box.bck-box-7 .bck-content {
@@ -3459,6 +3453,11 @@ border-color: #009FA5;
 
 .coursetag_nowyou_3 .bck-box.bck-box-3 .bck-title {
 	color: #A7CB62;
+}
+
+/*CAJA6- CajaWordPool*/
+.coursetag_nowyou_3 .bck-box.bck-box-6 {
+    background-color: #E0ECC9;
 }
 
 /*Caja 17*/
