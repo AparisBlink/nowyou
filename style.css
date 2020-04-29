@@ -645,6 +645,10 @@ vertical-align: top;
   padding-top: 15px;
 }
 
+#actividad .workspace.clasificar .clasificar_conjuntos .group-name-title{
+  padding-bottom: 5px;
+}
+
 /*ordenar*/
 #actividad .workspace.ordenar.ordenar_horizontal li{
 	padding: 4px 40px;
