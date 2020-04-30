@@ -635,13 +635,14 @@ vertical-align: top;
 
 /**/
 /*Classify activities*/
+/*Classify activities*/
 #actividad .workspace.clasificar .clasificar_lista .classify-item {
-  border-color: #ffab7d;
+  border-color: #64bcd59c;
   padding: 6px;
 }
 
 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
-  border: 3px solid #fcd7c3;
+  border: 3px solid #64bcd59c;
   padding-top: 15px;
 }
 
