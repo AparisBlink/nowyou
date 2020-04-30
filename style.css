@@ -3549,33 +3549,33 @@ border-color: #009FA5;
 /*******portada******/
 /*Título toc*/
 .coursetag_nowyou_3 #indice .unit-content .header .title{
-	color: #8ebb1e;
+	color: #7ba21b;
 }
 
 /*TOC*/
 .coursetag_nowyou_3 #indice .units ul li.active:not(.disabled){
-	background: #8ebb1e !important;
+	background: #7ba21b !important;
 }
 
 .coursetag_nowyou_3 #indice .units ul li:hover:not(.disabled){
-	background: #8ebb1e !important;
+	background: #7ba21b !important;
 }
 
 
 .coursetag_nowyou_3 #indice .units ul li:focus:not(.disabled){
-	background: #8ebb1e !important;
+	background: #7ba21b !important;
 }
 
 .coursetag_nowyou_3 #indice .units ul li.hover:not(.disabled), 
 .coursetag_nowyou_3 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 .coursetag_nowyou_3 #indice .units ul li:hover:not(.disabled){
-	background: #8ebb1e !important;
+	background: #7ba21b !important;
 }
 
 .coursetag_nowyou_3 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover, 
 .coursetag_nowyou_3 #book-index #indice .unit-content .actividades .item.active, 
 .coursetag_nowyou_3 #book-index #indice .unit-content .actividades .item.current{
-	background: #8ebb1e !important;
+	background: #7ba21b !important;
 }
 
 /*índice lateral*/
