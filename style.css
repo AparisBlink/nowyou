@@ -3634,6 +3634,22 @@ border-color: #009FA5;
     background-color: #8BBF36;
 }
 
+/*actividades*/
+/*Classify activities*/
+.coursetag_nowyou_3 #actividad .workspace.clasificar .clasificar_lista .classify-item {
+  border-color: #8bbf3687;
+  padding: 6px 6px 10px 6px;
+}
+
+.coursetag_nowyou_3 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
+  border: 3px solid #8bbf3687;
+    padding-top: 15px;
+}
+
+.coursetag_nowyou_3 #actividad .workspace.clasificar .clasificar_conjuntos .row .col-centered{
+	margin-top: 15px;
+}
+
 /*----------------------------Tag Libro 4 - coursetag_nowyou_4----------------------------*/
 
 /*-----------------Títulos - coursetag_nowyou_4----------------*/
