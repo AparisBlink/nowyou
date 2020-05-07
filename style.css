@@ -3583,7 +3583,7 @@ border-color: #009FA5;
 
 /*TOC*/
 .coursetag_nowyou_3 #indice .units ul li.active:not(.disabled){
-	background: #8BBF36 !important;
+	background: #8ebb1e !important;
 }
 
 .coursetag_nowyou_3 #indice .units ul li:hover:not(.disabled){
@@ -3592,13 +3592,13 @@ border-color: #009FA5;
 
 
 .coursetag_nowyou_3 #indice .units ul li:focus:not(.disabled){
-	background: #8BBF36 !important;
+	background: #8ebb1e !important;
 }
 
 .coursetag_nowyou_3 #indice .units ul li.hover:not(.disabled), 
 .coursetag_nowyou_3 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 .coursetag_nowyou_3 #indice .units ul li:hover:not(.disabled){
-	background: #7ba21b !important;
+	background: #8ebb1e !important;
 }
 
 .coursetag_nowyou_3 body:not(.isTablet) #book-index #indice .unit-content .actividades .item:hover, 
