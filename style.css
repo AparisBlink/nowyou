@@ -3633,12 +3633,12 @@ border-color: #009FA5;
 
 .coursetag_nowyou_3 #indice .units ul li:not(.disabled) a:hover, 
 .coursetag_nowyou_3 #indice .units ul li.active a{
-	background: #8BBF36 !important;
+	background: #8ebb1e !important;
 }
 
 .coursetag_nowyou_3 body:not(.isTablet) #book-index #indice .units ul li:not(.disabled) a:hover, 
 .coursetag_nowyou_3 #book-index #indice .units ul li.active a{
-	background: #8BBF36;
+	background: #8ebb1e;
 }
 
 /*enlaces*/
