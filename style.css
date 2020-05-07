@@ -627,6 +627,10 @@ vertical-align: top;
 	background: #ffff;
 }
 
+.cke_wysiwyg_div{
+	background: #ffff;
+}
+
 /*relacionar altura linea*/
 #actividad .box p{
 	font-size: 2rem;
