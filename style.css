@@ -3106,6 +3106,18 @@ border-color: #009FA5;
 	padding-left: 20px !important;
 }
 
+#list-units .unittag_activities_nowyou:hover:not(.disabled) {
+    background-color: #0ca1ea !important;
+}
+
+#list-units .unittag_activities_nowyou:active:not(.disabled) {
+    background-color: #0ca1ea !important;
+}
+
+#list-units .unittag_activities_nowyou:focus:not(.disabled) {
+    background-color: #0ca1ea !important;
+}
+
 /*----------------------------Tag Libro 2 - coursetag_nowyou_2----------------------------*/
 
 /*-----------------Títulos - coursetag_nowyou_2----------------*/
