@@ -624,11 +624,11 @@ vertical-align: top;
 
 /*Redacción*/
 .cke_reset{
-	background: #ffff;
+	background: #ffff !important;
 }
 
 .cke_wysiwyg_div{
-	background: #ffff;
+	background: #ffff !important;
 }
 
 /*relacionar altura linea*/
