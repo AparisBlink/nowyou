@@ -627,7 +627,8 @@ vertical-align: top;
 	background: #ffff !important;
 }
 
-.cke_wysiwyg_div{
+.cke_wysiwyg_div, 
+.cke_inner{
 	background: #ffff !important;
 }
 
