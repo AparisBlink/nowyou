@@ -1432,7 +1432,52 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     top: 5px;
     left: 12px;
     line-height: 25px;
+}
 
+/*Lista Grid 6*/
+#actividad .content .cke_contents .bck-ol-7,
+#actividad .content .texto_curso .bck-ol-7,
+#actividad .content .workspace ul li .bck-ol-7,
+#actividad .popover-content .bck-ol-7 {
+  list-style-type: none;
+  counter-reset: bck-li-counter;
+  margin-left: -10px;
+}
+
+#actividad .content .cke_contents .bck-ol-7 li,
+#actividad .content .cke_contents .bck-ol-7 li,
+#actividad .content .texto_curso .bck-ol-7 li,
+#actividad .popover-content .bck-ol-7 li,
+#actividad .content .workspace ul li .bck-ol-7 li {
+    counter-increment: bck-li-counter;
+    padding-left: 0px;
+    position: relative;
+    z-index: 0;
+    font-weight: 500;
+    margin-left: 0px;
+    margin-top: 10px;
+    font-size: 1.9rem;
+    font-weight: 500;
+    line-height: 1.8em!important;
+}
+
+#actividad .content .cke_contents ol.bck-ol-7 li:before,
+#actividad .content .texto_curso ol.bck-ol-7 li:before,
+#actividad .popover-content ol.bck-ol-7 li:before,
+#actividad .content .workspace ul li ol.bck-ol-7 li:before {
+	content: counter(bck-li-counter);
+	color: #fff;
+	background-color: #333;
+    position: absolute;
+    margin-left: -45px;
+    margin-right: 0px;
+    font-size: 1.6rem;
+    text-align: center;
+    font-weight: 700;
+    padding: 0px 6px;
+    top: 5px;
+    left: 12px;
+    line-height: 25px;
 }
 
 /**/
