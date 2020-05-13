@@ -667,6 +667,11 @@ vertical-align: top;
 #actividad .workspace.ordenar .js-rank-item{
 	margin-bottom: 16px;
 }
+
+#actividad .workspace.ordenar li>p{
+	line-height: 1.3;
+}
+
 /**/
 
 /*Icono audio*/
