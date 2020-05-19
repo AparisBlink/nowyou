@@ -2952,6 +2952,11 @@ border-color: #009FA5;
 	padding-right: 6px !important;
 }
 
+/*crucigramas*/
+.slide.crosswords-puzzle .enunciados{
+	width: 325px;
+}
+
 /*Boton toc - boton reininciar ejercicio*/
 
 .btn-primary {
@@ -4275,7 +4280,12 @@ border-color: #009FA5;
 .icon-nivel6:before{
 	position: relative;
     left: -86px;
-}	
+}
+	
+/*crucigramas*/
+.slide.crosswords-puzzle .enunciados{
+	width: 238px;
+}
 }
 
 @media only screen and (max-width: 1024px) and (min-width: 769px)  {
