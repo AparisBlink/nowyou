@@ -920,7 +920,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     left: 0px;
     width: fit-content;
     border-radius: 50px;
-    padding: 10px;
+    padding: 10px 13px;
     font-weight: 700;
 }
 
