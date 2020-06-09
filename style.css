@@ -567,9 +567,9 @@ vertical-align: top;
 /*SeÃ±alar respuesta - Respuesta en lÃ­nea*/
 #actividad .workspace.chooseblanks .inline-answer a {
   display: inline-block;
-  vertical-align: initial;
+  vertical-align: text-top;
   border: 2px solid #00bdff;
-  color: #414141;
+  color: #787878;
   padding: 0px 6px;
   margin: 2px;
   -webkit-border-radius: 13px;
@@ -594,6 +594,12 @@ vertical-align: top;
   background-color: #ffffff;
   padding: 6px;
   font-size: 2.5rem;
+}
+
+#actividad .workspace.chooseblanks .inline-answer{
+	display: inline;
+    position: relative;
+    top: -9px;
 }
 
 #actividad .workspace.chooseblanks .solucion {
