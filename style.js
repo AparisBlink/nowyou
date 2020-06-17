@@ -13,7 +13,6 @@
 		ckEditorStyles: {
 			name: 'nowyou',
 			styles: [
-				{ name: 'Título Intro', element: 'h2', attributes: { 'class': 'bck-title-intro'} },
 				{ name: 'Título 1', element: 'h2', attributes: { 'class': 'bck-title-1'} },
 				{ name: 'Título Verde', element: 'h2', attributes: { 'class': 'bck-title-2'} },
 				{ name: 'Título NowYou', element: 'h2', attributes: { 'class': 'bck-title-3'} },
