@@ -850,7 +850,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     margin-top: 0px;
 }
 
-/*TÃ­tulo Project*/
+/*TÃ­tulo Project
 .bck-title-5 {
   background-image: url(Images/project-nowyou.png);
   background-size: contain;
@@ -859,7 +859,7 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   height: auto;
   font-size: 9rem;
   margin-top: 0px;
-}
+}*/
 
 /*Título 10*/
 .bck-title-10 {
