@@ -99,7 +99,6 @@
 				{ name: 'Tabla azulOscuro', element: 'table', type: 'bck-stack-class', attributes: { 'class': 'bck-table-7'} },
 				
 				{ name: 'Celda Color', element: 'td', attributes: { 'class': 'bck-td-2'} },
-				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td-3'} },
 				{ name: 'Celda verde', element: 'td', attributes: { 'class': 'bck-td-4'} },
 				{ name: 'Celda SinBorderTop', element: 'td', attributes: { 'class': 'bck-td-5'} },
 				{ name: 'Celda SinBorderLeft', element: 'td', attributes: { 'class': 'bck-td-6'} },
