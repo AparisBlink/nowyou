@@ -3017,6 +3017,17 @@ border-color: #009FA5;
 }
 
 /**/
+.bck-dropdown-icon>.fa{
+	display: inline-block;
+    border: none;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    padding: 7px;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
 
 /*Dropdown 1*/
 
