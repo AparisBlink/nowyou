@@ -721,11 +721,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
   box-shadow: 2px 2px 2px undefinedpx #A8A3A2;
 }
 
-.bck-title-intro {
-  font-size: 5rem;
-  color: #ea5b0c;
-}
-
 /*Titulo 1*/
 .bck-title-1 {
     color: #ffff;
