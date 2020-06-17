@@ -1633,23 +1633,6 @@ body:not(.edit) #actividad a:not(.cke_button):not(.zoom_flag_img) {
     transform: rotate(3deg);
 }
 
-/*CAJA5- CajaInicioUnidad*/
-
-.bck-box.bck-box-5 {
-  margin-top: -227px !important;
-  border: 0px;
-  position: absolute !important;
-}
-
-.bck-box-5 .bck-title {
-  
-}
-
-.bck-box.bck-box-5 .bck-content {
-  background-color: #FFF;
-  padding: 0px;
-}
-
 /*CAJA6- CajaWordPool */
 
 .bck-box.bck-box-6 {
