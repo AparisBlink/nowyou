@@ -4038,6 +4038,22 @@ border-color: #009FA5;
     background-color: #5A75B8;
 }
 
+/*actividades*/
+/*Classify activities*/
+.coursetag_nowyou_4 #actividad .workspace.clasificar .clasificar_lista .classify-item {
+  border-color: #5a75b887;
+  padding: 6px 6px 10px 6px;
+}
+
+.coursetag_nowyou_4 #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
+  border: 3px solid #5a75b887;
+    padding-top: 15px;
+}
+
+.coursetag_nowyou_4 #actividad .workspace.clasificar .clasificar_conjuntos .row .col-centered{
+	margin-top: 15px;
+}
+
 /****/
 
 @media screen and (max-width: 375px) {
