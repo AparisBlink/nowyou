@@ -3833,7 +3833,6 @@ border-color: #009FA5;
 }
 
 /*caja 3*/
-
 .coursetag_nowyou_4 .bck-box.bck-box-3 {
   background: #7C8FC7;
 }
@@ -3841,7 +3840,6 @@ border-color: #009FA5;
 .coursetag_nowyou_4 .bck-box.bck-box-3 .bck-content {
     background-color: #7C8FC7;
 }
-
 
 .coursetag_nowyou_4 .bck-box.bck-box-3 .bck-title {
 	color: #7C8FC7;
@@ -3858,13 +3856,11 @@ border-color: #009FA5;
 }
 
 /*Caja 17*/
-
 .coursetag_nowyou_4 .bck-box.bck-box-17 .bck-content {
     border: 3px dotted #214B8E;
 }
 
 /*Caja 24 */
-
 .coursetag_nowyou_4 .bck-box.bck-box-24 {
   background: #82c44c;
 }
@@ -3872,7 +3868,6 @@ border-color: #009FA5;
 .coursetag_nowyou_4 .bck-box.bck-box-24 .bck-content {
    background-color: #82c44c;
 }
-
 
 /*caja UseFulLenguage*/
 .coursetag_nowyou_4 .bck-box.bck-box-26 {
@@ -3883,6 +3878,19 @@ border-color: #009FA5;
     background-color: #5A75B8;
 }
 
+/*Caja ExamTip*/
+.coursetag_nowyou_4 .bck-box.bck-box-32 {
+    border: 2px solid #80539D;
+    box-shadow: 9px 10px 0px -6px #5A75B8;
+}
+
+
+.coursetag_nowyou_4 .bck-box.bck-box-32 .bck-content {
+	padding-left: 30px;
+    background-color: #ffffff;
+    padding: 8px 8px 8px 19px;
+    box-shadow: 9px 10px 0px -6px #5A75B8;
+}
 
 /*-------------------Énfasis - coursetag_nowyou_4------------------*/
 
