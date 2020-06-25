@@ -3377,11 +3377,6 @@ border-color: #009FA5;
 }
 
 /*******************************/
-/*Título toc*/
-.coursetag_nowyou_2 #indice .unit-content .header .title{
-	color: #6f3181;
-}
-
 /*TOC*/
 .coursetag_nowyou_2 #indice .units ul li.active:not(.disabled){
 	background: #6f3181 !important;
@@ -3657,11 +3652,6 @@ border-color: #009FA5;
 }
 
 /*******portada******/
-/*Título toc*/
-.coursetag_nowyou_3 #indice .unit-content .header .title{
-	color: #8BBF36;
-}
-
 /*TOC*/
 .coursetag_nowyou_3 #indice .units ul li.active:not(.disabled){
 	background: #8ebb1e !important;
@@ -3958,11 +3948,6 @@ border-color: #009FA5;
 }
 
 /*******************************/
-/*Título toc*/
-.coursetag_nowyou_4 #indice .unit-content .header .title{
-	color: #7588c3;
-}
-
 /*TOC*/
 .coursetag_nowyou_4 #indice .units ul li.active:not(.disabled){
 	background: #7588c3 !important;
